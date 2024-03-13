@@ -1,5 +1,8 @@
 import csv
 import requests
+import os
+
+from dotenv import load_dotenv
 
 # can only make max 50 requests, up 1000 restaurants at a time
 """
@@ -31,13 +34,12 @@ def search_yelp(api_key, term, location, offset=0):
 
     return data
 
-
-# pls dont leak my api key
-api_key = "MLPbXBjI2lN184CLPTquGwmAQYxgUsPRcQpNmUHJofrsqOKEidOu86YOEFj2MsUxloCTWByoCSjIyB6N0BWix5jIv8jT-q8lOf3BkyQumAR0Sgkqt1HFJ5kh-xTxZXYx"
+load_dotenv()
+api_key = os.getenv('YELP_API_KEY')
 
 # set location to whatever
 term = "restaurant"
-location = "Victoria, BC"
+location = "victoria"
 
 
 def write_to_csv(businesses, filename):
