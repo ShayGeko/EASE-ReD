@@ -1,6 +1,7 @@
 import csv
-import requests
 import os
+import requests
+import sys
 
 from dotenv import load_dotenv
 
@@ -34,12 +35,6 @@ def search_yelp(api_key, term, location, offset=0):
 
     return data
 
-load_dotenv()
-api_key = os.getenv('YELP_API_KEY')
-
-# set location to whatever
-term = "restaurant"
-location = "victoria"
 
 
 def write_to_csv(businesses, filename):
@@ -57,14 +52,26 @@ def write_to_csv(businesses, filename):
             writer.writerow(row)
 
 
-# list for csv
-totalBus = []
+def main():
+    load_dotenv()
+    api_key = os.getenv('YELP_API_KEY')
 
-for i in range(0, totalRest, 50):
-    data = search_yelp(api_key, term, location, offset=i)
-    if "businesses" in data:
-        totalBus.extend(data["businesses"])
+    # set location to whatever
+    term = "restaurant"
+    location = sys.argv[1]  if len(sys.argv)>1 else "victoria"
 
+    # list for csv
+    totalBus = []
 
-# write to csv
-write_to_csv(totalBus, f"{location}.csv")
+    for i in range(0, totalRest, 50):
+        data = search_yelp(api_key, term, location, offset=i)
+        if "businesses" in data:
+            totalBus.extend(data["businesses"])
+
+    # write to csv
+    if not os.path.exists("csv"):
+        os.makedirs("csv")
+    write_to_csv(totalBus, os.path.join("csv", f"{location}.csv"))
+
+if __name__ == "__main__":
+    main()
