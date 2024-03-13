@@ -161,3 +161,5 @@ cython_debug/
 
 # dataset
 osm/amenities-vancouver.json.gz
+
+.DS_Store
