@@ -126,7 +126,7 @@ cuisine_types = {
 # idk where to find the .env file
 apiKey = ""
 
-location = "Victoria, BC, Canada"
+location = "Kelowna, BC, Canada"
 
 with open(f"{location}.csv", "w", newline="") as file:
     writer = csv.writer(file)
