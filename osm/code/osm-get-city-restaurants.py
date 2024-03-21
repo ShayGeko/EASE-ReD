@@ -20,7 +20,10 @@ def get_city_restaurants_with_cuisine(city:str="Vancouver"):
     """
     encoded_query = urlencode({"data": query})
     headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+    
+    print(f"sending the query for {city}")
     response = requests.post(url, data=encoded_query, headers=headers)
+    print(f"got response for {city}")
     return response
 
 def get_all_city_restaurants(city:str="Vancouver"):
@@ -37,7 +40,10 @@ def get_all_city_restaurants(city:str="Vancouver"):
     """
     encoded_query = urlencode({"data": query})
     headers = {'Content-Type': 'application/x-www-form-urlencoded'}
+
+    print(f"sending the query for {city}")
     response = requests.post(url, data=encoded_query, headers=headers)
+    print(f"got response for {city}")
     return response
 
 def xml2dict(xml: str):
