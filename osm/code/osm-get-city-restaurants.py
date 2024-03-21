@@ -52,7 +52,7 @@ def xml2dict(xml: str):
         }
         for tag in node.findall('./tag'):
             node_data["tags"][tag.attrib.get("k")] = tag.attrib.get("v")
-        data.append(node_data)
+        data["nodes"].append(node_data)
 
     return data
 
