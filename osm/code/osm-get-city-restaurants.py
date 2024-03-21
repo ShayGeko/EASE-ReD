@@ -11,12 +11,12 @@ def get_city_restaurants_with_cuisine(city:str="Vancouver"):
     url = "https://overpass-api.de/api/interpreter"
     query = f"""
     [out:xml][timeout:90];
-    area[name="{city}"][admin_level=8]->.searchArea;
+    area[name="{city}"];
     (
-      node(area.searchArea)["amenity"="restaurant"]["cuisine"];
-      node(area.searchArea)["amenity"="cafe"]["cuisine"];
+      node(area)["amenity"="restaurant"]["cuisine"];
+      node(area)["amenity"="cafe"]["cuisine"];
     );
-    out meta;
+    out;
     """
     encoded_query = urlencode({"data": query})
     headers = {'Content-Type': 'application/x-www-form-urlencoded'}
@@ -31,12 +31,12 @@ def get_all_city_restaurants(city:str="Vancouver"):
     url = "https://overpass-api.de/api/interpreter"
     query = f"""
     [out:xml][timeout:90];
-    area[name="{city}"][admin_level=8]->.searchArea;
+    area[name="{city}"];
     (
-      node(area.searchArea)["amenity"="restaurant"];
-      node(area.searchArea)["amenity"="cafe"];
+      node(area)["amenity"="restaurant"];
+      node(area)["amenity"="cafe"];
     );
-    out meta;
+    out;
     """
     encoded_query = urlencode({"data": query})
     headers = {'Content-Type': 'application/x-www-form-urlencoded'}
