@@ -1,3 +1,8 @@
+"""
+creates a new csv file with translated data from the input csv file
+using googletrans library
+"""
+
 import csv
 import os
 from googletrans import Translator
