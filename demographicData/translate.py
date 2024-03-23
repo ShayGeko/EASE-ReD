@@ -7,11 +7,14 @@ import csv
 import os
 from googletrans import Translator
 
+filename = "berlin.csv"
+outputName = "berline_translated.csv"
+
 # input csv
-filepath = os.path.join(os.path.dirname(__file__), "berlin.csv")
+filepath = os.path.join(os.path.dirname(__file__), filename)
 
 # output csv
-output_filepath = os.path.join(os.path.dirname(__file__), "translated.csv")
+output_filepath = os.path.join(os.path.dirname(__file__), outputName)
 translator = Translator()
 
 with open(filepath, newline="", encoding="iso-8859-1") as csvfile, open(
