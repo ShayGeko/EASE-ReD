@@ -3,3 +3,6 @@ Column Names: Staatsangeh - Nationality
 D Deutsch - German 
 A Ausländisch - Foregin 
 
+1.2 Berlin Data Site 
+https://www-genesis.destatis.de/genesis/online?operation=abruftabelleBearbeiten&levelindex=1&levelid=1711164936288&auswahloperation=abruftabelleAuspraegungAuswaehlen&auswahlverzeichnis=ordnungsstruktur&auswahlziel=werteabruf&code=12411-0002&auswahltext=&werteabruf=Value+retrieval#abreadcrumb
+
