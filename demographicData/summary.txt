@@ -1,0 +1,5 @@
+1. Berlin Data 
+Column Names: Staatsangeh - Nationality
+D Deutsch - German 
+A Ausländisch - Foregin 
+
