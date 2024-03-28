@@ -1,0 +1,211 @@
+﻿"Special Interest Profile, 2021 Census of Population"
+"Geography: Richmond (City), British Columbia [Census subdivision]"
+"Ethnic or cultural origin (101): Total - Ethnic or cultural origin"
+"Age (8): Total - Age"
+
+"Topic","Characteristic","Note","Total - Gender (1)","Total - Gender_Symb","Men+ (2)","Men+_Symb","Women+ (3)","Women+_Symb",
+"Visible minority","Total - Visible minority for the population in private households - 25% sample data",102,208395,"", 99760,"",108635,"",
+"Visible minority","  Total visible minority population",103,167395,"", 78965,"", 88425,"",
+"Visible minority","    South Asian",, 15365,"",  7615,"",  7750,"",
+"Visible minority","    Chinese",,113060,"", 52840,"", 60220,"",
+"Visible minority","    Black",,  1775,"",   925,"",   855,"",
+"Visible minority","    Filipino",, 15130,"",  7015,"",  8110,"",
+"Visible minority","    Arab",,  2200,"",  1140,"",  1065,"",
+"Visible minority","    Latin American",,  2155,"",  1070,"",  1085,"",
+"Visible minority","    Southeast Asian",,  3310,"",  1575,"",  1730,"",
+"Visible minority","    West Asian",,  1675,"",   830,"",   845,"",
+"Visible minority","    Korean",,  2035,"",   905,"",  1135,"",
+"Visible minority","    Japanese",,  3885,"",  1725,"",  2160,"",
+"Visible minority","    Visible minority, n.i.e.",104,   710,"",   320,"",   385,"",
+"Visible minority","    Multiple visible minorities",,  6090,"",  3015,"",  3080,"",
+"Visible minority","  Not a visible minority",105, 41005,"", 20795,"", 20210,"",
+"Ethnic or cultural origin","Total - Ethnic or cultural origin for the population in private households - 25% sample data",106,208395,"", 99760,"",108635,"",
+"Ethnic or cultural origin","  Canadian",,  8280,"",  4470,"",  3805,"",
+"Ethnic or cultural origin","  English",, 12185,"",  6220,"",  5960,"",
+"Ethnic or cultural origin","  Irish",,  7715,"",  3660,"",  4055,"",
+"Ethnic or cultural origin","  Scottish",,  9755,"",  4860,"",  4895,"",
+"Ethnic or cultural origin","  French, n.o.s.",107,  3210,"",  1585,"",  1630,"",
+"Ethnic or cultural origin","  German",,  6310,"",  3130,"",  3175,"",
+"Ethnic or cultural origin","  Chinese",, 99780,"", 46615,"", 53165,"",
+"Ethnic or cultural origin","  Italian",,  2135,"",  1130,"",  1005,"",
+"Ethnic or cultural origin","  Indian (India)",,  9330,"",  4655,"",  4680,"",
+"Ethnic or cultural origin","  Ukrainian",,  3195,"",  1400,"",  1790,"",
+"Ethnic or cultural origin","  Dutch",,  1805,"",   885,"",   920,"",
+"Ethnic or cultural origin","  Polish",,  2030,"",   955,"",  1070,"",
+"Ethnic or cultural origin","  Québécois",,   105,"",    70,"",    40,"",
+"Ethnic or cultural origin","  British Isles, n.o.s.",108,  2900,"",  1550,"",  1350,"",
+"Ethnic or cultural origin","  Filipino",, 15905,"",  7475,"",  8430,"",
+"Ethnic or cultural origin","  French Canadian",,   580,"",   310,"",   275,"",
+"Ethnic or cultural origin","  Caucasian (White), n.o.s.",109,  1215,"",   630,"",   580,"",
+"Ethnic or cultural origin","  First Nations (North American Indian), n.o.s.",110,   650,"",   310,"",   335,"",
+"Ethnic or cultural origin","  Métis",,   445,"",   210,"",   235,"",
+"Ethnic or cultural origin","  European, n.o.s.",111,  1480,"",   760,"",   720,"",
+"Ethnic or cultural origin","  Russian",,  3050,"",  1445,"",  1600,"",
+"Ethnic or cultural origin","  Norwegian",,  1355,"",   685,"",   665,"",
+"Ethnic or cultural origin","  Welsh",,  1175,"",   530,"",   645,"",
+"Ethnic or cultural origin","  Portuguese",,   925,"",   410,"",   510,"",
+"Ethnic or cultural origin","  American",,   940,"",   470,"",   465,"",
+"Ethnic or cultural origin","  Spanish",,  2485,"",  1185,"",  1300,"",
+"Ethnic or cultural origin","  Swedish",,  1140,"",   520,"",   620,"",
+"Ethnic or cultural origin","  Hungarian",,   770,"",   400,"",   370,"",
+"Ethnic or cultural origin","  Acadian",,    85,"",    35,"",    50,"",
+"Ethnic or cultural origin","  Pakistani",,  1235,"",   620,"",   615,"",
+"Ethnic or cultural origin","  African, n.o.s.",112,   570,"",   280,"",   290,"",
+"Ethnic or cultural origin","  Jewish",,  2200,"",  1065,"",  1130,"",
+"Ethnic or cultural origin","  Punjabi",,  1895,"",   905,"",   985,"",
+"Ethnic or cultural origin","  Vietnamese",,  2300,"",  1140,"",  1160,"",
+"Ethnic or cultural origin","  Arab, n.o.s.",113,   950,"",   485,"",   470,"",
+"Ethnic or cultural origin","  Greek",,   745,"",   380,"",   370,"",
+"Ethnic or cultural origin","  Jamaican",,   220,"",   120,"",   105,"",
+"Ethnic or cultural origin","  Asian, n.o.s.",114,  6230,"",  2795,"",  3430,"",
+"Ethnic or cultural origin","  Cree, n.o.s.",115,   135,"",    75,"",    65,"",
+"Ethnic or cultural origin","  Korean",,  2230,"",  1015,"",  1210,"",
+"Ethnic or cultural origin","  Romanian",,   595,"",   340,"",   260,"",
+"Ethnic or cultural origin","  Lebanese",,   185,"",   120,"",    70,"",
+"Ethnic or cultural origin","  Iranian",,   920,"",   465,"",   460,"",
+"Ethnic or cultural origin","  Christian, n.i.e.",116,   665,"",   330,"",   340,"",
+"Ethnic or cultural origin","  Danish",,   710,"",   370,"",   345,"",
+"Ethnic or cultural origin","  North American Indigenous, n.o.s.",117,   165,"",    70,"",    95,"",
+"Ethnic or cultural origin","  Sikh",,  1445,"",   700,"",   740,"",
+"Ethnic or cultural origin","  Austrian",,   725,"",   365,"",   360,"",
+"Ethnic or cultural origin","  Belgian",,   290,"",   130,"",   155,"",
+"Ethnic or cultural origin","  Haitian",,    15,"",    10,"",    10,"",
+"Ethnic or cultural origin","  Hindu",,   505,"",   225,"",   275,"",
+"Ethnic or cultural origin","  Mexican",,   730,"",   380,"",   345,"",
+"Ethnic or cultural origin","  Mennonite",,   155,"",    70,"",    85,"",
+"Ethnic or cultural origin","  Swiss",,   330,"",   150,"",   175,"",
+"Ethnic or cultural origin","  Finnish",,   360,"",   145,"",   215,"",
+"Ethnic or cultural origin","  Sri Lankan",,   325,"",   145,"",   185,"",
+"Ethnic or cultural origin","  Croatian",,   545,"",   245,"",   300,"",
+"Ethnic or cultural origin","  Japanese",,  4820,"",  2180,"",  2635,"",
+"Ethnic or cultural origin","  South Asian, n.o.s.",118,  1025,"",   560,"",   460,"",
+"Ethnic or cultural origin","  Mi'kmaq, n.o.s.",119,    40,"",    20,"",    25,"",
+"Ethnic or cultural origin","  Northern European, n.o.s.",120,   425,"",   175,"",   250,"",
+"Ethnic or cultural origin","  Muslim",,   615,"",   310,"",   300,"",
+"Ethnic or cultural origin","  Egyptian",,   500,"",   285,"",   220,"",
+"Ethnic or cultural origin","  Latin, Central or South American, n.o.s.",121,   405,"",   220,"",   185,"",
+"Ethnic or cultural origin","  Tamil",,   270,"",   135,"",   135,"",
+"Ethnic or cultural origin","  Icelandic",,   430,"",   230,"",   200,"",
+"Ethnic or cultural origin","  Colombian",,   245,"",   120,"",   130,"",
+"Ethnic or cultural origin","  Moroccan",,   140,"",    55,"",    85,"",
+"Ethnic or cultural origin","  Czech",,   315,"",   160,"",   160,"",
+"Ethnic or cultural origin","  Syrian",,   210,"",   110,"",   100,"",
+"Ethnic or cultural origin","  Guyanese",,    90,"",    45,"",    45,"",
+"Ethnic or cultural origin","  Afghan",,   385,"",   175,"",   205,"",
+"Ethnic or cultural origin","  Black, n.o.s.",122,    85,"",    25,"",    60,"",
+"Ethnic or cultural origin","  Serbian",,   360,"",   195,"",   160,"",
+"Ethnic or cultural origin","  Ojibway",,    10,"",    10,"",     0,"",
+"Ethnic or cultural origin","  Newfoundlander",,    70,"",    45,"",    20,"",
+"Ethnic or cultural origin","  Hong Konger",,  9760,"",  4740,"",  5015,"",
+"Ethnic or cultural origin","  Ontarian",,    20,"",    20,"",     0,"",
+"Ethnic or cultural origin","  Persian",,   425,"",   205,"",   220,"",
+"Ethnic or cultural origin","  Trinidadian/Tobagonian",,   135,"",    80,"",    55,"",
+"Ethnic or cultural origin","  Turkish",,   595,"",   330,"",   265,"",
+"Ethnic or cultural origin","  Inuit, n.o.s.",123,    20,"",     0,"",    15,"",
+"Ethnic or cultural origin","  Bangladeshi",,   250,"",   130,"",   120,"",
+"Ethnic or cultural origin","  Algerian",,   120,"",    70,"",    45,"",
+"Ethnic or cultural origin","  Brazilian",,   360,"",   185,"",   175,"",
+"Ethnic or cultural origin","  Nigerian",,   100,"",    55,"",    45,"",
+"Ethnic or cultural origin","  Armenian",,   245,"",   115,"",   125,"",
+"Ethnic or cultural origin","  Slovak",,   145,"",    70,"",    75,"",
+"Ethnic or cultural origin","  Eastern European, n.o.s.",124,   310,"",   155,"",   155,"",
+"Ethnic or cultural origin","  Somali",,   260,"",   150,"",   105,"",
+"Ethnic or cultural origin","  Taiwanese",,  6715,"",  3150,"",  3560,"",
+"Ethnic or cultural origin","  Iraqi",,   385,"",   190,"",   200,"",
+"Ethnic or cultural origin","  Salvadorean",,   205,"",   105,"",    95,"",
+"Ethnic or cultural origin","  African Caribbean",,    25,"",    20,"",    10,"",
+"Ethnic or cultural origin","  East or Southeast Asian, n.o.s.",125,   955,"",   430,"",   525,"",
+"Ethnic or cultural origin","  West or Central Asian or Middle Eastern, n.o.s.",126,   345,"",   170,"",   175,"",
+"Ethnic or cultural origin","  Caribbean, n.o.s.",127,    55,"",    35,"",    20,"",
+"Ethnic or cultural origin","  Algonquin",,     0,"",     0,"",     0,"",
+"Ethnic or cultural origin","  West Indian, n.o.s.",128,    60,"",    30,"",    30,"",
+"Ethnic or cultural origin","  Lithuanian",,    85,"",    25,"",    65,"",
+"Religion","Total - Religion for the population in private households - 25% sample data",129,208395,"", 99760,"",108635,"",
+"Religion","  Buddhist",, 11590,"",  4610,"",  6975,"",
+"Religion","  Christian",, 64400,"", 29120,"", 35285,"",
+"Religion","    Christian, n.o.s.",130, 19995,"",  8935,"", 11060,"",
+"Religion","    Anabaptist",,   490,"",   235,"",   250,"",
+"Religion","    Anglican",,  2630,"",  1175,"",  1455,"",
+"Religion","    Baptist",,  2415,"",  1050,"",  1370,"",
+"Religion","    Catholic",, 27870,"", 12835,"", 15030,"",
+"Religion","    Christian Orthodox",,  1725,"",   830,"",   895,"",
+"Religion","    Jehovah's Witness",,   485,"",   190,"",   290,"",
+"Religion","    Latter Day Saints",,   110,"",    35,"",    75,"",
+"Religion","    Lutheran",,   905,"",   350,"",   555,"",
+"Religion","    Methodist and Wesleyan (Holiness)",,   250,"",   120,"",   125,"",
+"Religion","    Pentecostal and other Charismatic",,   890,"",   395,"",   490,"",
+"Religion","    Presbyterian",,   590,"",   295,"",   295,"",
+"Religion","    Reformed",,   370,"",   170,"",   200,"",
+"Religion","    United Church",,  2500,"",  1055,"",  1450,"",
+"Religion","    Other Christian and Christian-related traditions",,  3180,"",  1455,"",  1725,"",
+"Religion","  Hindu",,  2605,"",  1280,"",  1325,"",
+"Religion","  Jewish",,  2515,"",  1180,"",  1335,"",
+"Religion","  Muslim",,  7625,"",  3770,"",  3855,"",
+"Religion","  Sikh",,  6985,"",  3450,"",  3540,"",
+"Religion","  Traditional (North American Indigenous) spirituality",,    40,"",    25,"",    10,"",
+"Religion","  Other religions and spiritual traditions",,  1495,"",   665,"",   830,"",
+"Religion","  No religion and secular perspectives",,111135,"", 55655,"", 55485,"",
+
+
+Notes:
+1,"""Gender"" refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman)."
+,"Gender includes the following concepts:"
+,"* gender identity, which refers to the gender that a person feels internally and individually;"
+,"* gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (e.g., clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender."
+,"A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's licence. A person's gender may change over time."
+,"Some people may not identify with a specific gender."
+,"Given that the non-binary population is small, data aggregation to a two-category gender variable is sometimes necessary to protect the confidentiality of responses provided. In these cases, individuals in the category ""non-binary persons"" are distributed into the other two gender categories and are denoted by the ""+"" symbol."
+2,"This category includes men (and/or boys), as well as some non-binary persons."
+3,"This category includes women (and/or girls), as well as some non-binary persons."
+102,"""Visible minority"" refers to whether a person is a visible minority or not, as defined by the Employment Equity Act. The Employment Equity Act defines visible minorities as ""persons, other than Aboriginal peoples, who are non-Caucasian in race or non-white in colour."" The visible minority population consists mainly of the following groups: South Asian, Chinese, Black, Filipino, Arab, Latin American, Southeast Asian, West Asian, Korean and Japanese."
+,"In 2021 Census analytical and communications products, the term ""visible minority"" has been replaced by the terms ""racialized population"" or ""racialized groups,"" reflecting the increased use of these terms in the public sphere."
+,"For more information on visible minority and population group variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Visible Minority and Population Group Reference Guide, Census of Population, 2021."
+103,"In 2021 Census analytical and communications products, the term ""visible minority"" has been replaced by the terms ""racialized population"" or ""racialized groups,"" reflecting the increased use of these terms in the public sphere."
+104,"The abbreviation ""n.i.e."" means ""not included elsewhere."" This category includes persons who provided responses that are classified as a visible minority, but that cannot be classified with a specific visible minority group. Such responses include, for example, ""Guyanese,"" ""Pacific Islander,"" ""Polynesian,"" ""Tibetan"" and ""West Indian."""
+105,"In 2021 Census analytical and communications products, this category is referred to as ""the rest of the population."""
+106,"""Ethnic or cultural origin"" refers to the ethnic or cultural origins of the person's ancestors. Ancestors may have Indigenous origins, origins that refer to different countries or other origins that may not refer to different countries."
+,"The sum of the ethnic or cultural origins in this table is greater than the total population estimate because a person may report more than one ethnic or cultural origin in the census."
+,"The ethnic or cultural origins selected are the most frequently reported at the Canada level."
+,"For more information on ethnic or cultural origin variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Ethnic or Cultural Origin Reference Guide, Census of Population, 2021."
+107,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating French origins, not otherwise specified (e.g., ""French"")."
+108,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating British Isles origins, not otherwise specified (e.g., ""British,"" ""United Kingdom"")."
+109,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Caucasian (White) origins, not otherwise specified (e.g., ""Caucasian"")."
+110,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating First Nations (North American Indian) origins, not otherwise specified (e.g., ""First Nations,"" ""North American Indian"")."
+111,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating European origins, not otherwise specified (e.g., ""European"")."
+112,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating African origins, not otherwise specified (e.g., ""African"")."
+113,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Arab origins, not otherwise specified (e.g., ""Arab"")."
+114,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Asian origins, not otherwise specified (e.g., ""Asian"")."
+115,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Cree origins, not otherwise specified (e.g., ""Cree"")."
+116,"The abbreviation ""n.i.e."" means ""not included elsewhere."" This category includes responses indicating Christian origins, not included elsewhere (e.g., ""Christian,"" ""Baptist,"" ""Catholic"")."
+117,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating North American Indigenous origins, not otherwise specified (e.g., ""Aboriginal,"" ""Indigenous"")."
+118,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating South Asian origins, not otherwise specified (e.g., ""South Asian"")."
+119,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Mi'kmaq origins, not otherwise specified (e.g., ""Mi'kmaq"")."
+120,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Northern European origins, not otherwise specified (e.g., ""Northern European,"" ""Scandinavian"")."
+121,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Latin, Central or South American origins, not otherwise specified (e.g., ""Latin American,"" ""South American"")."
+122,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Black origins, not otherwise specified (e.g., ""Black"")."
+123,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Inuit origins, not otherwise specified (e.g., ""Inuit"")."
+124,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Eastern European origins, not otherwise specified (e.g., ""Eastern European"")."
+125,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating East or Southeast Asian origins, not otherwise specified (e.g., ""East Asian,"" ""Southeast Asian"")."
+126,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating West or Central Asian or Middle Eastern origins, not otherwise specified (e.g., ""Central Asian,"" ""Middle Eastern,"" ""West Asian"")."
+127,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating Caribbean origins, not otherwise specified (e.g., ""Caribbean"")."
+128,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses indicating West Indian origins, not otherwise specified (e.g., ""West Indian"")."
+129,"""Religion"" refers to the person's self-identification as having a connection or affiliation with any religious denomination, group, body, or other religiously defined community or system of belief. Religion is not limited to formal membership in a religious organization or group."
+,"This variable shows the aggregated responses to the religion question."
+,"For infants or children, religion refers to the specific religious group or denomination in which they are being raised, if any."
+,"Persons without a religious connection or affiliation can self-identify as atheist, agnostic or humanist, or can provide another applicable response."
+,"For more information on religion variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Religion Reference Guide, Census of Population, 2021."
+130,"The abbreviation ""n.o.s."" means ""not otherwise specified."" This category includes responses of ""Christian,"" not otherwise specified (e.g., ""Christian,"" ""Christianity"")."
+
+
+Data quality:
+"Richmond"
+"Total non-response (TNR) rate, short-form census questionnaire: 2.0%"
+"Total non-response (TNR) rate, long-form census questionnaire: 2.6%"
+"After the release of the 2021 Census population and dwelling counts, issues could occasionally be uncovered in the data. A successful formal review has been conducted for this particular geographic area. It is not possible to make changes to the 2021 Census population and dwelling count data presented in this product. For more information, refer to the Population and dwelling count amendments, 2021 Census."
+
+
+"Source: Statistics Canada, 2021 Census of Population."
+
+How to cite: Statistics Canada. 2024. Special Interest Profile. 2021 Census.
+Statistics Canada Catalogue no. 98-26-00092021001. Ottawa. Released March 20  2024.
+https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/sip/index.cfm?Lang=E
