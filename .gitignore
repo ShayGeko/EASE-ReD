@@ -160,6 +160,6 @@ cython_debug/
 #.idea/
 
 # dataset
-osm/amenities-vancouver.json.gz
+osm/*.json.gz
 
 .DS_Store

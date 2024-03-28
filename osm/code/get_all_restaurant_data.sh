@@ -22,7 +22,7 @@ echo "Fetching data for all cities"
 while IFS= read -r city
 do
   # Call your Python script with the city name as an argument
-  python3 osm-get-city-restaurants.py "$city" cuisine &
+  python3 osm-get-city-restaurants.py "$city" all &
   bg_pids+=($!) # Store the PID of the background job
 
 done < "$FILE_PATH"
