@@ -10,3 +10,11 @@ https://www-genesis.destatis.de/genesis/online?operation=abruftabelleBearbeiten&
 Origine par groupe de nationalités détaillé par province 
 translated to english 
 xlxs (excel) format 
+
+3. England and Wales 
+https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/regional-ethnic-diversity/latest/ 
+Has data for the different areas of England and Wales.
+"england-and-wales" 
+"areas-of-england-and-wales-by-ethnicity" 
+
+
