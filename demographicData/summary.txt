@@ -17,4 +17,7 @@ Has data for the different areas of England and Wales.
 "england-and-wales" 
 "areas-of-england-and-wales-by-ethnicity" 
 
+4. USA Data 
+Note: "Other U.S. Island Areas, Oceania, n.o.s, or at Sea"
+
 
