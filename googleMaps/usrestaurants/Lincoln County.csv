@@ -1,0 +1,475 @@
+Cuisine Type,Name,Address,Website
+Mexican,Vallarta's Mexican Restaurant,"2891 E Broadway, Vancouver, BC V5M 1Y9, Canada",https://vallartasmexicanvancouver.com/?
+Mexican,Taqueria Playa Tropical,"334 6th St, New Westminster, BC V3L 3A8, Canada",http://www.facebook.com/TaqueriaPlayaTropical
+Mexican,El Comal,"7650 Winston St, Burnaby, BC V5A 2H4, Canada",http://elcomal.ca/
+Mexican,The Taco Factory,"418 E Columbia St, New Westminster, BC V3L 3W9, Canada",http://www.thetacofactory.ca/
+Mexican,Los Cuervos Taqueria & Cantina,"LOS CUERVOS, 603 Kingsway, Vancouver, BC V5T 3K5, Canada",https://www.loscuervostaqueria.net/
+Mexican,Mazatlan Mexican Restaurant Lincoln City,"828 NE Hwy 101, Lincoln City, OR 97367, USA",https://mazatlanlincolncity.com/
+Mexican,The Mexican Antojitos y Cantina,"1049 Granville St, Vancouver, BC V6Z 1L4, Canada",http://www.themexican.ca/
+Mexican,Ole Ole Mexican Cuisine,"831 12th St, New Westminster, BC V3M 4K4, Canada",https://www.facebook.com/Ole-Ole-Mexican-Deli-129537510412618/
+Mexican,La Roca,"3243 US-101, Lincoln City, OR 97367, USA",https://larocalincolncity.square.site/
+Mexican,El Santo,"680 Columbia St, New Westminster, BC V3M 0E3, Canada",http://www.elsanto.ca/
+Mexican,Melo's Taqueria,"1266 SW 50th St, Lincoln City, OR 97367, USA",https://m.facebook.com/melostaqueria
+Mexican,Adelitas Restaurant,"5178 Victoria Dr, Vancouver, BC V5P 3T8, Canada",https://www.facebook.com/adelitasrestaurant.van/
+Mexican,Puerto Vallarta Mexican Restaurant,"3001 US-101, Lincoln City, OR 97367, USA",http://www.puertovallartalc.com/
+Mexican,Cantina Monarca,"504 Bellevue Way NE, Bellevue, WA 98004, USA",https://www.cantinamonarca.com/
+Mexican,La Catrina Tacos & Tequila,"517 S 1st St, Mount Vernon, WA 98273, USA",https://www.lacatrinamv.com/
+Mexican,Enrique's Authentic Mexican Food,"1509 NW U.S. 101, Lincoln City, OR 97367, USA",
+Mexican,Cielo Cocina Mexicana,"958 111th Ave NE #101, Bellevue, WA 98004, USA",http://www.cielobellevue.com/
+Mexican,El Rinconsito | Bellevue,"2255 140th Ave NE Ave, Bellevue, WA 98005, USA",http://www.elrinconsito.com/
+Mexican,Sergio's Hacienda,"205 E 8th St B, Port Angeles, WA 98362, USA",https://sergios-hacienda.business.site/
+Mexican,Adrian’s Restaurant & Tequila Bar,"10145 Main St, Bellevue, WA 98004, USA",https://www.adriansrestaurantbellevue.com/
+Swedish,Svensken A taste of Scandinavia,"22320 NE Halsey St, Fairview, OR 97024, USA",https://www.svensken.net/
+Italian,Osteria Povera,"2331 Clarke St, Port Moody, BC V3H 1Y9, Canada",https://www.povera.ca/
+Italian,Piva Modern Italian,"787 Columbia St, New Westminster, BC V3M 1B6, Canada",http://pivarestaurant.ca/
+Italian,The Old Spaghetti Factory (New Westminster),"50 Eighth St, New Westminster, BC V3M 3N8, Canada",http://www.oldspaghettifactory.ca/locations/new-westminster
+Italian,Artusi Restaurant,"412 6th St, New Westminster, BC V3L 3B2, Canada",http://www.artusirestaurant.com/
+Italian,L'Artista Italian Restaurant,"3891 Hastings St, Burnaby, BC V5C 2H7, Canada",
+Italian,Poor Italian Ristorante,"3296 E 1st Ave, Vancouver, BC V5M 1B8, Canada",http://www.pooritalian.com/
+Italian,Baci Ristorante,"3728 E Hastings St, Burnaby, BC V5C 2H5, Canada",http://www.bacirestaurant.ca/
+Italian,Osteria Savio Volpe,"615 Kingsway, Vancouver, BC V5T 3K5, Canada",http://www.saviovolpe.com/
+Italian,La Piazza Dario,"3075 Slocan St, Vancouver, BC V5M 3E4, Canada",https://lapiazzadario.com/
+Italian,Italia Bella Bar & Grill,"53 W Broadway, Vancouver, BC V5Y 1P1, Canada",https://italiabella.ca/
+Italian,Il Corsaro Pasta Bar,"22370 Dewdney Trunk Rd, Maple Ridge, BC V2X 3J2, Canada",http://ilcorsaropastabar.com/
+Italian,La Notte Restaurant,"3307 Dunbar St, Vancouver, BC V6S 2C1, Canada",http://www.lanotte.ca/
+Italian,Otis Pizzeria,"1252 OR-18, Otis, OR 97368, USA",https://www.otispizzeria.com/
+Italian,Gallucci's Pizzeria,"2845 NW U.S. 101, Lincoln City, OR 97367, USA",https://galluccispizzeria.com/
+Italian,Buonarroti Ristorante,"460 Lincoln Blvd, Lincoln, CA 95648, USA",http://www.buonarrotis.com/
+Italian,Italianno's Restaurant,"1611 N Aspen St, Lincolnton, NC 28092, USA",http://italiannosrestaurant.com/
+Spanish,Bodega on Main,"1014 Main St, Vancouver, BC V6A 2W1, Canada",http://www.bodegaonmain.ca/
+Spanish,Como Taperia,"201 E 7th Ave, Vancouver, BC V5T 0B4, Canada",https://www.comotaperia.com/
+Spanish,Don Chepe's Restaurant,"1122 5th Ave, New Westminster, BC V3M 1Y6, Canada",http://www.donchepesrestaurant.com/
+Spanish,La Boqueria Tapas and Pintxos Bar,"291 E Pender St, Vancouver, BC V6A 1T8, Canada",http://www.boqueria.ca/
+Spanish,España Restaurant,"1118 Denman St, Vancouver, BC V6G 2M8, Canada",http://www.espanarestaurant.ca/
+Spanish,Cuchillo,"261 Powell St, Vancouver, BC V6A 2Z1, Canada",http://www.cuchillo.ca/
+Spanish,El Caracol Cafe,"5190 Victoria Dr, Vancouver, BC V5P 1C9, Canada",https://facebook.com/pages/El-Caracol-Cafe/137747269573136
+Spanish,Barcelona Tapas & Wine Bar,"449 Bowen Island Trunk Rd, Bowen Island, BC V0N 1G0, Canada",https://btwb.ca/
+Spanish,Casa Molina,"2211 Manitoba St, Vancouver, BC V5Y 1K1, Canada",http://www.casamolina.ca/
+Spanish,Olé Olé Tapas Bar & Restaurant,"The Lawn 3 Ingleman Place, Union Rd, Lincoln LN1 3BU, UK",http://www.oleolelincoln.co.uk/
+Spanish,Tapas De España,"7909 Bergenline Ave, North Bergen, NJ 07047, USA",http://www.tapasnj.com/
+Spanish,Segovia Restaurant,"150 Moonachie Rd, Moonachie, NJ 07074, USA",http://www.segoviarestaurant.com/
+Spanish,Spanish Tavern of Mountainside,"1239 US-22, Mountainside, NJ 07092, USA",https://www.spanishtavernmountainside.com/?y_source=1_MTQ1MTU5NTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Spanish,Olivares Tapas Bar,"3 Castle Hill, Lincoln LN1 3AA, UK",https://www.olivarestapas.co.uk/
+Spanish,Cantina Monarca,"504 Bellevue Way NE, Bellevue, WA 98004, USA",https://www.cantinamonarca.com/
+Spanish,Sergio's Hacienda,"205 E 8th St B, Port Angeles, WA 98362, USA",https://sergios-hacienda.business.site/
+Spanish,Spanish Pavillion Restaurant,"31 Harrison Ave, Harrison, NJ 07029, USA",https://spanishpavillion.com/
+Spanish,Chateau of Spain,"11 Franklin St, Newark, NJ 07102, USA",https://www.chateauofspain.com/
+Spanish,Boqueria UES,"1460 2nd Ave, New York, NY 10075, USA",https://boqueriarestaurant.com/tapas-bar-nyc-ues/
+Spanish,Spanish Tavern,"103 McWhorter St A, Newark, NJ 07105, USA",https://spanishtavernnewark.com/
+American,Cheddar's Scratch Kitchen,"5424 O St, Lincoln, NE 68510, USA",https://www.cheddars.com/locations/ne/lincoln/lincoln/2065?cmpid=br:csk_ag:ie_ch:loc_ca:CSKGMB_sn:gmb_gt:lincoln-ne-2065_pl:locurl_rd:1054
+Scottish,The Lion Rampant Scottish Pub,"6777 Beaumont Ave, Duncan, BC V9L 5X4, Canada",http://www.lionrampantpub.com/
+British,Brisk Cafe,"1190 Pinetree Wy #111, Coquitlam, BC V3B 0A3, Canada",https://briskcafe.ca/
+Thai,Thai Bay Restaurant,"2937 US-101, Lincoln City, OR 97367, USA",https://thaibaylincolncity.com/
+Thai,Best Thai,"1437 NW U.S. 101, Lincoln City, OR 97367, USA",
+Thai,M&P Thai Noodle,"1725 SE Hwy 101 WEST, Lincoln City, OR 97367, USA",http://lincolnthainoodle.com/
+Thai,Siam Le Bien Thai Cuisine,"Siam Le Bien Thai Cuisine, 4217 Hastings St, Burnaby, BC V5C 2J5, Canada",http://www.siamlebien.com/
+Thai,Bay View Thai Kitchen,"250 US-101, Depoe Bay, OR 97341, USA",http://www.bayviewsthaikitchen.com/
+Thai,Thai Coco,"3242 Westwood St #103, Port Coquitlam, BC V3C 3L8, Canada",http://thaicoco.ca/
+Thai,Orchid Thai Cuisine,"835 Twelve Bridges Dr Suite 100, Lincoln, CA 95648, USA",http://www.orchidthairestaurants.com/
+Thai,Thai Chef Eatery,"3355 North Rd, Burnaby, BC V3J 1M3, Canada",https://thaichefeatery.com/
+Thai,Chada Thai Fine Cuisine,"2991 Lougheed Hwy. #107, Coquitlam, BC V3B 6J6, Canada",http://www.chadathai.ca/
+Thai,Rum Thai Bistro,"880 Sterling Pkwy #20, Lincoln, CA 95648, USA",http://rumthaibistrolincoln.com/
+Thai,Patsara Thai,"528 Carnarvon St, New Westminster, BC V3L 1C4, Canada",https://www.patsara.ca/
+Thai,Chad Thai Restaurant,"4010 Hastings St, Burnaby, BC V5C 2H9, Canada",http://chadthai.ca/
+Thai,Thai House Restaurant,"616 S 1st St, Mount Vernon, WA 98273, USA",http://www.thaihousemv.com/
+Thai,Lhy Thai Restaurant,"7357 Edmonds St, Burnaby, BC V3N 1A9, Canada",
+Thai,Thai New West Restaurant,"424 E Columbia St, New Westminster, BC V3L 3W9, Canada",https://www.thainewwest.com/
+Thai,Blessing Thai Restaurant,"4451 N 26th St Suite #800, Lincoln, NE 68521, USA",http://www.blessingthairestaurant.com/
+Thai,High Peak Asian Restaurant,"7042 Van Dorn St, Lincoln, NE 68506, USA",https://highpeakasian.wixsite.com/highpeakasianrestaur
+Thai,Rachawadee Thai Cafe,"410 W Gates St, Mount Vernon, WA 98273, USA",http://www.rachawadeethai.com/
+Thai,Asian Taste Thai Restaurant,"501 W A St #102, Lincoln, NE 68522, USA",https://www.asiantastethairestaurant.com/
+Thai,Thai 9 Lincoln NH,"151 Main St, Lincoln, NH 03251, USA",http://www.thai9nh.com/
+Japanese,Kazu Japanese Restaurant,"4332 Hastings St, Burnaby, BC V5C 2J9, Canada",https://instagram.com/kazusushionhastings?igshid=w3fvrzkzm9sp
+Japanese,Syun Izakaya,"209 NE Lincoln St, Hillsboro, OR 97124, USA",http://www.syunhillsboro.com/
+Japanese,Suika Japanese Restaurant,"1626 W Broadway, Vancouver, BC V6J 1X6, Canada",https://www.suika-snackbar.com/
+Japanese,Sushi U Burnaby,"5901 Broadway #5, Burnaby, BC V5B 2Y1, Canada",http://www.sushiu.ca/
+Japanese,Take Sushi Japanese Restaurant (Order from our website & SAVE MORE!),"4528 Hastings St, Burnaby, BC V5C 2K6, Canada",https://takesushi.zomi.menu/
+Japanese,Japanese Bistro Kamome,"5228 Joyce St, Vancouver, BC V5R 6C3, Canada",https://bistrokamome.wixsite.com/mysite
+Japanese,Sushi UOmo,"4280 Hastings St, Burnaby, BC V5C 2J6, Canada",http://www.sushiuomo.ca/
+Japanese,Sushi Simagoya(작은 섬 생선초밥),"1102 Ewen Ave #103, New Westminster, BC V3M 5E3, Canada",http://sushisimagoya.ca/
+Japanese,Japan Express,"354 N Generals Blvd, Lincolnton, NC 28092, USA",
+Japanese,Hoshi Express,"1215 E Main St, Lincolnton, NC 28092, USA",
+Japanese,Shokunin Sushi and Japanese Cuisine,"440 N 8th St, Lincoln, NE 68508, USA",http://facebook.com/Shokunin.Lincoln/
+Japanese,Ikoi Sushi,"105-450 E Columbia St, New Westminster, BC V3L 3X5, Canada",http://www.ikoisushi.ca/
+Japanese,Koen Japanese BBQ & Sushi,"2601 Jamie Ln #100, Lincoln, NE 68512, USA",http://www.koenlincoln.com/
+Japanese,Itosugi Kappo Cuisine,"3648 W Broadway, Vancouver, BC V6R 2B7, Canada",http://itosugikappocuisine.ca/
+Japanese,Ueno Sakura Japanese Restaurant,"81 6th St, New Westminster, BC V3L 2Z8, Canada",https://consumer.shoplnkit.com/home.html#/shop?code=111869&becomeSilent=1
+Japanese,Oishii Japanese Steakhouse,"2949 N 27th St, Lincoln, NE 68521, USA",http://oishiijapanesesteakhouse.com/
+Chinese,Xiang Yuan Qiao Yunnan Cross Bridge Rice Noodle(COQ),"3030 Lincoln Ave #112, Coquitlam, BC V3B 6B4, Canada",
+Chinese,Bamboo Garden Restaurant,"8911 Cornerstone Mews, Burnaby, BC V5A 4Y6, Canada",
+Chinese,Yan's Garden 潮樓,"9938 Lougheed Hwy., Burnaby, BC V3J 1N3, Canada",http://www.yansgarden.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3481622873726260202
+Chinese,Peking Restaurant,"5939 Hastings St, Burnaby, BC V5B 3X7, Canada",http://pekingrestaurant.ca/
+Chinese,Chili Dragon Chinese Restaurant (Take Out Only),"7245 Canada Wy, Burnaby, BC V5E 3R7, Canada",
+Chinese,Grand Chinese Restaurant,"4461 Lougheed Hwy. #1, Burnaby, BC V5C 3Z2, Canada",https://grandrestaurant.zomi.menu/
+Chinese,Chan's Garden,"441 E Columbia St, New Westminster, BC V3L 3X4, Canada",https://chansgardenchinese.com/
+Chinese,一品香 Sichuan Yummy Food Chinese Food Restaurant (Order from our website & SAVE MORE!),"441 12th St, New Westminster, BC V3M 4H7, Canada",https://sichuanyummyfood.zomi.menu/
+Chinese,Lucky Gate Chinese Restaurant (Order from our website & SAVE MORE!),"1139 Austin Ave, Coquitlam, BC V3K 3P4, Canada",https://luckygatechinese.zomi.menu/
+Chinese,New Chow's Kitchen,"2579-B Lougheed Hwy., Port Coquitlam, BC V3B 1B4, Canada",http://www.newchowskitchen.com/
+Chinese,Happy Chinese Restaurant (Order from our website & SAVE MORE!),"3266 Coast Meridian Rd, Port Coquitlam, BC V3B 3N4, Canada",https://happychineserestaurant.zomi.menu/
+Chinese,Jade Palace Chinese Restaurant,"4524 Hastings St, Burnaby, BC V5C 2K4, Canada",https://jadepalaceburnaby.com/
+Chinese,Han Lin Noodle House,"408 6th St, New Westminster, BC V3L 3B2, Canada",https://www.hanlinnewwest.com/
+Chinese,Double One Chinese Restaurant,"4057 Hastings St, Burnaby, BC V5C 2J3, Canada",http://www.doubleonerestaurant.com/
+Chinese,Ho Fung Chinese Restaurant,"724 6th St, New Westminster, BC V3L 3C6, Canada",https://www.hofungrestaurant.ca/
+Chinese,Foon Hing Yuen,"3138 SE Hwy 101, Lincoln City, OR 97367, USA",https://www.foonhingyuenor.com/
+Chinese,Burnaby Palace Restaurant,"3110 Boundary Rd, Burnaby, BC V5M 4A2, Canada",https://burnabypalace.ca/?utm_source=google&utm_medium=maps&utm_campaign=website
+Chinese,Wo's Chinese Restaurant 金穗園美食,"8166 Main St, Vancouver, BC V5X 3L6, Canada",https://woschineserestaurant.com/
+Chinese,Legend House,"1169 Pacific St #140, Coquitlam, BC V3B 0J1, Canada",https://legendeat.com/
+Chinese,Lin Chinese Cuisine and Tea House,"1537 W Broadway, Vancouver, BC V6J 1W6, Canada",https://www.linchinese.ca/
+Indian,Agra Tandoori House,"7366 Market Crossing, Burnaby, BC V5J 5C8, Canada",http://www.agratandoori.ca/
+Indian,Tahn Door Indian Eatery,"228 Schoolhouse St #1, Coquitlam, BC V3K 6V7, Canada",https://www.tahndoor.com/
+Indian,Agra Tandoori Restaurant,"3790 Canada Wy, Burnaby, BC V5G 1G4, Canada",http://www.agratandoori.ca/
+Indian,Spice Cart Indian Cuisine,"1475 Prairie Ave B104, Port Coquitlam, BC V3B 1T3, Canada",https://spicecartrestaurant.ca/
+Indian,Indian Bombay Bistro,"7558 6th St, Burnaby, BC V3N 3M3, Canada",https://www.indianbombaybistro.com/
+Indian,Indian Courtyard Restaurant,"Indian courtyard restaurant, 609 12th St, New Westminster, BC V3M 4J3, Canada",https://courtyardindianrestaurant.com/
+Indian,Chakra Indian Restaurant,"4051 Hastings St, Burnaby, BC V5C 2J1, Canada",https://order.chakraindianrestaurant.ca/
+Indian,Indian Village Eatery,"2745 E Hastings St #130, Vancouver, BC V5K 1Z8, Canada",https://indianvillageeatery.ca/?utm_source=google&utm_medium=maps&utm_campaign=website
+Indian,The Indian Chefs Kitchen & Bar,"2270 E Hastings St, Vancouver, BC V5L 1V4, Canada",https://theindianchefs.ca/
+Indian,Dana Pani Indian Cuisine,"805 Boyd St J120, New Westminster, BC V3M 5X2, Canada",http://www.danapaniindian.com/
+Indian,Lazzez's Grill Indian Cuisine,"2786 Barnet Hwy, Coquitlam, BC V3B 1B9, Canada",http://lazzezsgrill.ca/
+Indian,Akbar's Own Indian Restaurant,"1905 W Broadway, Vancouver, BC V6J 1Z3, Canada",http://www.akbarsown.com/
+Indian,New India Buffet + Bar & Restaurant,"901 W Broadway, Vancouver, BC V5Z 4M3, Canada",http://www.newindiabuffet.com/
+Indian,Manjal South Indian Kitchen,"7613 Edmonds St, Burnaby, BC V3N 1B6, Canada",http://manjalrestaurant.ca/
+Indian,Ashiana Tandoori,"1440 Kingsway, Vancouver, BC V5N 2R5, Canada",http://ashianatandoori.com/
+Indian,Masala Bites Indian Restaurant,"413 Main St, Dallas, OR 97338, USA",https://masalabitesindianrestaurant.com/?utm_source=google&utm_medium=maps&utm_campaign=website
+Indian,Biji's Best,"5640 Hidcote Dr, Lincoln, NE 68516, USA",https://www.facebook.com/BijisBest/
+Indian,Tandoor Indian Cuisine,"3530 Village Dr #100, Lincoln, NE 68516, USA",
+Canadian,Eh! Restaurant,"1050 Alberni St #2nd, Vancouver, BC V6E 1A3, Canada",
+Canadian,Dinner in the Sky Canada,"1121 Argyle Ave #1089, West Vancouver, BC V7M 1A7, Canada",http://www.dinnerintheskycanada.com/
+Canadian,The Cheese Inn,"4585 Dunbar St, Vancouver, BC V6S 2G7, Canada",
+Canadian,Blue Canoe Waterfront Restaurant,"3866 Bayview St #140, Richmond, BC V7E 4R7, Canada",http://www.bluecanoerestaurant.com/
+Canadian,The Keg Steakhouse + Bar - Coquitlam,"2991 Lougheed Hwy. Unit 130, Coquitlam, BC V3B 6J6, Canada",http://www.thekeg.com/en/locations/coquitlam
+Russian,Restaurant Irina,"1147 Austin Ave, Coquitlam, BC V3K 3P4, Canada",
+Jewish,Maple Grill,"1965 W Broadway, Vancouver, BC V6J 1Z3, Canada",http://maplegrillpopup.com/
+Jewish,Sabra Kosher Bakery & Restaurant Ltd,"3844 Oak St, Vancouver, BC V6H 2M6, Canada",http://www.sabrakosher.com/
+Jewish,Omnitsky Kosher,"5775 Oak St, Vancouver, BC V6M 2V7, Canada",http://omnitskykosher.com/
+Jewish,Kosher Experience,"1967 W Broadway, Vancouver, BC V6J 1Z3, Canada",https://www.chabadcitycentre.com/templates/articlecco_cdo/aid/825431/jewish/Kosher-Food.htm
+Jewish,Kosher Food Warehouse,"612 Kingsway, Vancouver, BC V5T 3K4, Canada",http://www.kfwarehousebc.com/
+German,The Old Bavaria Haus Restaurant,"233 6th St, New Westminster, BC V3L 3A5, Canada",http://www.oldbavariahaus.com/
+German,Jägerhof Restaurant,"71 Lonsdale Ave, North Vancouver, BC V7M 2E5, Canada",http://www.jagerhof.ca/
+German,Autobahn 101,"1512 SE Hwy 101, Lincoln City, OR 97367, USA",https://order.toasttab.com/online/autobahn-101
+German,Rhein Haus Seattle,"912 12th Ave, Seattle, WA 98122, USA",http://www.rheinhausseattle.com/
+German,German Diner,"8910 Martin Way E, Lacey, WA 98516, USA",https://www.thegermandiner.com/
+German,Black Bird Schnitzel Haus,"3298 Island Hwy W, Qualicum Beach, BC V9K 2C6, Canada",http://www.blackbirdschnitzelhaus.ca/
+German,Urban German Wursthaus,"6635 N Baltimore Ave UNIT 201, Portland, OR 97203, USA",http://www.urbangerman.com/
+German,Prost!,"2566 N Lincoln Ave, Chicago, IL 60614, USA",https://www.prostchi.com/
+German,Deutsches Haus (Vancouver Alpen Club),"4875 Victoria Dr, Vancouver, BC V5N 4P3, Canada",https://www.vacbc.ca/
+French,Alouette Bistro,"567 Hornby St, Vancouver, BC V6C 2E8, Canada",http://alouettevancouver.com/
+French,Les Faux Bourgeois,"663 E 15th Ave, Vancouver, BC V5T 2R6, Canada",http://www.lesfauxbourgeois.com/
+French,French Table,"3916 Main St, Vancouver, BC V5V 3P2, Canada",http://thefrenchtable.ca/
+French,Tour De Feast,"319 Mountain Hwy, North Vancouver, BC V7J 2K7, Canada",http://tourdefeast.com/
+French,Au Petit Comptoir,"1471 Continental St, Vancouver, BC V6Z 0G3, Canada",https://www.camarchevancouver.com/
+French,Au Comptoir,"2278 W 4th Ave, Vancouver, BC V6K 1N8, Canada",http://www.aucomptoir.ca/
+French,Is That French,"45 Blood Alley Square, Vancouver, BC V5B 0C4, Canada",http://isthatfrench.com/
+French,Bacchus Bistro,"1064 216 St, Langley Twp, BC V2Z 1R3, Canada",http://www.chabertonwinery.com/bacchus-bistro/
+Hawaiian,Aloha Hawaiian Grill,"3900 Bayview St #110, Richmond, BC V7E 4R7, Canada",https://www.alohahawaiiangrill.ca/
+Hawaiian,Hawaii BBQ & Noodle House,"1212 E Sunset Dr, Bellingham, WA 98226, USA",
+Hawaiian,Taste of Aloha-Krachelz Ohana,"514 State Ave STE 106, Marysville, WA 98270, USA",https://www.ordertasteofaloha.com/
+Brazilian,Fogo de Chão Brazilian Steakhouse,"440 Bellevue Way NE, Bellevue, WA 98004, USA",https://fogodechao.com/location/bellevue/
+Brazilian,Rio Brazilian Steak House Coquitlam,"2729 Barnet Hwy, Coquitlam, BC V3E 1K9, Canada",https://riobraziliansteakhouse.ca/
+Brazilian,Boteco Brasil Restaurant,"2545 Nanaimo St, Vancouver, BC V5N 5E6, Canada",http://boteco.ca/
+Brazilian,Rodizio Grill Brazilian Steakhouse Lincoln,"737 P St, Lincoln, NE 68508, USA",https://www.rodiziogrill.com/lincoln/
+Brazilian,Samba Brazil,"Brayford Wharf N, Lincoln LN1 1YW, UK",https://www.sambabrazil.co.uk/
+Brazilian,Boiada Brazilian Grill,"245 W Spokane Falls Blvd, Spokane, WA 99201, USA",https://boiadabraziliangrill.com/?utm_source=GMB&utm_medium=GMB&utm_campaign=GMBSpokane
+Brazilian,Rio Brazilian Steakhouse,"1122 Denman St, Vancouver, BC V6G 1T2, Canada",http://riobraziliansteakhouse.ca/
+Peruvian,Silvestre Deli & Bistro,"317 Water St, Vancouver, BC V6B 1B8, Canada",http://www.silvestregustolatino.com/
+Peruvian,El Inka restaurant,"3826 Sunset St, Burnaby, BC V5G 1T3, Canada",
+Peruvian,SUYO Modern Peruvian,"3475 Main St, Vancouver, BC V5V 3M9, Canada",http://www.suyo.ca/
+Peruvian,El Inka Peruvian Cuisine,"8560 SE Division St, Portland, OR 97266, USA",
+Salvadorian,Rinconcito Salvadoreno,"2062 Commercial Dr, Vancouver, BC V5N 4A9, Canada",
+Cuban,Havana 1957 | Lincoln Road,"819 Lincoln Rd, Miami Beach, FL 33139, USA",https://www.havana1957.com/lincoln-road/
+Tibetan,Tibetan Kitchen Cafe,"680 Broughton St, Victoria, BC V8W 2C1, Canada",https://tibetankitchencafe.com/
+Egyptian,Koshari Zooba,"2519 St Johns St, Port Moody, BC V3H 2B3, Canada",https://order.online/business/koshari-zooba-11732068
+Greek,OLOVE GREEK KITCHEN,"5931 Hastings St, Burnaby, BC V5B 1R7, Canada",http://olovegreek.ca/
+Greek,My Greek Taverna,"946 Brunette Ave, Coquitlam, BC V3K 1C9, Canada",http://mygreektaverna.com/
+Greek,Greek Fellas Restaurant,"11008 River Rd, Delta, BC V4C 2S2, Canada",http://www.greekfellas.ca/
+Greek,Vassilis Souvlaki Greek Taverna,"6558 Kingsway, Burnaby, BC V5E 1C5, Canada",http://vassilissouvlakigreektaverna.ca/
+Greek,Dinakis Mediterranean Grill,"2020 Oxford Connector, Port Coquitlam, BC V3C 0A4, Canada",http://www.dinakis.com/
+Greek,Yiannis Greek Taverna,"543 6th St, New Westminster, BC V3L 3B5, Canada",http://www.yiannisnewwest.com/
+Greek,Greek Village Restaurant,"7953 120 St, Delta, BC V4C 6P6, Canada",http://www.greekvillagedelta.com/
+Greek,Ramie's Greek Restaurant,"4287 Kingsway, Burnaby, BC V5H 1Z5, Canada",http://www.ramiesgreekrestaurant.com/
+Greek,Stefanos Restaurant,"315 Columbia St, New Westminster, BC V3L 1A7, Canada",http://www.stefanos.ca/
+Greek,Sparta Greek Taverna and Pizza,"2232 McAllister Ave, Port Coquitlam, BC V3C 2A6, Canada",https://spartaempirepizza.com/
+Greek,Sfinaki Greek Taverna,"4061 Hastings St, Burnaby, BC V5C 2J1, Canada",http://www.sfinaki.ca/
+Greek,Papa Greek,"0A3, 7515 Market Crossing 110 #140, Burnaby, BC V5J 3J4, Canada",http://papagreek.com/
+Greek,Pallas Athena Greek Kousina,"1250 Dominion Ave, Port Coquitlam, BC V3B 8G7, Canada",http://www.pallasathena.org/
+Greek,Apollonia Greek Restaurant,"1830 Fir St, Vancouver, BC V6J 3B1, Canada",http://www.apolloniagreekrestaurant.com/
+Greek,Taverna Greka,"326 Columbia St, New Westminster, BC V3L 1A6, Canada",http://www.taverna.ca/
+Greek,Cosmos Greek Restaurant,"14871 Marine Dr, White Rock, BC V4B 1C2, Canada",http://www.cosmosgreekrestaurant.com/
+Greek,Pyrgos Taverna,"22570 Lougheed Hwy., Maple Ridge, BC V2X 2V1, Canada",http://pyrgostaverna.ca/
+Greek,Kypriaki Mediterranean Grill,"1346 Marine Dr #106, North Vancouver, BC V7P 1T4, Canada",http://www.kypriaki.ca/
+Greek,Primerose Greek Restaurant,"6165 BC-17A, Delta, BC V4K 5B8, Canada",http://www.theprimerose.com/
+Greek,Mythos Taverna,"132 3rd St W, North Vancouver, BC V7M 1E8, Canada",http://mythostaverna.ca/
+Belgian,Belgian Fries,"1885 Commercial Dr, Vancouver, BC V5N 4A6, Canada",http://www.belgianfries.ca/
+Irish,Dublin Crossing Irish Pub,"18789 Fraser Hwy #101, Surrey, BC V3S 7Y3, Canada",http://www.dublincrossing.com/
+Irish,Nana's Irish Pub,"613 NW 3rd St, Newport, OR 97365, USA",https://www.nanasirishpubnewport.com/
+Irish,Kelly O'Bryan's Restaurant & Carlos O'Bryan's Pub,"800 Columbia St, New Westminster, BC V3M 5V2, Canada",https://www.kobcob.com/new-Westminster/
+Irish,The Blarney Stone,"216 Carrall St, Vancouver, BC V6B 2J1, Canada",http://blarneystone.ca/
+Irish,Hynes' Irish Pub,"3468 W Broadway, Vancouver, BC V6R 2B3, Canada",http://www.hynesirishpub.com/
+Irish,Donnellan's Irish Pub,"1082 Granville St, Vancouver, BC V6Z 1L5, Canada",http://www.donnellansirishpub.com/
+Irish,Dublin Crossing - Vancouver,"466 SW Marine Dr, Vancouver, BC V5X 0C4, Canada",http://dublincrossingvancouver.com/
+Irish,The Irish Heather Shebeen,"248 E Georgia St, Vancouver, BC V6A 1Z7, Canada",https://www.irishheather.com/
+Irish,Carlos O'Bryan's Neighborhood Pub,"1774 W 7th Ave, Vancouver, BC V6J 4Z9, Canada",http://kitsilanopub.com/
+Irish,Smith's Irish Pub,"208 &, 212 Carrall St, Vancouver, BC V6B 2J1, Canada",http://www.smithsofgastown.ca/
+Irish,Johnnie Fox's Irish Pub,"1601 Main St, Vancouver, BC V6A 2W5, Canada",http://www.johnniefox.ca/
+Irish,McKinney's Irish Pub,"151 N 8th St, Lincoln, NE 68501, USA",http://mckinneyspublincoln.com/
+Irish,Burke and Riley's Irish Pub,"520 S Main St # 3P, Breckenridge, CO 80424, USA",http://www.burkeandrileyspub.com/home/index.php
+Irish,Charlie Hamiltons Pub,"1031-1163 Pinetree Way Across Lincoln Station -facing, Lincoln Ave, Coquitlam, BC V3B 8A9, Canada",https://www.charliehamiltonspub.ca/
+Irish,Napper Tandy's Irish Pub,"110 Lincoln Ave, Breckenridge, CO 80424, USA",http://nappertandysbreck.com/
+Irish,O'Neil's Tavern & Grill,"41 8th St, Steamboat Springs, CO 80487, USA",http://www.oneilstavern.com/
+Irish,Pub Fish & Chips,"4157 NW U.S. 101 #137, Lincoln City, OR 97367, USA",https://pubfishandchips.com/
+Irish,Celtic Corner Restaurant and Pub,"312 Lafayette Ave, Hawthorne, NJ 07506, USA",https://celticcornernj.com/
+Irish,Doyle's Public House,"208 St Helens Ave, Tacoma, WA 98402, USA",https://doylespublichouse.com/
+Irish,Garryowen Irish Pub,"126 Chambersburg St, Gettysburg, PA 17325, USA",https://garryowen-irish-pub.square.site/
+Welsh,The Welsh Black Inn,"Welsh Black Hotel, Cartref, Bow Street SY24 5AT, UK",http://welshblack.uk/
+Cajun,Bayou On Bay,"1300 Bay St, Bellingham, WA 98225, USA",http://www.bayouonbay.com/
+Portuguese,Portuguese Club Of Vancouver,"1144 Commercial Dr, Vancouver, BC V5L 3X2, Canada",https://thepcov.ca/
+Turkish,Afghan Turkish Cuisine,"422 Willingdon Ave, Burnaby, BC V5C 5G4, Canada",http://www.afghanturkishcuisine.ca/
+Turkish,Turkish Donair,"4066 Hastings St, Burnaby, BC V5C 2J3, Canada",https://order.online/store/TurkishDonair-1519392/en-US/?hideModal=true&pickup=true
+Turkish,Anatolia's Gate Restaurant,"7084 Kingsway, Burnaby, BC V5E 1E7, Canada",http://www.anatoliasgaterestaurant.com/
+Turkish,Anatolias Gate Turkish Cuisine,"1039 Granville St, Vancouver, BC V6Z 1L4, Canada",https://anatoliasgate.ca/
+Haitian,Le Soleil Restaurant & Bakery,"175-199 Sculptors Way, Hamilton Township, NJ 08609, USA",
+Tahitian,Tastee Tiki,"Ossies Surf Shop, 4900 N Coast Hwy, Newport, OR 97365, USA",http://www.thetasteetiki.com/
+Korean,South Castle Korean Restaurant,"1126 Austin Ave, Coquitlam, BC V3K 3P5, Canada",https://southcastleaustin.com/
+Korean,Sol Lee's Korean Restaurant,"329 North Rd Unit 550, Coquitlam, BC V3K 3V8, Canada",
+Korean,Gawon Express Korean Cuisine,"8968 University High St, Burnaby, BC V5A 4Y6, Canada",https://gawon.webflow.io/
+Korean,Koreana Korean Restaurant,"1001 Austin Ave #101, Coquitlam, BC V3K 3N9, Canada",http://www.koreanaeats.com/
+Korean,Bbong Korean Restaurant,"329 North Rd #260, Coquitlam, BC V3K 3V8, Canada",https://www.bbong.ca/
+Korean,Toe Dam Korean Fusion BBQ,"329 North Rd #250, Coquitlam, BC V3K 3V8, Canada",
+Korean,Onggi Korean Cuisine 옹기 밴쿠버,"4501 North Rd Unit 103, Burnaby, BC V3N 4R7, Canada",https://www.theonggi.ca/
+Korean,Bukchigo Jangguchigo,"341 North Rd, Coquitlam, BC V3K 3V8, Canada",https://www.bukjang.com/
+Korean,Gobong88 (Hangang Korean restaurant),"9928 Lougheed Hwy., Burnaby, BC V3J 1N3, Canada",
+Korean,Wang Ga Ma,"329 North Rd, Coquitlam, BC V3K 3V8, Canada",https://wanggama.webflow.io/
+Korean,Kimbab Cheonguk,"341 North Rd A, Coquitlam, BC V3K 3V8, Canada",https://www.kimbabcheonguk.ca/
+Korean,Tâ Bom Korean Cuisine,"1046 Austin Ave C, Coquitlam, BC V3K 3P3, Canada",http://www.tabom.ca/
+Korean,Busan Daeji Gukbap Korean Restaurant,"4501 North Rd #201, Burnaby, BC V3N 4R7, Canada",
+Korean,ARISU Authentic Korean BBQ,"4501 North Rd #203, Burnaby, BC V3N 4R7, Canada",http://arisubbq.com/
+Korean,Oh! Zzhu Sam Korean Restaurant,"7506 Edmonds St, Burnaby, BC V3N 1B4, Canada",http://www.ohzzhusam.com/
+Korean,Insadong Korean BBQ Restaurant,"403 North Rd #301, Coquitlam, BC V3K 3V9, Canada",http://insadongbbq.ca/
+Korean,Dookbaeki Korean Restaurant YVR 뚝배기 코퀴틀람 밴쿠버,"3055 Anson Ave, Coquitlam, BC V3B 2H6, Canada",http://www.dookbaeki.ca/
+Korean,HanSang Korean Cuisine,"7625 Edmonds St, Burnaby, BC V3N 1B6, Canada",
+Korean,Hanwoori Korean Restaurant,"5740 Imperial St, Burnaby, BC V5J 1G2, Canada",http://www.hanwoori.ca/
+Korean,Nadri - Korean Cuisine & Fried Chicken (나드리),"4501 North Rd Unit 111F, Burnaby, BC V3N 4R7, Canada",https://www.nadri.ca/
+Algerian,Zebda,"4344 N Elston Ave, Chicago, IL 60641, USA",
+Nigerian,Alebi African Cuisine,"10694 135a St, Surrey, BC V3T 4E2, Canada",http://alebiafricanrestaurant.com/
+Moroccan,Moltaqa Moroccan Restaurant Mainland Street Yaletown,"1002 Mainland St, Vancouver, BC V6B 6J8, Canada",https://www.moltaqarestaurant.ca/
+Lebanese,Mazahr Lebanese Kitchen,"1488 W 11th Ave, Vancouver, BC V6H 1L1, Canada",http://www.mazahr.ca/
+Lebanese,Tamam: Fine Palestinian Cuisine,"2616 E Hastings St, Vancouver, BC V5K 1Z6, Canada",http://www.tamam.ca/
+Vietnamese,Pho Net Viet,"942 Westwood St, Coquitlam, BC V3C 3L3, Canada",
+Vietnamese,Pho 99 New Westminster,"1190 8th Ave, New Westminster, BC V3M 2R6, Canada",https://pho99.order-online.ai/#/
+Vietnamese,PHO 99 (SFU),"8901 Cornerstone Mews, Burnaby, BC V5A 4Y6, Canada",http://pho99sfu.com/
+Vietnamese,Pho Zen Vietnamese Cuisine,"654 SE Marine Dr, Vancouver, BC V5X 2T4, Canada",https://www.phozenca.com/
+Vietnamese,Pho Mr. Do,"4532 Hastings St, Burnaby, BC V5C 2K4, Canada",https://www.mrdopho.com/
+Vietnamese,I Am Pho Coquitlam,"100 Schoolhouse St Unit # 110, Coquitlam, BC V3K 6V9, Canada",https://iampho.ca/
+Vietnamese,Little Minh's Kitchen,"7533 Market Crossing, Burnaby, BC V5J 0A3, Canada",http://www.littleminhs.ca/
+Vietnamese,Pho 68 Edmonds,"7360 Edmonds St, Burnaby, BC V3N 0G7, Canada",https://pho68.ca/
+Vietnamese,Le Pho Vietnamese Restaurant,"2503 E Hastings St, Vancouver, BC V5K 1Z2, Canada",https://www.facebook.com/LePho604/
+Vietnamese,B&D Authentic Viet Cuisine,"7090 Kingsway, Burnaby, BC V5E 1E7, Canada",https://www.bdvietcuisine.ca/
+Vietnamese,"Pho 99 Restaurant - North Road, Coquitlam BC (Please try to order from our website)","403 North Rd #302, Coquitlam, BC V3K 3V9, Canada",https://pho99coquitlam.com/index.html
+Vietnamese,Un Pho Get a Bowl,"2823 Shaughnessy St, Port Coquitlam, BC V3C 3H1, Canada",https://unphogetabowl.ca/
+Vietnamese,Pho Capital,"341 North Rd Unit F, Coquitlam, BC V3K 3V8, Canada",https://phocapitalrestaurantcoquitlam.com/
+Vietnamese,White Lotus Cafe,"5901 Broadway, Burnaby, BC V5B 2Y1, Canada",http://www.whitelotuscafe.ca/
+Vietnamese,"Phở Holiday - Meat and Vegan Noodle Soup House, Coquitlam BC","1054 Austin Ave, Coquitlam, BC V3K 3P3, Canada",https://phoholiday.com/
+Vietnamese,Pho Angkor noodle house,"78 10th St #106, New Westminster, BC V3M 3X3, Canada",https://phoangkornoodlehouse.com/?
+Vietnamese,Le Petit Saigon,"2783 E Hastings St, Vancouver, BC V5K 1Z8, Canada",https://lepetitsaigonvancouver.ca/
+Vietnamese,The Viet Noodle Guy,"1902 Rosser Ave, Burnaby, BC V5C 3Z2, Canada",http://www.thevietnoodleguy.ca/
+Vietnamese,Ivy's Kitchen Vietnamese Restaurant,"4598 Main St, Vancouver, BC V5V 3R5, Canada",
+Vietnamese,Pho Kitchen,"2915 Hebb Ave, Vancouver, BC V5M 0C4, Canada",https://phokitchen.ca/
+Hungarian,Budapest Bistro,"12926 Mukilteo Speedway, Lynnwood, WA 98037, USA",
+Mediterranean,Mediterranean Donair House,"733 6th St, New Westminster, BC V3L 3C6, Canada",https://facebook.com/Mediterranean-donair-house-568636703168817/
+Mediterranean,Tamam: Fine Palestinian Cuisine,"2616 E Hastings St, Vancouver, BC V5K 1Z6, Canada",http://www.tamam.ca/
+Mediterranean,Mediterranean Grill Restaurant at Denman LTD..,"1152 Denman St, Vancouver, BC V6G 2M9, Canada",https://w.mediterraneangrill.ca/
+Mediterranean,My Greek Taverna,"946 Brunette Ave, Coquitlam, BC V3K 1C9, Canada",http://mygreektaverna.com/
+Mediterranean,Taverna Greka,"326 Columbia St, New Westminster, BC V3L 1A6, Canada",http://www.taverna.ca/
+Mediterranean,Daffodil Mediterranean Cuisine and Catering,"5500 Old Cheney Rd #21, Lincoln, NE 68516, USA",https://www.facebook.com/DaffodilMediterranean/
+Mediterranean,Garlic Crush,"102 Bellevue Way NE, Bellevue, WA 98004, USA",http://www.garliccrush.com/
+Ethiopian,Fassil Restaurant,"736 E Broadway, Vancouver, BC V5T 1X9, Canada",http://www.fassil.ca/
+Ethiopian,Harambe Ethiopian Restaurant,"2149 Commercial Dr, Vancouver, BC V5N 4B3, Canada",
+Ethiopian,Gojo Café Ethiopia I Ethiopian Cuisine,"2838 Commercial Dr, Vancouver, BC V5N 4C6, Canada",http://www.gojocafe.com/
+Ethiopian,Axum Restaurant,"1279 E Hastings St, Vancouver, BC V6A 1S4, Canada",http://www.axumrestaurant.ca/
+Ethiopian,Zagol Ethiopian Restaurant,"2722 E Cherry St, Seattle, WA 98122, USA",http://www.zagolethiopianrestaurant.com/
+Ethiopian,Adey Abeba Ethiopian Restaurant,"2123 E Union St, Seattle, WA 98122, USA",https://adeyabeba.net/
+Ethiopian,massawa restaurant,"418 6th St, New Westminster, BC V3L 3B2, Canada",
+Caribbean,Calabash Bistro,"428 Carrall St, Vancouver, BC V6B 2J7, Canada",http://www.calabashbistro.com/
+Caribbean,PG's Jamaican Restaurant,"1387 Johnston Rd, White Rock, BC V4B 3Z3, Canada",https://www.pgsjamaicanrestaurants.com/
+Caribbean,Yardie Grabz,"266 Raymur Ave, Vancouver, BC V6A 3K8, Canada",http://www.yardiegrabz.ca/
+Soul,Nana Morrison's Soul Food,"Steele Creek, NC 28278, USA",
+Argentinian,Patagōn,"1610 2nd Ave, Seattle, WA 98101, USA",https://www.patagonseattle.com/?utm_source=extnet&utm_medium=yext
+Chilean,Al Chile,"1340 Davie St, Vancouver, BC V6E 1N6, Canada",https://instagram.com/alchilevan?igshid=MzRlODBiNWFlZA==
+Colombian,El Parche Colombian Restaurant Tacoma,"6324 E McKinley Ave, Tacoma, WA 98404, USA",https://elparchecolombiano.com/
+Costa Rican,Costa Rica Restaurant,"6421, 6421, 2500 W Lincoln Ave, Anaheim, CA 92801, USA",
+Dutch,De Dutch,"1035 Columbia St #102, New Westminster, BC V3M 1C4, Canada",https://dedutch.com/locations/columbia-square/
+Dutch,Dutch Wooden Shoe Cafe,"3292 Cambie St, Vancouver, BC V5Z 2W4, Canada",http://www.thedutchwoodenshoecafe.ca/
+Dutch,De Dutch,"1634 Capilano Rd, North Vancouver, BC V7P 3B4, Canada",https://dedutch.com/locations/capilano-road/
+Dutch,De Dutch,"2748 Lougheed Hwy. #200, Port Coquitlam, BC V3B 6P2, Canada",https://dedutch.com/locations/port-coquitlam/
+Dutch,De Dutch,"1055 Canada Pl #60, Vancouver, BC V6C 0C3, Canada",https://dedutch.com/locations/burrard-landing/
+Dutch,De Dutch,"3192 Oak St, Vancouver, BC V6H 1C4, Canada",https://dedutch.com/locations/oak-street/
+Ecuadorian,La Roca Restaurant,"147 Elmora Ave, Elizabeth, NJ 07202, USA",https://sites.google.com/view/la-roca-elizabeth/home
+Guatemalan,Cafe & Restaurant Chapines,"1520 W 7th St, Los Angeles, CA 90017, USA",https://themenustar4.com/webspace/menus.php?code=orderpanaderiayrestaurantechapines.com
+Honduran,Mi Bella Honduras Restaurante,"755 Foothill Blvd, Rialto, CA 92376, USA",http://ordermibellahondurasrestaurante.com/
+Icelandic,Icelandic Street Food,"Lækjargata 8, 101 Reykjavík, Iceland",http://www.icelandicfoods.com/
+Indonesian,Peranakan Kitchen (P'Kay),"1122 5th Ave, New Westminster, BC V3M 1Y6, Canada",https://perkit.ca/
+Indonesian,Bali Thai,"88 W Pender St, Vancouver, BC V6B 1R3, Canada",https://www.balithaivancouver.com/
+Indonesian,Indo Cafe,"13754 Aurora Ave N Suite D, Seattle, WA 98133, USA",http://www.myindocafe.com/
+Iranian,Papa's Shish Kabab,"552 Clarke Rd #103, Coquitlam, BC V3J 3X5, Canada",https://shishkabab.ca/
+Iranian,Cazba Persian Grill Express,"9855 Austin Ave #106, Burnaby, BC V3J 1N4, Canada",https://cazbarestaurant.com/
+Iranian,Pasargad Restaurant,"2565 Barnet Hwy #22, Coquitlam, BC V3H 4E2, Canada",http://pasargadrestaurant.ca/
+Iranian,Noon and Reyhoon Persian Restaurant (takeouts only)رستوران نون و ریحون,"6631 Hastings St Vancouver, Burnaby, BC V5B 1S1, Canada",http://noon-reyhoon.ca/
+Iranian,Suren Persian cuisine,"4624 Hastings St, Burnaby, BC V5C 2K5, Canada",https://linktr.ee/surenrestaurant
+Iranian,The Kebob House Restaurant,"2865 Shaughnessy St, Port Coquitlam, BC V3C 3H1, Canada",http://www.thekebobhouse.com/
+Iranian,Cazba Restaurant,"132 16th St W, North Vancouver, BC V7M 1T4, Canada",http://cazbarestaurant.com/
+Iranian,Yaas Grill House,"2057 Lonsdale Ave, North Vancouver, BC V7M 2K6, Canada",https://www.yaas.ca/
+Iranian,Mehman Restaurant,"1451 Lonsdale Ave, North Vancouver, BC V7M 2H9, Canada",http://www.mehmanrestaurant.ca/
+Iranian,Cazba persian grill,"4567 Lougheed Hwy., Burnaby, BC V5C 3Z6, Canada",
+Iranian,Khaghan Restaurant North Shore,"935 Marine Dr Unit 66, North Vancouver, BC V7P 1S3, Canada",https://linktr.ee/khaghan
+Iranian,Farsi Food,"1480 Pemberton Ave, North Vancouver, BC V7P 2S1, Canada",http://www.farsifood.ca/
+Iranian,SadraRestaurantرستوران صدراونكوور,"SADRA Persian Restaurant, 1615 Lonsdale Ave, North Vancouver, BC V7M 2J5, Canada",http://sadrarestaurant.ca/
+Iranian,Cazba Restaurant,"1103 Davie St, Vancouver, BC V6E 1N2, Canada",http://cazbarestaurant.com/
+Iranian,Zeitoon Restaurant,"1795 Pendrell St, Vancouver, BC V6G 1T2, Canada",https://zeitoon.cloudwaitress.com/
+Iranian,"HFC Grill - Kabob, Halal Persian Cuisine Coquitlam","1064 Austin Ave, Coquitlam, BC V3K 3P3, Canada",https://hfcgrill.com/
+Iranian,Shishlik Grill House | شیشلیک,"1629 Lonsdale Ave, North Vancouver, BC V7M 2J5, Canada",https://shishlik.ca/
+Iranian,Delara Restaurant,"2272 W 4th Ave, Vancouver, BC V6K 1N8, Canada",http://delararestaurant.ca/
+Iranian,Gilaneh GrillHouse Restaurant - North Vancouver,"222 Pemberton Ave, North Vancouver, BC V7P 2R5, Canada",https://gillaneh.com/
+Iranian,TiTi Home Made Food,"1196 Pinetree Wy #102, Coquitlam, BC V3B 0L8, Canada",https://titifood.com/
+Israeli,Tamam: Fine Palestinian Cuisine,"2616 E Hastings St, Vancouver, BC V5K 1Z6, Canada",http://www.tamam.ca/
+Jamaican,PG's Jamaican Restaurant,"1387 Johnston Rd, White Rock, BC V4B 3Z3, Canada",https://www.pgsjamaicanrestaurants.com/
+Jordanian,Mazahr Lebanese Kitchen,"1488 W 11th Ave, Vancouver, BC V6H 1L1, Canada",http://www.mazahr.ca/
+Kuwaiti,Together & Co. Restaurant,"Ground Floor, Mutlaq Abbas Munawir St, Kuwait",
+Laotian,Lao Cai Chinese Cuisine 老蔡食府,"130-1425 Marine Dr, West Vancouver, BC V7T 1B5, Canada",http://www.laocai.ca/
+Lithuanian,Old Vilnius Cafe Deli,"2601 75th St, Darien, IL 60561, USA",http://www.oldvilniuscafe.com/
+Malaysian,Green & Oak Malaysian Restaurant,"3760 Hastings St, Burnaby, BC V5C 2H5, Canada",https://www.greenandoak.com/
+Malaysian,IPOH Malaysian Cuisine,"2127-4500 Kingsway, Burnaby, BC V5H 2A9, Canada",https://www.facebook.com/ipohmalaysiancuisine/
+Malaysian,Malaysian Hut,"14727 108 Ave, Surrey, BC V3R 1V9, Canada",http://www.malaysianhutrestaurant.com/
+Malaysian,Kopitiam Malaysia,"3885 Rupert St, Vancouver, BC V5R 2G7, Canada",https://kopitiammalaysia.ca/
+Malaysian,Banana Leaf Original (Broadway & Willow),"820 W Broadway, Vancouver, BC V5Z 1J8, Canada",https://www.bananaleaf-vancouver.com/broadway
+Malaysian,Hawkers Delight Deli,"4127 Main St, Vancouver, BC V5V 3P6, Canada",https://order.online/business/hawkers-delight-deli-21039
+Malaysian,Tamarind Hill,"1440 Lonsdale Ave, North Vancouver, BC V7M 2J1, Canada",
+Malaysian,Tropika,"2975 Cambie St, Vancouver, BC V5Z 2V7, Canada",http://www.tropikavancouver.ca/
+Malaysian,Singapore Hawker,"1169 Pacific St #120, Coquitlam, BC V3B 0J1, Canada",http://www.singaporehawker.ca/
+Malaysian,Ipoh Malay Cuisine,"1316 W 73rd Ave, Vancouver, BC V6P 4M9, Canada",https://www.ipohmalaycuisine.ca/
+Malaysian,Penang Bistro Fine Malaysian Cuisine(10% OFF for Orders from Our Website!),"3932 Fraser St, Vancouver, BC V5V 4E4, Canada",https://penangbistro.zomi.menu/
+Malaysian,Mamalee - Broadway,"3144 W Broadway, Vancouver, BC V6K 2H3, Canada",http://www.mamalee.ca/
+Malaysian,John 3:16 Malaysian Delights,"1063 W Broadway, Vancouver, BC V6H 1E2, Canada",https://john316mydelights.com/
+Malaysian,Banana Leaf Malaysian Cafe,"1779 Robson St, Vancouver, BC V6G 1C9, Canada",https://www.bananaleaf-vancouver.com/robson
+Malaysian,John 3:16 Malaysian Delights,"6832 &, 6838 No. 3 Rd, Richmond, BC V6Y 2C4, Canada",https://john316mydelights.com/
+Malaysian,Nyonya House - Malaysian Restaurant - Please try to Order from Website,"3866 Bayview St #110, Richmond, BC V7E 3B6, Canada",http://nyonya.richmondpos.com/
+Malaysian,Laksa King,"2546 E Hastings St, Vancouver, BC V5K 1Z3, Canada",https://laksaking.ca/
+Malaysian,Malay Satay Hut,"5540, 15230 NE 24th St, Redmond, WA 98052, USA",https://www.malaysatay.com/
+Malaysian,Kedai Makan,"1449 E Pine St, Seattle, WA 98122, USA",http://www.kedaimakansea.com/
+Malaysian,Shiok Singaporean Cuisine,"1716 Kingsway, Vancouver, BC V5N 2S4, Canada",http://shiok.ca/
+Mongolian,Mongo Bongo Mongolian Grill,"512 6th Ave. B, New Westminster, BC V3L 1V3, Canada",http://mongobongo.ca/
+Mongolian,Great Wall Mongolian B.B.Q,"2897 W Broadway, Vancouver, BC V6K 2G6, Canada",
+Mongolian,Sun Mongolian BBQ,"2564 Shaughnessy St, Port Coquitlam, BC V3C 3G4, Canada",https://sunmongolian-bbq.com/?utm_source=google&utm_medium=maps&utm_campaign=website
+Mongolian,The Great Mongolian BBQ,"British Columbia, Lougheed Hwy. #460 Maple Ridge, BC V2X 2V5, Canada",http://www.thegreatmongolianbbq.com/
+Nepalese,Everest Xpress,"6 The Strait, Lincoln LN2 1JD, UK",http://www.everestxpress.co.uk/
+Nicaraguan,Sabor Nicaragüense Restaurant,"1927 S Western Ave, Los Angeles, CA 90018, USA",http://sabornicaraguenserestaurant.com/
+Norwegian,Svensken A taste of Scandinavia,"22320 NE Halsey St, Fairview, OR 97024, USA",https://www.svensken.net/
+Pakistani,Taste of Lahore restaurant,"9526 120 St, Surrey, BC V3V 4C1, Canada",http://tasteoflahore.ca/
+Pakistani,Lahori Restaurant,"12877 80 Ave #109, Surrey, BC V3W 4E9, Canada",https://order.tbdine.com/pickup/44405
+Pakistani,Pakwan House,"13030 76 Ave, Surrey, BC V3W 2V6, Canada",http://pakwanhouse.com/
+Pakistani,Zaiqa Restaurant,"9450 120 St, Surrey, BC V3V 4B9, Canada",http://zaiqarestaurant.ca/
+Pakistani,Dewan-E-Khass,"5750 Fraser St, Vancouver, BC V5W 2Z5, Canada",http://dewanekhass.ca/dishes/
+Pakistani,Karakoram Restaurant,"6990 Victoria Dr, Vancouver, BC V5P 3Y8, Canada",https://www.karakoramrestaurant.com/our-menu
+Pakistani,Lari Adda Food Truck,"1624 145th Pl SE, Bellevue, WA 98007, USA",https://www.lariaddafoodtruckwa.com/
+Pakistani,Lazzez's Grill Indian Cuisine,"2786 Barnet Hwy, Coquitlam, BC V3B 1B9, Canada",http://lazzezsgrill.ca/
+Paraguayan,I Love Paraguay Restaurant,"4316 Greenpoint Ave, Queens, NY 11104, USA",http://www.ilovepy.com/
+Peruvian,Silvestre Deli & Bistro,"317 Water St, Vancouver, BC V6B 1B8, Canada",http://www.silvestregustolatino.com/
+Peruvian,El Inka restaurant,"3826 Sunset St, Burnaby, BC V5G 1T3, Canada",
+Peruvian,SUYO Modern Peruvian,"3475 Main St, Vancouver, BC V5V 3M9, Canada",http://www.suyo.ca/
+Peruvian,El Inka Peruvian Cuisine,"8560 SE Division St, Portland, OR 97266, USA",
+Philippine,Bacayons Chibugan,"13979 104 Ave Unit 105, Surrey, BC V3T 1X1, Canada",https://bacayonschibugan.com/
+Philippine,Pampanga’s Cuisine Home of the Original Sisig,"5179 Joyce St, Vancouver, BC V5R 4G8, Canada",http://pampangascuisine.ca/
+Philippine,Kulinarya Filipino Eatery,"2922 Glen Dr, Coquitlam, BC V3B 2P5, Canada",http://www.kulinarya.ca/
+Philippine,"Max's Restaurant Vancouver, Cuisine of the Philippines","3546 Kingsway, Vancouver, BC V5R 5L7, Canada",https://www.maxsrestaurantna.com/vancouver
+Puerto Rican,Sol Food,"903 Lincoln Ave, San Rafael, CA 94901, USA",https://www.solfoodrestaurant.com/
+Romanian,Romania Kitchen,"5235 South Blvd, Charlotte, NC 28217, USA",
+Singaporean,Singapore Hawker Burnaby,"7150 Sperling Ave, Burnaby, BC V5E 2W5, Canada",http://www.singaporehawker.ca/
+Singaporean,Shiok Express,"9855 Austin Ave #907, Burnaby, BC V3J 1N4, Canada",https://shiok.ca/lougheed
+Singaporean,Singapore Hawker,"1169 Pacific St #120, Coquitlam, BC V3B 0J1, Canada",http://www.singaporehawker.ca/
+Singaporean,Singapore Express,"2775 Laurel St Room 4145, Vancouver, BC V5Z 1M9, Canada",https://www.qooway.com/OLO/m-en?SingExpOnLaurel
+Singaporean,Shiok Singaporean Cuisine,"1716 Kingsway, Vancouver, BC V5N 2S4, Canada",http://shiok.ca/
+Singaporean,Hawkers Delight Deli,"4127 Main St, Vancouver, BC V5V 3P6, Canada",https://order.online/business/hawkers-delight-deli-21039
+Singaporean,Singapore Express,"12855 Clarke Pl, Richmond, BC V6V 2H9, Canada",
+Singaporean,Prata-Man Singapore Cuisine,"9060 Capstan Wy, Richmond, BC V6X 3N6, Canada",https://prata-man-richmond.business.site/
+Singaporean,Green & Oak Malaysian Restaurant,"3760 Hastings St, Burnaby, BC V5C 2H5, Canada",https://www.greenandoak.com/
+Singaporean,IPOH Malaysian Cuisine,"2127-4500 Kingsway, Burnaby, BC V5H 2A9, Canada",https://www.facebook.com/ipohmalaysiancuisine/
+Singaporean,Penang Bistro Fine Malaysian Cuisine(10% OFF for Orders from Our Website!),"3932 Fraser St, Vancouver, BC V5V 4E4, Canada",https://penangbistro.zomi.menu/
+Singaporean,Laksa King,"2546 E Hastings St, Vancouver, BC V5K 1Z3, Canada",https://laksaking.ca/
+Somali,Somali Star Restaurant,"407 Litchfield Ave SW, Willmar, MN 56201, USA",http://somali-star.poi.place/
+South African,massawa restaurant,"418 6th St, New Westminster, BC V3L 3B2, Canada",
+South African,Simba's Grill,"3300 Boundary Rd, Burnaby, BC V5M 4A4, Canada",http://www.simbasgrill.com/
+Sri Lankan,J.R Taste Of Ceylon,"3929 Knight St, Vancouver, BC V5N 3L8, Canada",http://j-r-taste-of-ceylon.jany.io/
+Swiss,Switzerland Cafe,"9440 NC-226A, Marion, NC 28752, USA",http://www.switzerlandcafe.com/
+Syrian,Ayam Zaman Restaurant,"1090 Lougheed Hwy. #116, Coquitlam, BC V3K 6G9, Canada",
+Syrian,Zamzam Grill,"2128 Kingsway, Vancouver, BC V5N 2T5, Canada",https://www.zamzamgrill.ca/
+Syrian,Mazahr Lebanese Kitchen,"1488 W 11th Ave, Vancouver, BC V6H 1L1, Canada",http://www.mazahr.ca/
+Syrian,Mitra Shawarma,"3034 Main St, Vancouver, BC V5T 3G5, Canada",https://narrowgroup.ca/project/mitra-shawarma/
+Syrian,Yasma,"550 Denman St, Vancouver, BC V6G 3H1, Canada",http://www.yasma.ca/
+Syrian,AlHadbah Donair,"1610 Robson St Unit #105, Vancouver, BC V6G 1C7, Canada",http://alhadbahdonair.com/
+Syrian,Tamam: Fine Palestinian Cuisine,"2616 E Hastings St, Vancouver, BC V5K 1Z6, Canada",http://www.tamam.ca/
+Syrian,Shawarma Corner,"629 Columbia St, New Westminster, BC V3M 1A7, Canada",
+Syrian,Homa Mediterranean Restaurant (Baghdad Cafe),"548 Seymour St, Vancouver, BC V6B 3J5, Canada",
+Taiwanese,Chef Hung Taiwanese Beef Noodle,"9055 University High St #109, Burnaby, BC V5A 0A7, Canada",https://www.chefhungnoodle.com/
+Taiwanese,Bubble 88,"10209 King George Blvd #102, Surrey, BC V3T 2W6, Canada",https://bubble88.business.site/
+Taiwanese,No. 1 Beef Noodle,"4741 Willingdon Ave, Burnaby, BC V5G 3H5, Canada",http://www.jynoodle.com/
+Taiwanese,The One Restaurant,"5908 Kingsway, Burnaby, BC V5J 1H2, Canada",http://theonerestaurant.ca/
+Taiwanese,Deer Alley Restaurant 德意小馆,"518 Hornby St, Vancouver, BC V6C 2E7, Canada",
+Taiwanese,Ding Hao Noodle House,"2773 Barnet Hwy #4, Coquitlam, BC V3B 1C2, Canada",http://www.dinghaonoodlehouse.com/
+Taiwanese,RedBeef Noodle Kitchen (Chinatown),"550 Main St, Vancouver, BC V6A 2T9, Canada",http://redbeef.ca/
+Taiwanese,台風 Typhoon Bubble Tea Taiwanese Cuisine,"11700 Cambie Rd. #175, Richmond, BC V6X 1L5, Canada",https://typhoonbbt.ca/
+Taiwanese,Wang's Taiwan Beef Noodle House,"8390 Granville St, Vancouver, BC V6P 4Z7, Canada",https://wangstaiwanhouse.com/
+Taiwanese,Kuai Wei Jia,"1163 Pinetree Wy #2102, Coquitlam, BC V3B 8A6, Canada",
+Taiwanese,Joys Taiwanese Food,"4380 No. 3 Rd, Richmond, BC V6X 3V7, Canada",
+Taiwanese,Chef Hung Taiwanese Beef Noodle,"3313 Shrum Lane #102, Vancouver, BC V6S 0C8, Canada",http://www.chefhungnoodle.com/
+Taiwanese,Chef Hung Taiwanese Beef Noodle,"4151 Hazelbridge Wy #2800, Richmond, BC V6X 4J7, Canada",http://www.chefhungnoodle.com/
+Taiwanese,Looking for Chai Taiwanese Kitchen,"12121 Northup Way #205, Bellevue, WA 98005, USA",https://www.facebook.com/lookingforchai2/
+Taiwanese,Little Taipei Restaurant,"2245 140th Ave NE, Bellevue, WA 98005, USA",
+Taiwanese,Joju Hotpot 九州簡餐,"4544 Hastings St, Burnaby, BC V5C 2K4, Canada",https://jojutofu.vancouverpos.com/
+Taiwanese,Facing East | Taiwanese Restaurant,"12736 Bel-Red Rd, Bellevue, WA 98005, USA",https://www.facingeastbellevue.com/
+Taiwanese,Kalvin's Restaurant ( 松林居 ),"5225 Victoria Dr, Vancouver, BC V5P 3V4, Canada",https://kalvinrestaurant.ca/
+Tanzanian,Alebi African Cuisine,"10694 135a St, Surrey, BC V3T 4E2, Canada",http://alebiafricanrestaurant.com/
+Thai,Thai Bay Restaurant,"2937 US-101, Lincoln City, OR 97367, USA",https://thaibaylincolncity.com/
+Thai,Best Thai,"1437 NW U.S. 101, Lincoln City, OR 97367, USA",
+Thai,M&P Thai Noodle,"1725 SE Hwy 101 WEST, Lincoln City, OR 97367, USA",http://lincolnthainoodle.com/
+Thai,Siam Le Bien Thai Cuisine,"Siam Le Bien Thai Cuisine, 4217 Hastings St, Burnaby, BC V5C 2J5, Canada",http://www.siamlebien.com/
+Thai,Bay View Thai Kitchen,"250 US-101, Depoe Bay, OR 97341, USA",http://www.bayviewsthaikitchen.com/
+Thai,Thai Coco,"3242 Westwood St #103, Port Coquitlam, BC V3C 3L8, Canada",http://thaicoco.ca/
+Thai,Orchid Thai Cuisine,"835 Twelve Bridges Dr Suite 100, Lincoln, CA 95648, USA",http://www.orchidthairestaurants.com/
+Thai,Thai Chef Eatery,"3355 North Rd, Burnaby, BC V3J 1M3, Canada",https://thaichefeatery.com/
+Thai,Chada Thai Fine Cuisine,"2991 Lougheed Hwy. #107, Coquitlam, BC V3B 6J6, Canada",http://www.chadathai.ca/
+Thai,Rum Thai Bistro,"880 Sterling Pkwy #20, Lincoln, CA 95648, USA",http://rumthaibistrolincoln.com/
+Thai,Patsara Thai,"528 Carnarvon St, New Westminster, BC V3L 1C4, Canada",https://www.patsara.ca/
+Thai,Chad Thai Restaurant,"4010 Hastings St, Burnaby, BC V5C 2H9, Canada",http://chadthai.ca/
+Thai,Thai House Restaurant,"616 S 1st St, Mount Vernon, WA 98273, USA",http://www.thaihousemv.com/
+Thai,Lhy Thai Restaurant,"7357 Edmonds St, Burnaby, BC V3N 1A9, Canada",
+Thai,Thai New West Restaurant,"424 E Columbia St, New Westminster, BC V3L 3W9, Canada",https://www.thainewwest.com/
+Thai,Blessing Thai Restaurant,"4451 N 26th St Suite #800, Lincoln, NE 68521, USA",http://www.blessingthairestaurant.com/
+Thai,High Peak Asian Restaurant,"7042 Van Dorn St, Lincoln, NE 68506, USA",https://highpeakasian.wixsite.com/highpeakasianrestaur
+Thai,Rachawadee Thai Cafe,"410 W Gates St, Mount Vernon, WA 98273, USA",http://www.rachawadeethai.com/
+Thai,Asian Taste Thai Restaurant,"501 W A St #102, Lincoln, NE 68522, USA",https://www.asiantastethairestaurant.com/
+Thai,Thai 9 Lincoln NH,"151 Main St, Lincoln, NH 03251, USA",http://www.thai9nh.com/
+Tunisian,Carthage Cafe,"1851 Commercial Dr, Vancouver, BC V5N 4A6, Canada",https://www.carthage.cafe/
+Ukrainian,Ukrainian Village,"815 Denman St, Vancouver, BC V6G 2L7, Canada",https://ukrainianvillage.wixsite.com/canada
+Ukrainian,A Taste of Ukraine,"1611 Broadway St #105, Port Coquitlam, BC V3C 2M7, Canada",
+Uruguayan,La Gran Uruguaya Restaurant,"85-02 37th Ave, Jackson Heights, NY 11372, USA",http://lagranuruguaya.com/
+Venezuelan,Paparepas Venezuelan Food,"21224 84th Ave S, Kent, WA 98031, USA",https://www.paparepas.com/
+Vietnamese,Pho Net Viet,"942 Westwood St, Coquitlam, BC V3C 3L3, Canada",
+Vietnamese,Pho 99 New Westminster,"1190 8th Ave, New Westminster, BC V3M 2R6, Canada",https://pho99.order-online.ai/#/
+Vietnamese,PHO 99 (SFU),"8901 Cornerstone Mews, Burnaby, BC V5A 4Y6, Canada",http://pho99sfu.com/
+Vietnamese,Pho Zen Vietnamese Cuisine,"654 SE Marine Dr, Vancouver, BC V5X 2T4, Canada",https://www.phozenca.com/
+Vietnamese,Pho Mr. Do,"4532 Hastings St, Burnaby, BC V5C 2K4, Canada",https://www.mrdopho.com/
+Vietnamese,I Am Pho Coquitlam,"100 Schoolhouse St Unit # 110, Coquitlam, BC V3K 6V9, Canada",https://iampho.ca/
+Vietnamese,Little Minh's Kitchen,"7533 Market Crossing, Burnaby, BC V5J 0A3, Canada",http://www.littleminhs.ca/
+Vietnamese,Pho 68 Edmonds,"7360 Edmonds St, Burnaby, BC V3N 0G7, Canada",https://pho68.ca/
+Vietnamese,Le Pho Vietnamese Restaurant,"2503 E Hastings St, Vancouver, BC V5K 1Z2, Canada",https://www.facebook.com/LePho604/
+Vietnamese,B&D Authentic Viet Cuisine,"7090 Kingsway, Burnaby, BC V5E 1E7, Canada",https://www.bdvietcuisine.ca/
+Vietnamese,"Pho 99 Restaurant - North Road, Coquitlam BC (Please try to order from our website)","403 North Rd #302, Coquitlam, BC V3K 3V9, Canada",https://pho99coquitlam.com/index.html
+Vietnamese,Un Pho Get a Bowl,"2823 Shaughnessy St, Port Coquitlam, BC V3C 3H1, Canada",https://unphogetabowl.ca/
+Vietnamese,Pho Capital,"341 North Rd Unit F, Coquitlam, BC V3K 3V8, Canada",https://phocapitalrestaurantcoquitlam.com/
+Vietnamese,White Lotus Cafe,"5901 Broadway, Burnaby, BC V5B 2Y1, Canada",http://www.whitelotuscafe.ca/
+Vietnamese,"Phở Holiday - Meat and Vegan Noodle Soup House, Coquitlam BC","1054 Austin Ave, Coquitlam, BC V3K 3P3, Canada",https://phoholiday.com/
+Vietnamese,Pho Angkor noodle house,"78 10th St #106, New Westminster, BC V3M 3X3, Canada",https://phoangkornoodlehouse.com/?
+Vietnamese,Le Petit Saigon,"2783 E Hastings St, Vancouver, BC V5K 1Z8, Canada",https://lepetitsaigonvancouver.ca/
+Vietnamese,The Viet Noodle Guy,"1902 Rosser Ave, Burnaby, BC V5C 3Z2, Canada",http://www.thevietnoodleguy.ca/
+Vietnamese,Ivy's Kitchen Vietnamese Restaurant,"4598 Main St, Vancouver, BC V5V 3R5, Canada",
+Vietnamese,Pho Kitchen,"2915 Hebb Ave, Vancouver, BC V5M 0C4, Canada",https://phokitchen.ca/
+Yemeni,Saba Yemeni Restaurant,"2881 Granville St, Vancouver, BC V6H 3J4, Canada",http://www.sabafoods.ca/

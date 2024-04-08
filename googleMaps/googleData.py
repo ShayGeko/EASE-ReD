@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 
-def search_restaurants(query, apiKey, location):
+def search_restaurants(cuisine, apiKey, location):
     query = f"{cuisine} Restaurants in {location}"
     url = "https://places.googleapis.com/v1/places:searchText"
     headers = {
@@ -18,25 +18,40 @@ def search_restaurants(query, apiKey, location):
     return response.json()
 
 
-location = "Kelowna, BC, Canada"
+def main():
+    print("Loading environment variables...")
+    load_dotenv()
+    apiKey = os.getenv("GOOGLE_API_KEY")
+    print("Environment variables loaded.")
 
-with open(f"{location}.csv", "w", newline="") as file:
-    writer = csv.writer(file)
-    writer.writerow(["Cuisine Type", "Name", "Address", "Website"])
+    with open("us_counties.csv", "r") as counties_file:
+        counties_reader = csv.reader(counties_file)
 
-    with open("cuisine.csv", "r") as cuisine_file:
-        reader = csv.reader(cuisine_file)
-        load_dotenv()
-        apiKey = os.getenv("GOOGLE_API_KEY")
+        for county_row in counties_reader:
+            # current location
+            location = county_row[0]
+            print(f"Creating new file for location: {location}")
+            with open(f"usrestaurants/{location}.csv", "w", newline="") as file:
+                writer = csv.writer(file)
+                writer.writerow(["Cuisine Type", "Name"])
+                with open("cuisine.csv", "r") as cuisine_file:
+                    reader = csv.reader(cuisine_file)
+                    for row in reader:
+                        cuisine = row[0]  # Get the cuisine from the first column
+                        print(
+                            f"Making request for cuisine: {cuisine} in location: {location}"
+                        )
 
-        for row in reader:
-            cuisine = row[0]  # Get the cuisine from the first column
-            # API rq
-            data = search_restaurants(cuisine, apiKey, location)
+                        # api request
+                        data = search_restaurants(cuisine, apiKey, location)
+                        for place in data.get("places", []):
+                            name = place["displayName"]["text"]
+                            address = place["formattedAddress"]
+                            website = place.get("websiteUri", "")
 
-            for place in data.get("places", []):
-                name = place["displayName"]["text"]
-                address = place["formattedAddress"]
-                website = place.get("websiteUri", "")
+                            # write it to the csv
+                            writer.writerow([cuisine, name, address, website])
 
-                writer.writerow([cuisine, name, address, website])
+
+if __name__ == "__main__":
+    main()
