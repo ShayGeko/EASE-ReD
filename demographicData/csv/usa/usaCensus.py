@@ -3,6 +3,15 @@ import sys
 
 
 def reformat(input):
+    """
+    Reformat the input CSV file by performing various data cleaning operations.
+
+    Parameters:
+    input (str): The path to the input CSV file.
+
+    Returns:
+    None
+    """
     data = pd.read_csv(input)
     base_filename = input[:-10]  # remove the last 10 characters from the filename
 
@@ -17,7 +26,7 @@ def reformat(input):
         new_data = new_data.rename(columns={column: new_column_name})
 
         # Remove any leading or trailing whitespace (including tabs) from the data
-        new_data = new_data.map(lambda x: x.strip() if isinstance(x, str) else x)
+        new_data = new_data.applymap(lambda x: x.strip() if isinstance(x, str) else x)
 
         # remove anything with a :
         new_data = new_data.loc[
@@ -36,7 +45,7 @@ def reformat(input):
             "n.e.c.", "n.o.c."
         )
 
-        new_filename = f"counties/{new_column_name}.csv"  # append the new column name to the base filename
+        new_filename = f"cleanedcounties/{new_column_name}.csv"  # append the new column name to the base filename
 
         new_data.to_csv(new_filename, index=False)
 
