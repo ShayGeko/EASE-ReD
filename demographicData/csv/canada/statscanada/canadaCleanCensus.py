@@ -1,6 +1,50 @@
 import csv
 import os
 import re
+import pandas as pd
+
+
+def process_csv_with_replacement(input_file, output_file, replace_column):
+    """
+    Process the CSV file with replacement of values in the first column.
+
+    Args:
+        input_file (str): Path to the input CSV file.
+        output_file (str): Path to the output CSV file.
+        replace_column (str): Path to the CSV file containing replacement values.
+
+    Returns:
+        None
+    """
+    process_csv(input_file, output_file)
+    replace_data = read_first_column(replace_column)
+    with open(output_file, "r") as f:
+        reader = csv.reader(f)
+        rows = list(reader)
+    with open(output_file, "w", newline="") as f:
+        writer = csv.writer(f)
+        for i, row in enumerate(rows):
+            if i < len(replace_data):
+                row[0] = replace_data[i]
+            writer.writerow(row)
+    aggregate_data(
+        output_file
+    )  # Call the aggregate_data function after cleaning and replacing column names
+
+
+def aggregate_data(output_file):
+    """
+    Aggregate the data by origin name and their sum.
+
+    Args:
+        output_file (str): Path to the output CSV file.
+
+    Returns:
+        None
+    """
+    df = pd.read_csv(output_file)
+    df = df.groupby("origin").sum().reset_index()
+    df.to_csv(output_file, index=False)
 
 
 def process_csv(input_file, output_file):
@@ -107,31 +151,31 @@ def read_first_column(file_name):
     return first_column
 
 
-def process_csv_with_replacement(input_file, output_file, replace_column):
-    """
-    Process the CSV file with replacement of values in the first column.
+# def process_csv_with_replacement(input_file, output_file, replace_column):
+#     """
+#     Process the CSV file with replacement of values in the first column.
 
-    Args:
-        input_file (str): Path to the input CSV file.
-        output_file (str): Path to the output CSV file.
-        replace_column (str): Path to the CSV file containing replacement values.
+#     Args:
+#         input_file (str): Path to the input CSV file.
+#         output_file (str): Path to the output CSV file.
+#         replace_column (str): Path to the CSV file containing replacement values.
 
-    Returns:
-        None
-    """
-    process_csv(input_file, output_file)
+#     Returns:
+#         None
+#     """
+#     process_csv(input_file, output_file)
 
-    replace_data = read_first_column(replace_column)
+#     replace_data = read_first_column(replace_column)
 
-    with open(output_file, "r") as f:
-        reader = csv.reader(f)
-        rows = list(reader)
-    with open(output_file, "w", newline="") as f:
-        writer = csv.writer(f)
-        for i, row in enumerate(rows):
-            if i < len(replace_data):
-                row[0] = replace_data[i]
-            writer.writerow(row)
+#     with open(output_file, "r") as f:
+#         reader = csv.reader(f)
+#         rows = list(reader)
+#     with open(output_file, "w", newline="") as f:
+#         writer = csv.writer(f)
+#         for i, row in enumerate(rows):
+#             if i < len(replace_data):
+#                 row[0] = replace_data[i]
+#             writer.writerow(row)
 
 
 def clean_census_for_cities(city_list_file, replace_column):
@@ -160,8 +204,8 @@ def main():
     """
     Main function to clean census data for cities.
     """
-    city_list_file = "totalcities.csv"  # Adjust this with your file name
-    replace_column = "replace.csv"  # Adjust this with your file name
+    city_list_file = "totalcities.csv"
+    replace_column = "replace.csv"
     clean_census_for_cities(city_list_file, replace_column)
 
 
