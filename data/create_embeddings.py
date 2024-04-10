@@ -17,7 +17,7 @@ def is_file_empty(file_path):
 
 
 
-def append_to_csv(output, embedding, city_name, state_name):
+def append_to_csv_osm(output, embedding, city_name, state_name):
     # append to csv
     with open(output, 'a', newline='') as csvfile:
         # Define your CSV writer
@@ -33,7 +33,58 @@ def append_to_csv(output, embedding, city_name, state_name):
         # Write the row consisting of the city name and the array elements
         writer.writerow([city_name, state_name, array_as_string])
 
-def generate_embeddings(model, input="./osm/data/", output="./predictions_input/embeddings.csv"):
+
+
+def generate_embeddings_from_bing_maps(model, input = "./bingMaps/counties/", output = "./embeddings/bing_embeddings.csv"):
+    """
+    Expects a list of .csv files in input directory
+    Each file should be in format f"<city>-<state>.csv"
+    Currently assumes that files are coming from Bing Maps and is parcing them
+    """
+    files = os.listdir(input)
+
+    all_embeddings = []
+    counties = []
+    for file in tqdm(files):
+        if file.endswith(".csv"):
+            df = pd.read_csv(input + file)
+
+            df['Categories'] = df['Categories'].str.replace("[\[\]'']", '', regex=True)
+            
+            county_name = file[:-4]
+            counties.append(county_name)
+
+            embeddings = model.encode(df['Categories'])
+
+            if(embeddings.size == 0):
+                continue
+            avg_embedding = np.mean(embeddings, axis=0)
+
+            all_embeddings.append(avg_embedding)
+
+            with open(output, 'a', newline='') as csvfile:
+                # Define your CSV writer
+                writer = csv.writer(csvfile)
+                
+                # If the file does not exist, write the header first
+                if is_file_empty(output):
+                    # Write a header row, starting with 'city_name' and then dynamic column names for the array elements
+                    headers = ['county', 'embedding']
+                    writer.writerow(headers)
+                
+                array_as_string = np.array2string(avg_embedding, separator=',', max_line_width=np.inf)[1:-1]
+                # Write the row consisting of the city name and the array elements
+                writer.writerow([county_name, array_as_string])
+            
+    all_embeddings_df = np.array(all_embeddings)
+
+    pca = PCA(n_components = 20)
+    pca_embeddings = pca.fit_transform(all_embeddings_df)
+    pca_embeddings = pd.DataFrame({'county': counties, 'embedding': list(pca_embeddings)})
+    pca_output = "./embeddings/pca_bing_embeddings.csv"
+    pca_embeddings.to_csv(pca_output, index=False)
+
+def generate_embeddings_from_osm(model, input="./osm/data/", output="./predictions_input/embeddings.csv"):
     """
     Expects a list of .json.gz files in input directory
     Each file should be in format f"<datasource>-<city>-<state>-<whatever>.json.gz"
@@ -77,7 +128,7 @@ def generate_embeddings(model, input="./osm/data/", output="./predictions_input/
                 # compute the weigted average of the embedding
                 counts = counts.reshape(counts.shape[0], 1)
                 embedding = np.sum(embeddings * counts, axis=0) / np.sum(counts)
-                append_to_csv(output, embedding, city_name, state_name)
+                append_to_csv_osm(output, embedding, city_name, state_name)
 
     embeddings = pd.read_csv(output)
     pca_embeddings = PCA(n_components = 20).fit_transform(embeddings['embedding'].apply(lambda x: np.fromstring(x, sep=',')).to_list())
@@ -90,7 +141,8 @@ def main():
     print("Loading the embedding model. This might take a bit...")
     model = SentenceTransformer('all-MiniLM-L6-v2')
     print("Model loaded. Generating embeddings.")
-    generate_embeddings(model)
+    # generate_embeddings_from_osm(model)
+    generate_embeddings_from_bing_maps(model)
 
 if __name__ == "__main__":
     main()
