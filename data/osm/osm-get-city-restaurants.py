@@ -3,62 +3,29 @@ import json
 import requests
 import sys
 import xml.etree.ElementTree as ET
+import pandas as pd
 
 from urllib.parse import urlencode
 
-def get_city_restaurants_with_cuisine(city:str="Vancouver", state = ""):
+def get_city_restaurants_with_cuisine(county:str="Vancouver", state = ""):
     # The API URL
     url = "https://overpass-api.de/api/interpreter"
     query = f"""
-    [out:xml][timeout:90];
-    area[name="{city}"];
+    [out:xml][timeout:180];
+    area["name"="{county} County"]->.county; // County name is not unique!
     (
-      node(area)["amenity"="restaurant"]["cuisine"];
-      node(area)["amenity"="cafe"]["cuisine"];
+    node(area.county)["amenity"="restaurant"];
+    node(area.county)["amenity"="cafe"];
     );
-    out;
-    """ if state == "" else\
-        f"""
-        [out:xml][timeout:90];
-        // Define the state area
-        area["admin_level"="4"]["name"="{state}"]->.stateArea;
-        // Define the city area within the state
-        area(area.stateArea)["name"="{city}"]->.cityArea;
-        (
-        // Search for nodes that are restaurants within the city area
-        node(area.cityArea)["amenity"="restaurant"];
-        // Search for nodes that are cafes within the city area
-        node(area.cityArea)["amenity"="cafe"];
-        );
-        // Output the result
-        out meta;
+    // Output the result
+    out meta;
     """
     encoded_query = urlencode({"data": query})
     headers = {'Content-Type': 'application/x-www-form-urlencoded'}
     
-    print(f"sending the query for {city} {state}")
+    print(f"Sending the query for {county} County")
     response = requests.post(url, data=encoded_query, headers=headers)
-    print(f"got response for {city}")
-    return response
-
-def get_all_city_restaurants(city:str="Vancouver"):
-    # The API URL
-    url = "https://overpass-api.de/api/interpreter"
-    query = f"""
-    [out:xml][timeout:90];
-    area[name="{city}"];
-    (
-      node(area)["amenity"="restaurant"];
-      node(area)["amenity"="cafe"];
-    );
-    out;
-    """
-    encoded_query = urlencode({"data": query})
-    headers = {'Content-Type': 'application/x-www-form-urlencoded'}
-
-    print(f"sending the query for {city}")
-    response = requests.post(url, data=encoded_query, headers=headers)
-    print(f"got response for {city}")
+    print(f"Got response for {county} County")
     return response
 
 def xml2dict(xml: str):
@@ -77,31 +44,38 @@ def xml2dict(xml: str):
 
     return data
 
-def main(city:str="Vancouver", type = 'cuisine', state=""):
-    city_words = city.split(" ")
+
+def get_county_restaurants(county:str="New York", type = 'cuisine'):
+    county_wds = county.split(" ")
     # capitalize first letter
-    city = " ".join([word.capitalize() for word in city_words])
+    county = " ".join([word.capitalize() for word in county_wds])
     if type == 'cuisine':
-        response = get_city_restaurants_with_cuisine(city, state)
-    elif type == 'all':
-        response = get_all_city_restaurants(city, state)
+        response = get_city_restaurants_with_cuisine(county)
     else:
         print("Unrecognized type. Aborting...")
         return
     
     if response.status_code == 200:
+        print("Data fetched successfully. Parsing xml...")
         data = xml2dict(response.content)
         n_restaurants = len(data["nodes"])
 
-        print(f"Found {n_restaurants} restaurants in {city}")
+        print(f"Found {n_restaurants} restaurants in {county} County")
 
-        filename = f"./data/osm-{city.lower()}-{state.lower()}-restaurant-{type}.json.gz"
+        filename = f"./data/osm-{county.lower()}-restaurant-{type}.json.gz"
         with gzip.open(filename, 'wt', encoding='UTF-8') as gzfile:
             json.dump(data, gzfile, indent=2)
 
         print(f"Data has been written to {filename}")
     else: 
         print(f"Failed to fetch data. Status code: {response.status_code}, error: {response.text}")
+
+def main(counties_file = "./counties.csv"):
+    counties = pd.read_csv(counties_file)
+
+    for county in counties['county']:
+        get_county_restaurants(county)
+    
 
 
 if __name__ == "__main__":

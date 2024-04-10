@@ -24,6 +24,6 @@ def main(input_folder,output_file):
 
 
 if __name__ == "__main__":
-    input_folder = sys.argv[1]
-    output_file = sys.argv[2]
+    input_folder = "./demographicData/csv/data_world/us_county_demographics_grouped_norm.csv"
+    output_file = "./demographicData/csv/data_world/counties.csv"
     main(input_folder, output_file)
