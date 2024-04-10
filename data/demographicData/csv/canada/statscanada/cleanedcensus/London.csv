@@ -1,213 +1,214 @@
 origin,population
-Aboriginal from Central/South America (except Arawak and Maya),325
-Afghanistan,915
-Akan,0
-Albania,1295
-Algeria,95
-Angola,50
-Antigua and Barbuda,20
-"Arab, n.o.c",2690
-Arawak,15
-Argentina,195
-Armenia,375
-Ashanti,25
-Assyrian,1090
-Australia,475
-Austria,2430
-Azerbaijan,70
-Bangladesh,495
-"Bantu, n.o.c",45
-Barbados,640
-Belarus,530
-Belgium,5585
-Belize,40
-Benin,0
-Berber,30
-Bermuda,75
-Bhutan,520
-"Black, n.o.c.",425
-Bolivia,20
-Bosnia,1165
-Brazil,370
-"British Isles origins, n.o.c",16525
-Bulgaria,355
-Burkina Faso,0
-Burundi,70
-Cambodia,1680
-Cameroon,105
-Canada,152385
-Caribbean,15
-"Caribbean origins, n.o.c",260
-"Central and South American origins, n.o.c",460
-"Central and West African origins, n.o.c",75
-Chad,0
-Chile,370
-China,12545
-Colombia,4335
-Coptic,50
-Costa Rica,60
-Croatia,3135
-Cuba,375
-Cyprus,130
-Czech Republic,1850
-"Czechoslovakian, n.o.c",715
-DR Congo,220
-Denmark,2805
-Dinka,80
-Djibouti,50
-Dominican Republic,180
-"East and Southeast Asian origins, n.o.c",70
-"Eastern European origins, n.o.c",125
-Ecuador,70
-Egypt,1775
-El Salvador,1995
-Eritrea,570
-Estonia,305
-Ethiopia,645
-Fiji,35
-Finland,1710
-France,46920
-Gabon,0
-Georgia,10
-Germany,59035
-Ghana,345
-Greece,5365
-Grenada,170
-Guadeloupe,10
-Guatemala,335
-Guinea,15
-Guyana,875
-Haiti,215
-Harari,0
-Hazara,15
-Hispanic,305
-Hmong,10
-Honduras,245
-Hungary,8135
-Iceland,385
-India,9180
-Indonesia,275
-Iran,1870
-Iraq,2535
-Ireland,97930
-Israel,1310
-Italy,22770
-Ivory Coast,20
-Jamaica,3840
-Japan,870
-Jordan,625
-Karen,110
-Kazakhstan,25
-Kenya,125
-Kosovo,190
-Kurdistan,995
-Kuwait,20
-Kyrgyzstan,0
-Laos,290
-Latvia,475
-Lebanon,4930
-Liberia,100
-Libya,250
-Lithuania,1250
-Luxembourg,15
-Madagascar,10
-Malaysia,105
-Mali,0
-Malinké,15
-Malta,2015
-Martinique,0
-Mauritania,0
-Mauritius,25
-Maya,115
-Mexico,1625
-Moldova,20
-Mongolia,90
-Montenegro,80
-Montserrat,0
-Morocco,100
-Myanmar (Burma),215
-Nepal,415
-Netherlands,38350
-New Zealand,225
-Nicaragua,550
-Nigeria,640
-"North African origins, n.o.c",75
-North Macedonia,470
-"Northern European origins, n.o.c ",775
-Norway,2425
-Oromo,25
-"Other African origins, n.o.c",2325
-"Other Asian origins, n.o.c",265
-"Other European origins, n.o.c",880
-"Other North American origins, n.o.c",0
-"Pacific Islands origins, n.o.c",30
-Pakistan,1820
-Palestine,2370
-Panama,35
-Paraguay,15
-Pashtun,35
-Peru,260
-Peulh,0
-Philippines,4275
-Poland,19935
-"Polynesian, n.o.c",0
-Portugal,13540
-Puerto Rico,35
-Roma,60
-Romania,2955
-Russia,5685
-Rwanda,100
-Saint Kitts and Nevis,10
-Saint Lucia,70
-Saint Vincent and the Grenadines,55
-Samoa,0
-Saudi Arabia,310
-Senegal,0
-Serbia,1930
-Seychelles,10
-Sierra Leone,10
-Singapore,15
-"Slavic, n.o.c",80
-Slovakia,1710
-Slovenia,1085
-Somalia,620
-South Africa,630
-"South Asian origins, n.o.c",620
-South Korea,3380
-"Southern European origins, n.o.c",50
-"Southern and East African origins, n.o.c",250
-Spain,5515
-Sri Lanka,445
-Sudan,830
-Sweden,2625
-Switzerland,2025
-Syria,2285
-Taiwan,125
-Tajikistan,40
-Tanzania,30
-Tatar,30
-Thailand,200
-The Bahamas,150
-The Gambia,0
-Tigria,25
-Togo,0
-Trinidad and Tobago,1075
-Tunisia,80
-Turkey,1100
-Turkmenistan,50
-Uganda,115
-Ukraine,12210
-United Kingdom,264700
-United States,6050
-Uruguay,20
-Uzbekistan,40
-Venezuela,340
-Vietnam,3115
-"West Central Asian and Middle Eastern origins, n.o.c",980
-"West India, n.o.c",535
-Wolof,0
-Yemen,80
-"Yugoslavian, n.o.c",1220
-Zambia,15
-Zimbabwe,90
-Zulu,15
+Aboriginal from Central/South America (except Arawak and Maya),370.0
+Afghanistan,10.0
+Akan,105.0
+Albania,5365.0
+Algeria,250.0
+Angola,0.0
+Antigua and Barbuda,375.0
+"Arab, n.o.c",15.0
+Arawak,370.0
+Argentina,4335.0
+Armenia,1870.0
+Ashanti,220.0
+Assyrian,2535.0
+Australia,0.0
+Austria,185.0
+Azerbaijan,155.0
+Bangladesh,30.0
+"Bantu, n.o.c",0.0
+Barbados,170.0
+Belarus,475.0
+Belgium,60.0
+Belize,60.0
+Benin,0.0
+Berber,0.0
+Bermuda,10.0
+Bhutan,415.0
+"Black, n.o.c.",1090.0
+Bolivia,70.0
+Bosnia,22625.0
+Brazil,335.0
+"British Isles origins, n.o.c",99050.0
+Bulgaria,8135.0
+Burkina Faso,0.0
+Burundi,125.0
+Cambodia,870.0
+Cameroon,0.0
+Canada,732630.0
+Caribbean,215.0
+"Caribbean origins, n.o.c",20.0
+"Central and South American origins, n.o.c",0.0
+"Central and West African origins, n.o.c",1775.0
+Chad,0.0
+Chile,875.0
+China,510.0
+Colombia,305.0
+Coptic,100.0
+Costa Rica,245.0
+Croatia,470.0
+Cuba,3840.0
+Cyprus,2015.0
+Czech Republic,1250.0
+"Czechoslovakian, n.o.c",20.0
+DR Congo,345.0
+Denmark,775.0
+Dinka,830.0
+Djibouti,10.0
+Dominican Republic,10.0
+"East and Southeast Asian origins, n.o.c",0.0
+"Eastern European origins, n.o.c",130.0
+Ecuador,115.0
+Egypt,80.0
+El Salvador,50.0
+Eritrea,25.0
+Estonia,19935.0
+Ethiopia,645.0
+Fiji,30.0
+Finland,48945.0
+France,43770.0
+Gabon,20.0
+Georgia,625.0
+Germany,59400.0
+Ghana,0.0
+Greece,80.0
+Grenada,0.0
+Guadeloupe,0.0
+Guatemala,1625.0
+Guinea,15.0
+Guyana,550.0
+Haiti,35.0
+Harari,100.0
+Hazara,25.0
+Hispanic,35.0
+Hmong,290.0
+Honduras,15.0
+Hungary,2955.0
+Iceland,530.0
+India,32365.0
+Indonesia,105.0
+Iran,995.0
+Iraq,20.0
+Ireland,46890.0
+Israel,150.0
+Italy,15750.0
+Ivory Coast,0.0
+Jamaica,70.0
+Japan,90.0
+Jordan,4930.0
+Karen,15.0
+Kazakhstan,2370.0
+Kenya,10.0
+Kosovo,1930.0
+Kurdistan,35.0
+Kuwait,310.0
+Kyrgyzstan,2285.0
+Laos,200.0
+Latvia,5685.0
+Lebanon,40.0
+Liberia,0.0
+Libya,75.0
+Lithuania,1710.0
+Luxembourg,2425.0
+Madagascar,620.0
+Malaysia,20.0
+Mali,10.0
+Malinké,0.0
+Malta,1085.0
+Martinique,55.0
+Mauritania,3280.0
+Mauritius,630.0
+Maya,260.0
+Mexico,1995.0
+Moldova,12210.0
+Mongolia,3115.0
+Montenegro,5455.0
+Montserrat,535.0
+Morocco,25.0
+Myanmar (Burma),275.0
+Nepal,120.0
+Netherlands,3735.0
+New Zealand,0.0
+Nicaragua,20.0
+Nigeria,595.0
+"North African origins, n.o.c",50.0
+North Macedonia,145.0
+"Northern European origins, n.o.c ",305.0
+Norway,1850.0
+Oromo,30.0
+"Other African origins, n.o.c",70.0
+"Other Asian origins, n.o.c",45.0
+"Other European origins, n.o.c",15.0
+"Other North American origins, n.o.c",115.0
+"Pacific Islands origins, n.o.c",0.0
+Pakistan,620.0
+Palestine,30.0
+Panama,340.0
+Paraguay,460.0
+Pashtun,1100.0
+Peru,10675.0
+Peulh,105.0
+Philippines,3380.0
+Poland,125.0
+"Polynesian, n.o.c",0.0
+Portugal,1220.0
+Puerto Rico,260.0
+Roma,640.0
+Romania,56015.0
+Russia,1165.0
+Rwanda,25.0
+Saint Kitts and Nevis,1075.0
+Saint Lucia,12280.0
+Saint Vincent and the Grenadines,195.0
+Samoa,0.0
+Saudi Arabia,50.0
+Senegal,75.0
+Serbia,50.0
+Seychelles,115.0
+Sierra Leone,3265.0
+Singapore,70.0
+"Slavic, n.o.c",75.0
+Slovakia,20.0
+Slovenia,1155.0
+Somalia,15.0
+South Africa,660.0
+"South Asian origins, n.o.c",10.0
+South Korea,125.0
+"Southern European origins, n.o.c",880.0
+"Southern and East African origins, n.o.c",375.0
+Spain,7570.0
+Sri Lanka,14155.0
+Sudan,45.0
+Sweden,715.0
+Switzerland,2625.0
+Syria,50.0
+Taiwan,260.0
+Tajikistan,40.0
+Tanzania,15.0
+Tatar,80.0
+Thailand,770.0
+The Bahamas,180.0
+The Gambia,100.0
+Tigria,250.0
+Togo,65.0
+Trinidad and Tobago,15.0
+Tunisia,70.0
+Turkey,980.0
+Turkmenistan,12540.0
+Uganda,2740.0
+Ukraine,3135.0
+United Kingdom,180285.0
+United States,45.0
+Uruguay,25.0
+Uzbekistan,520.0
+Venezuela,0.0
+Vietnam,115.0
+"West Central Asian and Middle Eastern origins, n.o.c",65.0
+"West India, n.o.c",40.0
+Wolof,50.0
+Yemen,8665.0
+"Yugoslavian, n.o.c",80.0
+Zambia,2325.0
+Zimbabwe,58765.0
+Zulu,2690.0
+origin,6050.0
