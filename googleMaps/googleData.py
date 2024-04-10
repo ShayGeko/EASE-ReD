@@ -18,6 +18,7 @@ def search_restaurants(cuisine, apiKey, location):
     return response.json()
 
 
+# changed for the USA data
 def main():
     print("Loading environment variables...")
     load_dotenv()
@@ -37,7 +38,7 @@ def main():
                 with open("cuisine.csv", "r") as cuisine_file:
                     reader = csv.reader(cuisine_file)
                     for row in reader:
-                        cuisine = row[0]  # Get the cuisine from the first column
+                        cuisine = row[0]  # get the cuisine from the first column
                         print(
                             f"Making request for cuisine: {cuisine} in location: {location}"
                         )

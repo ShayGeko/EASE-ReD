@@ -1,50 +1,6 @@
 import csv
 import os
-import re
 import pandas as pd
-
-
-def process_csv_with_replacement(input_file, output_file, replace_column):
-    """
-    Process the CSV file with replacement of values in the first column.
-
-    Args:
-        input_file (str): Path to the input CSV file.
-        output_file (str): Path to the output CSV file.
-        replace_column (str): Path to the CSV file containing replacement values.
-
-    Returns:
-        None
-    """
-    process_csv(input_file, output_file)
-    replace_data = read_first_column(replace_column)
-    with open(output_file, "r") as f:
-        reader = csv.reader(f)
-        rows = list(reader)
-    with open(output_file, "w", newline="") as f:
-        writer = csv.writer(f)
-        for i, row in enumerate(rows):
-            if i < len(replace_data):
-                row[0] = replace_data[i]
-            writer.writerow(row)
-    aggregate_data(
-        output_file
-    )  # Call the aggregate_data function after cleaning and replacing column names
-
-
-def aggregate_data(output_file):
-    """
-    Aggregate the data by origin name and their sum.
-
-    Args:
-        output_file (str): Path to the output CSV file.
-
-    Returns:
-        None
-    """
-    df = pd.read_csv(output_file)
-    df = df.groupby("origin").sum().reset_index()
-    df.to_csv(output_file, index=False)
 
 
 def process_csv(input_file, output_file):
@@ -59,7 +15,12 @@ def process_csv(input_file, output_file):
         None
     """
     lines_to_remove = [
+        0,
+        1,
         2,
+        3,
+        4,
+        5,
         6,
         16,
         17,
@@ -85,97 +46,84 @@ def process_csv(input_file, output_file):
         270,
         273,
     ]
+    df = pd.read_csv(
+        input_file, encoding="ISO-8859-1", skiprows=list(range(0, 6)), nrows=284
+    )
 
-    with open(input_file, "r", encoding="ISO-8859-1") as csv_file:
-        reader = csv.reader(csv_file)
-        with open(output_file, "w", newline="") as outfile:
-            writer = csv.writer(outfile)
-            writer.writerow(["origin", "population"])
-            header_skipped = False
-            for row in reader:
-                if not header_skipped and row[0] == "Total - Ethnic origin [5]":
-                    header_skipped = True
-                    continue
-                if header_skipped:
-                    cleaned_row = []
-                    for item in row:
-                        cleaned_item = re.sub(r'"\s*\d+\s*"', "", item)
-                        cleaned_item = cleaned_item.replace("n.i.e", "n.o.s")
-                        cleaned_item = cleaned_item.strip().replace('" ', '"')
-                        cleaned_row.append(
-                            cleaned_item.strip()
-                            if item.startswith('"')
-                            else cleaned_item
-                        )
-                    writer.writerow(cleaned_row[:-2])
-            header_skipped = False
-            for row in reader:
-                if not header_skipped and row[0] == "Total - Ethnic origin [5]":
-                    header_skipped = True
-                    writer.writerow(row)
-                    continue
-                if header_skipped:
-                    cleaned_row = []
-                    for item in row:
-                        cleaned_item = re.sub(r'"\s*\d+\s*"', "", item)
-                        cleaned_item = cleaned_item.replace("n.i.e", "n.o.s")
-                        cleaned_item = cleaned_item.strip().replace('" ', '"')
-                        cleaned_row.append(
-                            cleaned_item.strip()
-                            if item.startswith('"')
-                            else cleaned_item
-                        )
-                    writer.writerow(cleaned_row[:-2])
+    # drop the columns after the second column
+    df.drop(df.iloc[:, 2:], inplace=True, axis=1)
 
-    with open(output_file, "r") as f:
-        lines = f.readlines()
-    with open(output_file, "w") as f:
-        for i, line in enumerate(lines, 1):
-            if i not in lines_to_remove:
-                f.write(line)
+    # assign new columns names
+    df.columns = ["origin", "population"]
+
+    # replacing n.o.s and whitesoace chatacters
+    df["origin"] = df["origin"].str.replace(r'"\s*\d+\s*"', "")
+    df["origin"] = df["origin"].str.replace("n.i.e", "n.o.s")
+    df["origin"] = df["origin"].str.strip().str.replace('" ', '"')
+
+    # remove the lines from lines_to_remove
+    df = df.drop(lines_to_remove, errors="ignore")
+
+    df.to_csv(output_file, index=False)
 
 
-def read_first_column(file_name):
+def process_csv_with_replacement(input_file, output_file, replace_column):
     """
-    Read the first column of a CSV file.
+    Process the CSV file with replacement of values in the first column.
 
     Args:
-        file_name (str): Path to the CSV file.
+        input_file (str): Path to the input CSV file.
+        output_file (str): Path to the output CSV file.
+        replace_column (str): Path to the CSV file containing replacement values.
 
     Returns:
-        list: The values in the first column.
+        None
     """
-    with open(file_name, "r") as f:
-        reader = csv.reader(f)
-        first_column = [row[0] for row in reader if row]
-    return first_column
+    # call the process_csv function to clean the input csv file
+    process_csv(input_file, output_file)
+    # read the replacement data from the replace_column csv file
+    replace_data = pd.read_csv(replace_column, header=None)[0].tolist()
+    # read the cleaned csv file
+    df = pd.read_csv(output_file)
+    # replace the first column of the cleaned csv file with the replacement data
+    df.iloc[: len(replace_data), 0] = replace_data
+    # write the replaced data back to the csv file
+    df.to_csv(output_file, index=False)
+    # aggregate the data in the csv file
+    aggregate_data(output_file)
+    process_csv(input_file, output_file)
+
+    # replace the first column of the cleaned csv file with the replacement data
+    replace_data = pd.read_csv(replace_column, header=None)[0].tolist()
+
+    # read the cleaned csv file
+    df = pd.read_csv(output_file)
+
+    # replace the first column of the cleaned csv file with the replacement data
+    df.iloc[: len(replace_data), 0] = replace_data
+
+    # write the replaced data back to the csv file
+    df.to_csv(output_file, index=False)
+
+    # aggregate the data in the csv file
+    aggregate_data(output_file)
 
 
-# def process_csv_with_replacement(input_file, output_file, replace_column):
-#     """
-#     Process the CSV file with replacement of values in the first column.
+def aggregate_data(output_file):
+    """
+    Aggregate the data by origin name and their sum.
 
-#     Args:
-#         input_file (str): Path to the input CSV file.
-#         output_file (str): Path to the output CSV file.
-#         replace_column (str): Path to the CSV file containing replacement values.
+    Args:
+        output_file (str): Path to the output CSV file.
 
-#     Returns:
-#         None
-#     """
-#     process_csv(input_file, output_file)
+    Returns:
+        None
+    """
+    df = pd.read_csv(output_file)
 
-#     replace_data = read_first_column(replace_column)
-
-#     with open(output_file, "r") as f:
-#         reader = csv.reader(f)
-#         rows = list(reader)
-#     with open(output_file, "w", newline="") as f:
-#         writer = csv.writer(f)
-#         for i, row in enumerate(rows):
-#             if i < len(replace_data):
-#                 row[0] = replace_data[i]
-#             writer.writerow(row)
+    # group by the sum of the population by origin
+    df = df.groupby("origin").sum().reset_index()
+    df.to_csv(output_file, index=False)
 
 
 def clean_census_for_cities(city_list_file, replace_column):
@@ -189,15 +137,23 @@ def clean_census_for_cities(city_list_file, replace_column):
     Returns:
         None
     """
+    # open the city list file
     with open(city_list_file, "r") as cities_file:
+        # create a csv reader
         cities_reader = csv.reader(cities_file)
+        # iterate over each row in the csv file
         for city_row in cities_reader:
+            # get the city name from the first column of the row
             city_name = city_row[0]
+            # construct the input file path using the city name
             input_file = f"{city_name}.csv"
+            # construct the output file path using the city name
             output_file = os.path.join("cleanedcensus", f"{city_name}.csv")
 
+            # call the function to process the csv file with replacement
             process_csv_with_replacement(input_file, output_file, replace_column)
-            print(f"Cleaning for {city_name} completed.")
+            # print a message indicating the completion of cleaning for the current city
+            print(f"cleaning for {city_name} completed.")
 
 
 def main():
