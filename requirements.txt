@@ -4,3 +4,5 @@ pytorch
 matplotlib
 sentence_transformers
 pyspark
+tqdm
+sklearn
