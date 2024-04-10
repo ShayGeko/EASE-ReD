@@ -4,43 +4,41 @@ import os
 from dotenv import load_dotenv
 from itertools import islice
 
-load_dotenv()
-# Your Bing Maps API key
-api_key = os.getenv("BING_API_KEY")
+load_dotenv()  # load environment variables from .env file
+api_key = os.getenv(
+    "BING_API_KEY"
+)  # get the Bing Maps API key from environment variables
 
-# The type of cuisine you're interested in
-cuisine = "Restaurants"
+cuisine = "Restaurants"  # define the type of cuisine you're interested in
 
-# Read locations from counties_states.csv
+# read locations from counties_states.csv
 with open("edited_counties.csv", "r") as f:
     reader = csv.reader(f)
-    locations = list(islice(reader, 2262, None))  # Skip to line 449
+    locations = list(islice(reader, 2262, None))  # skip to line 449
 
-# For each location
+# for each location
 for location in locations:
-    # Convert list to string
-    location = " ".join(location)
-    print(location)
+    location = " ".join(location)  # convert list to string
+    print(location)  # print the location
 
-    # Construct the URL for the HTTP request
+    # construct the URL for the HTTP request
     url = f"https://atlas.microsoft.com/search/poi/json?subscription-key={api_key}&api-version=1.0&query={cuisine}+in+{location}&limit=100"
 
-    # Make the HTTP request
-    response = requests.get(url)
+    response = requests.get(url)  # make the HTTP request
 
-    # Parse the response
-    data = response.json()
+    data = response.json()  # parse the response
 
-    # Prepare data for CSV
+    # prepare data for CSV
     csv_data = []
     for item in data.get("results", []):
         categories = item["poi"]["categories"]
-        if "restaurant" in categories:
+        if "restaurant" in categories:  # if "restaurant" is in categories, remove it
             categories.remove("restaurant")
-        if categories:  # Check if categories is not empty
+        if categories:  # check if categories is not empty
             csv_data.append([categories])
-    # Write data to CSV file
+
+    # write data to CSV file
     with open(f"counties/{location}.csv", "w", newline="") as file:
         writer = csv.writer(file)
-        writer.writerow(["Categories"])
-        writer.writerows(csv_data)
+        writer.writerow(["Categories"])  # write the header
+        writer.writerows(csv_data)  # write the rows
