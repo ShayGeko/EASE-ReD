@@ -1,14 +1,14 @@
 import sys
 from pyspark.sql import SparkSession, functions, types
 
-spark = SparkSession.builder.appName('models').getOrCreate()
+spark = SparkSession.builder.appName('models_canada').getOrCreate()
 spark.sparkContext.setLogLevel('WARN')
 
 assert sys.version_info >= (3, 5)  # make sure we have Python 3.5+
 assert spark.version >= '2.3'  # make sure we have Spark 2.3+
 
 demographics_directory = sys.argv[1]
-# restaurants_directory = sys.argv[2]
+restaurants_directory = sys.argv[2]
 
 def filename_to_city(filename):
     pos_start = filename.find('cleanedcensus/') + 14  # first occurence of substring

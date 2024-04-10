@@ -62,7 +62,7 @@ def xml2dict(xml: str):
 
     return data
 
-def main(city:str="Vancouver", type = 'cuisine'):
+def main(city:str="Abbotsford", type = 'cuisine'):
     if type == 'cuisine':
         response = get_city_restaurants_with_cuisine(city)
     elif type == 'all':
