@@ -43,6 +43,9 @@ def generate_embeddings_from_bing_maps(model, input = "./bingMaps/counties/", ou
     """
     files = os.listdir(input)
 
+    if(os.path.exists(output)):
+        os.remove(output)
+
     all_embeddings = []
     counties = []
     for file in tqdm(files):
@@ -52,12 +55,14 @@ def generate_embeddings_from_bing_maps(model, input = "./bingMaps/counties/", ou
             df['Categories'] = df['Categories'].str.replace("[\[\]'']", '', regex=True)
             
             county_name = file[:-4]
-            counties.append(county_name)
 
             embeddings = model.encode(df['Categories'])
 
             if(embeddings.size == 0):
                 continue
+
+            
+            counties.append(county_name)
             avg_embedding = np.mean(embeddings, axis=0)
 
             all_embeddings.append(avg_embedding)
@@ -78,9 +83,12 @@ def generate_embeddings_from_bing_maps(model, input = "./bingMaps/counties/", ou
             
     all_embeddings_df = np.array(all_embeddings)
 
-    pca = PCA(n_components = 20)
+    pca = PCA(n_components = 50)
     pca_embeddings = pca.fit_transform(all_embeddings_df)
-    pca_embeddings = pd.DataFrame({'county': counties, 'embedding': list(pca_embeddings)})
+    
+    pca_embeddings = [np.array2string(embedding, separator=', ', precision=4, suppress_small=True) for embedding in pca_embeddings]
+    
+    pca_embeddings = pd.DataFrame({'county' : counties,'embedding':pca_embeddings})
     pca_output = "./embeddings/pca_bing_embeddings.csv"
     pca_embeddings.to_csv(pca_output, index=False)
 

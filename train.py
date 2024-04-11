@@ -54,7 +54,9 @@ def store_visuals(actuals, predictions, cities, file):
 
 
 def train_model(X_train, X_test, y_train, y_test, test_counties, config):
-    model = MLPRegressor(input_size=X_train.shape[1])
+    hidden_layer_size = int(config['hidden_layer_size'])
+    layers = [hidden_layer_size,hidden_layer_size,hidden_layer_size]
+    model = MLPRegressor(input_size=X_train.shape[1], hidden_size=layers)
 
     # classification loss
     # loss weights because white is a majority class:
