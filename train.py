@@ -85,11 +85,11 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
         loss = criterion(outputs, y_train) # + torch.relu(-outputs).mean()
 
         if epoch % 25 == 0:
-            print(f'Epoch {epoch}, Loss: {loss.item()}')
             with torch.no_grad():
                 val_outputs = model(X_test)
                 val_loss = criterion(val_outputs, y_test)
                 val_losses.append(val_loss.item())
+            print(f'Epoch {epoch}, train loss: {loss.item()}, validation loss: {val_losses[-1]}')
             train_losses.append(loss.item())
 
 

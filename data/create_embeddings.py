@@ -86,7 +86,7 @@ def generate_embeddings_from_bing_maps(model, input = "./bingMaps/counties/", ou
     pca = PCA(n_components = 50)
     pca_embeddings = pca.fit_transform(all_embeddings_df)
     
-    pca_embeddings = [np.array2string(embedding, separator=', ', precision=4, suppress_small=True) for embedding in pca_embeddings]
+    pca_embeddings = [np.array2string(embedding, separator=',', max_line_width=np.inf)[1:-1]  for embedding in pca_embeddings]
     
     pca_embeddings = pd.DataFrame({'county' : counties,'embedding':pca_embeddings})
     pca_output = "./embeddings/pca_bing_embeddings.csv"

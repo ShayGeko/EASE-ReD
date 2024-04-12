@@ -18,3 +18,6 @@ So predicting all white gives a 70% accuracy.
 ----- a. Weights for BCEWithLogitsLoss.
 ----- We have very few datapoints given the 384-dimensional sentence embedding.
 To tackle this we try to do PCA on it to reduce to 20 dimensions.
+
+
+contextily -- tiles, map visualization
