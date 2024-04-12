@@ -6,6 +6,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
+import geopandas as gpd
+from shapely.geometry import box, Point
+from contextily import Place
+import contextily as cx
+import rasterio
+from rasterio.plot import show as rioshow
+
 from torch import nn
 
 from data import load_data, prepare_data
@@ -33,7 +40,7 @@ def store_visuals(actuals, predictions, cities, dir):
         ax.bar(x - width/2, actuals[i], width, label='Actual')
         ax.bar(x + width/2, predictions[i], width, label='Predicted')
         ax.set_ylim(0, 1)
-        
+
         print(f'City: {city}')
         print("actuals:")
         print(actuals[i])
@@ -66,13 +73,13 @@ def get_MSE(actuals, predictions, cities, dir):
     MSEs = []
     pred = []
     act = []
-    for i, city in enumerate(cities):        
+    for i, city in enumerate(cities):
         counties.append(city[0])
         pred.append(predictions[i])
         act.append(actuals[i])
         MSE = nn.MSELoss()(torch.tensor(predictions[i]), torch.tensor(actuals[i])).item()
         MSEs.append(MSE)
-    errors = pd.DataFrame({'county': counties, 
+    errors = pd.DataFrame({'county': counties,
                            'MSE': MSEs,
                            'predictions': pred,
                            'actuals': act})
@@ -97,27 +104,38 @@ def get_MSE(actuals, predictions, cities, dir):
     # Save the entire figure containing all subplots
     plt.subplots_adjust(wspace=0.4, hspace=0.6)
     # plt.show()
-    plt.savefig(f'{dir}/predictions.png')
+    plt.savefig(f'{dir}/predictions_most_inaccurate.png')
+
+    return errors
+
+def map_MSE(errors):
+    plt.rcParams["figure.dpi"] = 70 # lower image size
+    errors = errors[['counties', 'MSEs']]
 
 def main(config):
     model = torch.load(f'./experiments/{config["name"]}/models/model-1000.pth')
 
     city_demographics, city_cuisine_embeddings = \
         load_data(config)
-    
+
     X_train, X_test, y_train, y_test, train_cities, test_cities = \
         prepare_data(city_cuisine_embeddings, city_demographics)
-    
-    
+
     model.eval()
     predictions = model(X_test)
+    predictions_all = model(torch.cat((X_train,X_test)))
     # if(config['loss'] == 'BCEWithLogits'):
     #     predictions = nn.functional.softmax(predictions, dim=1)
     # print(predictions.shape)
+    # print(predictions_all.shape)
 
     results = predictions.detach().numpy()
+    results_all = predictions_all.detach().numpy()
     actuals = y_test.detach().numpy()
+    actuals_all = torch.cat((y_train,y_test)).detach().numpy()
     cities = test_cities
+    cities_all = np.concatenate((train_cities, cities))
+    # print(np.shape(cities_all))
 
     # visualize the results
     dir = f'./experiments/{config["name"]}/visuals'
@@ -128,9 +146,9 @@ def main(config):
         os.makedirs(dir_MSE)
 
     # store_visuals(actuals, results, cities, dir)
-    get_MSE(actuals, results, cities, dir_MSE)
+    MSEs = get_MSE(actuals_all, results_all, cities_all, dir_MSE)
 
-
+    map_MSE(MSEs)
 
 
 if __name__ == "__main__":
