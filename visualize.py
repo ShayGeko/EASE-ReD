@@ -95,7 +95,7 @@ def get_MSE(actuals, predictions, cities, dir):
         ax.bar(x - width/2, errors_top15['actuals'][i], width, label='Actual')
         ax.bar(x + width/2, errors_top15['predictions'][i], width, label='Predicted')
         ax.set_ylim(0, 1)
-    print(errors_top15)
+    print(errors_top15[['county', 'MSE']])
 
     # Adjust or remove empty subplots if cities < nrows*ncols
     for i in range(len(cities), nrows*ncols):
@@ -110,7 +110,21 @@ def get_MSE(actuals, predictions, cities, dir):
 
 def map_MSE(errors):
     plt.rcParams["figure.dpi"] = 70 # lower image size
-    errors = errors[['counties', 'MSEs']]
+    zoom_lvl = 50
+    errors = errors[['county', 'MSE']]
+    def marker_colour(num):
+        if num > 0.08:
+            return 'red'
+        elif num > 0.05:
+            return 'purple'
+        elif num > 0.03:
+            return 'blue'
+        else:
+            return 'green'
+    errors['colour'] = errors['MSE'].apply(lambda x: marker_colour(x))
+    errors['longitude'] = errors['county'].apply(lambda x: Place(x, zoom = zoom_lvl).longitude)
+    errors['latitude'] = errors['county'].apply(lambda x: Place(x, zoom = zoom_lvl).latitude)
+    print(errors)
 
 def main(config):
     model = torch.load(f'./experiments/{config["name"]}/models/model-1000.pth')
