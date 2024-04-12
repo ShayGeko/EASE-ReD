@@ -14,7 +14,7 @@ cuisine = "Restaurants"  # define the type of cuisine you're interested in
 # read locations from counties_states.csv
 with open("edited_counties.csv", "r") as f:
     reader = csv.reader(f)
-    locations = list(islice(reader, 1893, None))  # skip to line 449
+    locations = list(islice(reader, 1917, None))  # skip to line 449
 
 # for each location
 for location in locations:
