@@ -1,0 +1,970 @@
+Cuisine Type,Name,Address,Website
+Mexican,El Mezcal Mexican Restaurant,"126 W St Charles St, San Andreas, CA 95249, USA",
+Mexican,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Mexican,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Mexican,El Vaquero,"925 CA-4, Arnold, CA 95223, USA",
+Mexican,Mi Pueblo,"3505 Spangler Ln # 104, Copperopolis, CA 95228, USA",http://mipueblocopper.com/
+Mexican,Taqueria Los Pinos Food Truck,"3361 Ebbetts Pass Hwy, Arnold, CA 95223, USA",https://www.facebook.com/AVERYLOSPINOS/
+Mexican,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Mexican,Rivera’s Taqueria & Market,"55 State Rte 26, Valley Springs, CA 95252, USA",
+Mexican,Tacos Mi Charro,"82 N Main St, Angels Camp, CA 95222, USA",
+Mexican,El Torero,"2869 W Hwy 12, Valley Springs, CA 95252, USA",https://eltorerojackson.com/
+Mexican,Mi Tierra Restaurant,"1906 Vista Del Lago Dr, Valley Springs, CA 95252, USA",
+Mexican,Mary's Taco Truck,"300 N Main St, Angels Camp, CA 95222, USA",https://sites.google.com/view/marystacos/home
+Mexican,Las Minas Mexican Restaurant,"20220 CA-88, Pine Grove, CA 95665, USA",http://www.lasminasrestaurant.com.mx/
+Mexican,La Esmeralda,"535 CA-49 Ste 5, Jackson, CA 95642, USA",https://laesmeraldaca.com/
+Mexican,Tacos Campos,"33 State Rte 26, Valley Springs, CA 95252, USA",
+Mexican,El Arroyo | Cantina & Méxican Kitchen,"126 S Washington St, Sonora, CA 95370, USA",
+Mexican,La Esperanza Taco Truck,"281 E St Charles St, San Andreas, CA 95249, USA",http://laesperanzatacos.com/
+Mexican,La Esperanza | Mexican Food,"460 CA-49, Sutter Creek, CA 95685, USA",
+Mexican,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Mexican,El Torero Méxican Restaurant,"11968 CA-88 # 3002, Jackson, CA 95642, USA",https://eltorerojackson.com/
+Swedish,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Latvian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Italian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Italian,Sarafina's Italian Kitchen,"794 CA-4, Arnold, CA 95223, USA",http://www.sarafinasitaliankitchen.com/
+Italian,toscano's restaurante,"380 Main St, Murphys, CA 95247, USA",
+Italian,Pizza Factory,"373 W St Charles St, San Andreas, CA 95249, USA",http://san-andreas.pizzafactory.com/
+Italian,De Vinci's Delicatessen & Catering,"40 CA-12, Valley Springs, CA 95252, USA",https://www.devincisdeli.com/valley-springs
+Italian,Murphys Pizza Co.,"178 Big Trees Rd # B4, Murphys, CA 95247, USA",http://murphyspizzaco.com/
+Italian,Round Table Pizza,"27 N Main St Ste B, Angels Camp, CA 95222, USA",https://ordering.roundtablepizza.com/site/glpangelscamp
+Italian,Saluti's,"719 CA-49, Jackson, CA 95642, USA",
+Italian,Pizza Factory,"1919 Vista Del Lago Dr, Valley Springs, CA 95252, USA",http://www.pizzafactory.com/locations/valley-springs
+Italian,Strings Italian Cafe,"11976 CA-88, Jackson, CA 95642, USA",http://jacksonstrings.com/
+Italian,Verona18,"1001 Saddle Creek Dr, Copperopolis, CA 95228, USA",http://www.coppervalleygolf.com/
+Italian,Mike's Pizza,"294 S Main St, Angels Camp, CA 95222, USA",http://www.angelscampmikespizza.com/
+Italian,Viney's Italian Kitchen,"83 S Stewart St, Sonora, CA 95370, USA",https://vineysitaliankitchen.com/
+Italian,Round Table Pizza,"87 State Rte 26 Suite 2 2, Valley Springs, CA 95252, USA",https://ordering.roundtablepizza.com/site/glpvalley
+Italian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Italian,Pizza Factory,"2182 CA-4 C-250, Arnold, CA 95223, USA",http://www.pizzafactory.com/arnold
+Italian,Pinocchio's,"736 Mono Way, Sonora, CA 95370, USA",http://www.pinocchiositalianrestaurant.com/
+Italian,Teresa's Place,"1235 Jackson Gate Rd, Jackson, CA 95642, USA",http://www.teresasitalian.com/
+Italian,Giannini's Italian Dinners,"19845 CA-88, Pine Grove, CA 95665, USA",
+Spanish,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Spanish,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Spanish,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Spanish,El Mezcal Mexican Restaurant,"126 W St Charles St, San Andreas, CA 95249, USA",
+Spanish,Mi Pueblo,"3505 Spangler Ln # 104, Copperopolis, CA 95228, USA",http://mipueblocopper.com/
+Spanish,Taqueria Los Pinos Food Truck,"3361 Ebbetts Pass Hwy, Arnold, CA 95223, USA",https://www.facebook.com/AVERYLOSPINOS/
+Spanish,El Torero,"2869 W Hwy 12, Valley Springs, CA 95252, USA",https://eltorerojackson.com/
+Spanish,Mi Tierra Restaurant,"1906 Vista Del Lago Dr, Valley Springs, CA 95252, USA",
+Spanish,El Vaquero,"925 CA-4, Arnold, CA 95223, USA",
+Spanish,Rivera’s Taqueria & Market,"55 State Rte 26, Valley Springs, CA 95252, USA",
+Spanish,Tacos Mi Charro,"82 N Main St, Angels Camp, CA 95222, USA",
+Spanish,La Esperanza Taco Truck,"281 E St Charles St, San Andreas, CA 95249, USA",http://laesperanzatacos.com/
+Spanish,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Spanish,TACO TRUCK UNION DE AMIGOS,"506 CA-12, Valley Springs, CA 95252, USA",
+Spanish,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Spanish,Mary's Taco Truck,"300 N Main St, Angels Camp, CA 95222, USA",https://sites.google.com/view/marystacos/home
+Spanish,El Torero Méxican Restaurant,"11968 CA-88 # 3002, Jackson, CA 95642, USA",https://eltorerojackson.com/
+Spanish,La Esmeralda,"535 CA-49 Ste 5, Jackson, CA 95642, USA",https://laesmeraldaca.com/
+Spanish,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Spanish,Las Minas Mexican Restaurant,"20220 CA-88, Pine Grove, CA 95665, USA",http://www.lasminasrestaurant.com.mx/
+American,Lube Room Saloon,"3431 CA-4, Dorrington, CA 95223, USA",http://www.theluberoom.com/
+American,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+American,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+American,Highway House Restaurant,"627 CA-49, Jackson, CA 95642, USA",https://hhrb627.com/
+American,Frosty angels camp,"290 S Main St, Angels Camp, CA 95222, USA",https://notforprofitadvertising.com/
+American,Sierra House,"1051 CA-4, Arnold, CA 95223, USA",http://www.sierrahouseofarnold.com/
+American,Corral's Grill,"35 Main St, San Andreas, CA 95249, USA",
+American,Station 49 Grill,"345 E St Charles St, San Andreas, CA 95249, USA",https://www.station49grill.com/
+American,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+American,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+American,50's Road House,"18341 Kennedy Rd, Knights Ferry, CA 95361, USA",
+American,Plate 88,"24146 CA-88, Pioneer, CA 95666, USA",https://www.facebook.com/profile.php?id=100086796381990
+American,Lone Wolf | Restaurant and Lounge,"12222 New York Ranch Rd, Jackson, CA 95642, USA",https://www.jacksoncasino.com/dining/lone-wolf-restaurant-lounge
+American,Patio Drive In,"284 W St Charles St, San Andreas, CA 95249, USA",
+American,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+American,Frank's Café,"8085 State Rte 26, Mokelumne Hill, CA 95245, USA",
+American,Baldi’s at Copper Valley,"240 Town Square Rd, Copperopolis, CA 95228, USA",http://www.baldiscoppervalley.com/
+American,Black Bart Inn,"35 Main St, San Andreas, CA 95249, USA",
+American,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+American,The Rock of Twain Harte,"23068 Fuller Rd, Twain Harte, CA 95383, USA",http://www.rockoftwainharte.com/
+Scottish,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Scottish,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Scottish,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Scottish,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Scottish,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Scottish,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Scottish,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Scottish,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Scottish,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Scottish,Claussen's Corner,"1208 S Main St, Angels Camp, CA 95222, USA",
+Scottish,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Scottish,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Scottish,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+British,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+British,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+British,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+British,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+British,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+British,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+British,Bristol's Ranch House Cafe,"961 CA-4, Arnold, CA 95223, USA",
+British,Gooney's Bar & Grill,"6 Main St, San Andreas, CA 95249, USA",
+British,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+British,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+British,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+British,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+British,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+British,Bear & Crown British Pub,"1022 2nd St, Sacramento, CA 95814, USA",http://bearandcrown.com/
+British,Touch of Britain,"5712 Watt Ave, North Highlands, CA 95660, USA",
+British,Drifters Marina & Grill,"6603 Lake Tulloch Pl, Copperopolis, CA 95228, USA",https://driftersmarina.com/?y_source=1_NTMwNzEwNTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Thai,Sea Thai House,"200 W Hwy 12 Ste E4, Valley Springs, CA 95252, USA",https://seathaihouse.com/
+Thai,Thai Siam,"12240 Industry Blvd #72, Jackson, CA 95642, USA",https://qmenu.us/#/thai-siam-jackson
+Thai,Sonora Thai Cuisine,"51 S Washington St, Sonora, CA 95370, USA",
+Japanese,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Japanese,Doke Sushi,"403 Main St #9628, Murphys, CA 95247, USA",https://www.facebook.com/DokeSushi/
+Japanese,Oko Sushi,"12280 Industry Blvd # 84, Jackson, CA 95642, USA",http://okosushijackson.net/
+Chinese,Arnold Chinese Restaurant,"2182 CA-4, Arnold, CA 95223, USA",https://arnoldchinesetogo.com/
+Chinese,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Chinese,Fusion Grill,"1906 Vista Del Lago Dr D, Valley Springs, CA 95252, USA",https://usmapz.me/fusion-grill-929861-us
+Chinese,Good Friends Chinese Restaurant,"9 California St, Valley Springs, CA 95252, USA",http://goodfriendsvalleysprings.com/
+Chinese,Asian Café,"64 Mitchler St, Murphys, CA 95247, USA",
+Chinese,Le's Chinese Restaurant,"24887 CA-88, Pioneer, CA 95666, USA",
+Chinese,Panda House,"12300 Martell Rd, Jackson, CA 95642, USA",https://www.doordash.com/
+Chinese,Dragon Palace Restaurant,"314 E St Charles St, San Andreas, CA 95249, USA",
+Chinese,Ione Chinese Restaurant,"321 Preston Ave, Ione, CA 95640, USA",https://m.facebook.com/pages/Ione-Chinese-food/149390961771324
+Chinese,Golden Dragon,"11980 CA-88 #2072, Jackson, CA 95642, USA",https://goldendragoncatogo.com/
+Chinese,Hong Kong Garden,"267 S Washington St, Sonora, CA 95370, USA",
+Chinese,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Chinese,Bamboo Garden,"111 S Maag Ave K, Oakdale, CA 95361, USA",https://bamboogardenoakdale.net/
+Chinese,Great Wall Restaurant,"13775 Mono Way, Sonora, CA 95370, USA",https://www.greatwallchinesesonora.com/
+Chinese,Sea Thai House,"200 W Hwy 12, Valley Springs, CA 95252, USA",https://seathaihouse.com/
+Chinese,B E Wok & Sushi,"764 Mono Way, Sonora, CA 95370, USA",http://bewokonlineorder.com/
+Chinese,China City Restaurant,"4100 Cameron Park Dr #114, Cameron Park, CA 95682, USA",https://m.facebook.com/pages/category/Cantonese-Restaurant/CHINA-CITY-103856503504/
+Chinese,Full Moon Palace,"1000 C St #50, Galt, CA 95632, USA",
+Chinese,China Village Restaurant,"935 N Yosemite St, Stockton, CA 95203, USA",
+Chinese,Sea Thai House,"200 W Hwy 12 Ste E4, Valley Springs, CA 95252, USA",https://seathaihouse.com/
+Indian,Taste of Himalaya,"609 S, CA-49, Jackson, CA 95642, USA",https://www.tasteofhimalayajackson.com/
+Canadian,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Canadian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Canadian,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Canadian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Canadian,Frosty angels camp,"290 S Main St, Angels Camp, CA 95222, USA",https://notforprofitadvertising.com/
+Canadian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Canadian,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Canadian,Lube Room Saloon,"3431 CA-4, Dorrington, CA 95223, USA",http://www.theluberoom.com/
+Canadian,Sierra House,"1051 CA-4, Arnold, CA 95223, USA",http://www.sierrahouseofarnold.com/
+Canadian,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Canadian,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Canadian,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Canadian,Griff's BBQ & Grill,"304 Town Square Rd, Copperopolis, CA 95228, USA",http://www.griffsbbqngrill.com/
+Canadian,Mike's Pizza,"294 S Main St, Angels Camp, CA 95222, USA",http://www.angelscampmikespizza.com/
+Canadian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Canadian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Canadian,Patio Drive In,"284 W St Charles St, San Andreas, CA 95249, USA",
+Canadian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Canadian,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Canadian,Ham's Station,"34950 CA-88, Pioneer, CA 95666, USA",
+Russian,Noroc Restaurant,"4715 Manzanita Ave, Carmichael, CA 95608, USA",http://norocrestaurant.com/
+Jewish,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Jewish,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Jewish,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Jewish,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Jewish,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Jewish,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Jewish,Lila & Sage - Cake & Catering Co.,"107 Emerald Creek Dr, Murphys, CA 95247, USA",http://www.lilaandsage.com/
+Polish,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Polish,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Polish,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Polish,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Polish,Hawg Dawg's Gourmet Dawgs,"200 CA-12, Valley Springs, CA 95252, USA",https://www.facebook.com/Hawgdawgs12?mibextid=LQQJ4d
+Polish,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Polish,Corral's Grill,"35 Main St, San Andreas, CA 95249, USA",
+Polish,Cozy Cabin Cafe,"22612 State Rte 26, West Point, CA 95255, USA",
+Polish,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Polish,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Polish,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Polish,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Polish,Creekside Bistro,"275 Bear Valley Rd, Bear Valley, CA 95223, USA",https://www.bearvalley.com/bear-valley-vacation-rentals/bvdining/
+Polish,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Polish,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Polish,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Polish,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Polish,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Polish,Taste Restaurant and Wine Bar,"9402 Main St, Plymouth, CA 95669, USA",http://www.restauranttaste.com/
+Polish,Jackson’s Waffle Shop,"543 CA-49, Jackson, CA 95642, USA",https://www.facebook.com/Waffle-Shop-121046104576047/
+German,German Guys,"10438 Waterloo Rd, Stockton, CA 95215, USA",http://www.german-guys.com/
+French,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+French,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+French,ALLEZ!,"4242 Fowler Ln Suite 101, Diamond Springs, CA 95619, USA",https://www.allezeldorado.com/?y_source=1_Mjk5OTkyNjEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+French,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+French,Frosty angels camp,"290 S Main St, Angels Camp, CA 95222, USA",https://notforprofitadvertising.com/
+French,Blue Lake Bistro at Snowflake Lodge,"335 Blue Lake Springs Dr, Camp Connell, CA 95223, USA",http://blsha.com/
+French,Cured Belly,"130 CA-4, Murphys, CA 95247, USA",http://curedbelly.com/
+French,Saluti's,"719 CA-49, Jackson, CA 95642, USA",
+French,Lube Room Saloon,"3431 CA-4, Dorrington, CA 95223, USA",http://www.theluberoom.com/
+French,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+French,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+French,Plan B Restaurant,"555 La Sierra Dr, Sacramento, CA 95864, USA",https://planbrestaurant-arden.com/
+French,Teresa's Place,"1235 Jackson Gate Rd, Jackson, CA 95642, USA",http://www.teresasitalian.com/
+French,Rossetti's at The 19th Hole,"4462 CA-4, Avery, CA 95222, USA",
+French,Todds Bread Company,"164 CA-4, Murphys, CA 95247, USA",
+French,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+French,Bon appétit crêpes croissants & more,"The Junction Shopping Center, Mono Way #13761C, Sonora, CA 95370, USA",https://www.facebook.com/people/Bon-Appetit-Crepes-Croissants-More/100057804393773/
+French,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+French,Tacos Mi Charro,"82 N Main St, Angels Camp, CA 95222, USA",
+French,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Hawaiian,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Hawaiian,Griff's BBQ & Grill,"304 Town Square Rd, Copperopolis, CA 95228, USA",http://www.griffsbbqngrill.com/
+Hawaiian,Tiki Hawaii BBQ,"1570 E F St Suite L, Oakdale, CA 95361, USA",
+Hawaiian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Hawaiian,Ono Hawaiian BBQ,"190 Commerce Ave #104, Manteca, CA 95336, USA",http://www.onobbq.com/
+Hawaiian,Sunshine Hawaiian Bbq,"480 S Cherokee Ln, Lodi, CA 95240, USA",
+Hawaiian,L&L Hawaiian Barbecue,"2447 Claribel Rd #A, Riverbank, CA 95367, USA",https://www.hawaiianbarbecue.com/locations/riverbank/
+Hawaiian,L&L Hawaiian Barbecue,"1010 W Las Palmas Ave A, Patterson, CA 95363, USA",https://www.hawaiianbarbecue.com/locations/patterson/
+Hawaiian,Ono Hawaiian BBQ,"1401 S Lower Sacramento Rd Suite 120, Lodi, CA 95242, USA",http://www.onobbq.com/
+Hawaiian,L&L Hawaiian Barbecue,"2517 Mitchell Rd A, Ceres, CA 95307, USA",https://www.hawaiianbarbecue.com/menu/
+Hawaiian,Ono Hawaiian BBQ,"2930 Service Rd, Ceres, CA 95307, USA",https://onohawaiianbbq.com/
+Hawaiian,Ono Hawaiian BBQ,"2225 Plaza Pkwy A, Modesto, CA 95350, USA",http://www.onobbq.com/
+Hawaiian,Ono Hawaiian BBQ,"3080 Countryside Dr, Turlock, CA 95380, USA",http://www.onobbq.com/
+Hawaiian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Hawaiian,Ono Hawaiian BBQ,"2152 Daniels St, Manteca, CA 95337, USA",http://www.onobbq.com/
+Hawaiian,Round Table Pizza,"27 N Main St Ste B, Angels Camp, CA 95222, USA",https://ordering.roundtablepizza.com/site/glpangelscamp
+Hawaiian,Koala Bear Grill And More,"1061 C St #110, Galt, CA 95632, USA",
+Hawaiian,L&L Hawaiian Barbecue,"4555 N Pershing Ave #33A, Stockton, CA 95207, USA",http://hawaiianbbqtogo.com/
+Hawaiian,Big Island Hawaiian BBQ,"1016 Riley St #5, Folsom, CA 95630, USA",https://eatbigisland.com/
+Hawaiian,Honu Hawaiian BBQ,"8211 Bruceville Rd #100, Sacramento, CA 95823, USA",https://honuhawaiianbbqca.com/
+Brazilian,Brazil Steakhouse,"8698 Elk Grove Blvd # 3, Elk Grove, CA 95624, USA",http://brazilsteakhouse95624.com/
+Brazilian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Brazilian,Fogo De Minas Brazilian Steakhouse,"2606 Gateway Oaks Dr #140/150, Sacramento, CA 95833, USA",http://fogodeminas.com/
+Brazilian,Flame & Fire Brazilian Steakhouse,"380 Palladio Pkwy #305, Folsom, CA 95630, USA",http://www.flameandfire.com/
+Brazilian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Brazilian,Chama Nativa Brazilian Steakhouse,"6935 Camino Arroyo, Gilroy, CA 95020, USA",https://www.chamanativausa.com/
+Brazilian,Pampas Brazilian Steakhouse,"1111 J St, Sacramento, CA 95814, USA",http://pampasbraziliansteakhouse.com/
+Brazilian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Brazilian,Galpão Gaucho Brazilian Steakhouse,"1444 N California Blvd, Walnut Creek, CA 94596, USA",https://galpaogauchousa.com/locations/walnut-creek-ca//
+Brazilian,Gaucho Brazilian Steakhouse n Nightclub,"2410 San Ramon Valley Blvd #130, San Ramon, CA 94583, USA",https://www.gauchonight.com/
+Brazilian,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Brazilian,Brazil Frozen Chicken Brand,"1322 Lakewood Dr, Lodi, CA 95240, USA",https://brazilfrozenchickenbrands.com.br/
+Brazilian,El Mezcal Mexican Restaurant,"126 W St Charles St, San Andreas, CA 95249, USA",
+Brazilian,Brasas Do Brazil Churrascaria,"1631 Willow Pass Rd, Concord, CA 94520, USA",http://brasasbrazil.com/
+Brazilian,La Esperanza Taco Truck,"281 E St Charles St, San Andreas, CA 95249, USA",http://laesperanzatacos.com/
+Brazilian,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Brazilian,Texas De Brazil - Concord,"2025 Diamond Blvd Ste 100, Concord, CA 94520, USA",https://texasdebrazil.com/locations/concord/?utm_source=gmb&utm_medium=yext&y_source=1_NDg4NDAyMTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Peruvian,Doña Tere Peruvian Restaurant,"16438 Cambridge Dr, Lathrop, CA 95330, USA",http://donatereperuvian.com/
+Salvadorian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Salvadorian,Pupusería & Restaurante Los Latinos,"650 N Grant St, Stockton, CA 95202, USA",https://pupuseriarestauranteloslatinosca.com/
+Salvadorian,Copland Leal Salvadorean & Mexican Food Truck,"517 W Hatch Rd, Modesto, CA 95351, USA",
+Salvadorian,La Santaneca Pupusería,"2508 Oakdale Rd, Modesto, CA 95355, USA",
+Salvadorian,Pupuseria Garcia,"505 Paradise Rd, Modesto, CA 95351, USA",
+Salvadorian,Reyes Taquería y Pupuseria,"19660 CA-88, Pine Grove, CA 95665, USA",
+Salvadorian,Pupusas,"884 Sebastian Ln, Manteca, CA 95336, USA",
+Salvadorian,Café Plátano,"834 W 11th St, Tracy, CA 95376, USA",http://platanotracy.eatontheweb.com/
+Salvadorian,El Patio,"2703 S El Dorado St, Stockton, CA 95206, USA",https://elpatioca.com/
+Salvadorian,La Esperanza Taco Truck,"281 E St Charles St, San Andreas, CA 95249, USA",http://laesperanzatacos.com/
+Salvadorian,Salvadoreño Restaurant,"3021 Sunrise Blvd, Rancho Cordova, CA 95742, USA",http://www.kimsonbuffet.com/
+Salvadorian,La Flor Pupusas Grill,"2440 Fulton Ave #15, Sacramento, CA 95825, USA",https://m.facebook.com/pages/La-Flor-Pupusas-Grill/144796448903020
+Salvadorian,"Las Palmas | Carniceria, Pupuseria & Taqueria","7386 Stockton Blvd I, Sacramento, CA 95823, USA",http://orderlaspalmascarniceriapupuseriaandtaqueria.com/
+Salvadorian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Salvadorian,El Izote,"5650 Power Inn Rd # 800, Sacramento, CA 95824, USA",https://elizoteca.com/
+Salvadorian,Mari Pupusas,"2780 Swift Way, Sacramento, CA 95822, USA",
+Salvadorian,Las Palmas Bakery & Pupusas,"6290 Mack Rd, Sacramento, CA 95823, USA",
+Salvadorian,Pupusa Loca Y Restaurante Mexicano,"651 I St, Los Banos, CA 93635, USA",http://la-pupusa.com/
+Salvadorian,Pupusas Central,"3408 Northgate Blvd # 1, Sacramento, CA 95834, USA",
+Salvadorian,La Sonsonateca Restaurant,"5243 Elkhorn Blvd, Sacramento, CA 95842, USA",
+Cuban,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Cuban,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Cuban,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Cuban,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Cuban,El Mezcal Mexican Restaurant,"126 W St Charles St, San Andreas, CA 95249, USA",
+Cuban,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Cuban,Tacos Mi Charro,"82 N Main St, Angels Camp, CA 95222, USA",
+Cuban,Rivera’s Taqueria & Market,"55 State Rte 26, Valley Springs, CA 95252, USA",
+Cuban,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Cuban,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Cuban,La Esperanza Taco Truck,"281 E St Charles St, San Andreas, CA 95249, USA",http://laesperanzatacos.com/
+Cuban,Sol Cubano,"5734 Watt Ave, North Highlands, CA 95660, USA",https://facebook.com/pages/category/Caribbean-Restaurant/Sol-Cubano-Restaurant-148076171929035/
+Cuban,Gondo Fusion Cuban Mexican food,"6415 Elvas Ave, Sacramento, CA 95819, USA",http://www.gondofusion.com/
+Cuban,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Cuban,Latino Restaurant,"2151 E Main St, Stockton, CA 95205, USA",http://orderlatinorestaurantca.com/
+Cuban,Taco Bell,"200 S Main St, Angels Camp, CA 95221, USA",https://locations.tacobell.com/ca/angels-camp/200-s-main.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=022939&utm_content=website&y_source=1_NjE0NTQzMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Cuban,Cured Belly,"130 CA-4, Murphys, CA 95247, USA",http://curedbelly.com/
+Cuban,Las Minas Mexican Restaurant,"20220 CA-88, Pine Grove, CA 95665, USA",http://www.lasminasrestaurant.com.mx/
+Cuban,Patio Drive In,"284 W St Charles St, San Andreas, CA 95249, USA",
+Cuban,Taco Bell,"200 CA-12, Valley Springs, CA 95252, USA",https://locations.tacobell.com/ca/valley-springs/200-e--hwy-12.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=024461&utm_content=website&y_source=1_NjE0NTQ0MS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Tibetan,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Egyptian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Greek,Kalamata Mediterranean Cuisine,"1224 Oak Cir, Arnold, CA 95223, USA",https://kalamataarnold.com/
+Greek,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Greek,Yianni's Grill - Greek and American Cuisine,"275 S Washington St, Sonora, CA 95370, USA",https://motherlodewebsites.com/yiannis-greek-grill
+Greek,Sutter Greek,"76 Main St, Sutter Creek, CA 95685, USA",http://www.suttergreek.com/
+Greek,Zanga Mediterranean Cuisine,"3801 Yosemite Blvd, Modesto, CA 95355, USA",
+Greek,Nick The Greek,"2251 Claribel Rd, Riverbank, CA 95367, USA",https://www.nickthegreek.com/
+Greek,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Greek,Yasoo Yani Restaurant,"326 E Main St, Stockton, CA 95202, USA",http://www.facebook.com/yasooyani209
+Greek,Willow Wisp Café,"1210 Sanguinetti Rd #6200, Sonora, CA 95370, USA",
+Greek,Papapolloni Mediterranean Bistro,"2501 McHenry Ave, Modesto, CA 95350, USA",https://www.papapolloni.net/
+Greek,Zest Mediterranean Cuisine,"1008 Riley St, Folsom, CA 95630, USA",https://www.zest.restaurant/
+Greek,Saluti's,"719 CA-49, Jackson, CA 95642, USA",
+Greek,Petra Greek,"1122 16th St, Sacramento, CA 95814, USA",http://www.petragreek.com/
+Greek,Skewers Kabob House,"821 L St, Modesto, CA 95354, USA",http://www.821lstreet.com/
+Greek,Park’s Gyro and Shawarma Grill,"3326 Coach Ln, Cameron Park, CA 95682, USA",https://www.parksgyroshawarmagrill.com/
+Greek,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Greek,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Greek,BUCK'S FIZZ RESTAURANT,"650 Fulton Ave, Sacramento, CA 95825, USA",
+Greek,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Greek,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Belgian,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Belgian,Blue Lake Bistro at Snowflake Lodge,"335 Blue Lake Springs Dr, Camp Connell, CA 95223, USA",http://blsha.com/
+Belgian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Belgian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Belgian,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Belgian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Belgian,Baldi’s at Copper Valley,"240 Town Square Rd, Copperopolis, CA 95228, USA",http://www.baldiscoppervalley.com/
+Belgian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Belgian,Bristol's Ranch House Cafe,"961 CA-4, Arnold, CA 95223, USA",
+Belgian,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Belgian,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Belgian,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Belgian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Belgian,Jackson’s Waffle Shop,"543 CA-49, Jackson, CA 95642, USA",https://www.facebook.com/Waffle-Shop-121046104576047/
+Belgian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Belgian,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Belgian,Mel’s Diner,"31 CA-88, Jackson, CA 95642, USA",http://melandfayes.homestead.com/index.html
+Belgian,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Belgian,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Belgian,Perko's Café,"11988 CA-88, Jackson, CA 95642, USA",http://perkos.com/
+Irish,Murphys Irish Pub,"415 Main St, Murphys, CA 95247, USA",http://goirishinmurphys.com/
+Welsh,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Cajun,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Cajun,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Cajun,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Cajun,Heart and Soul Country Kitchen,"2182 CA-4 Suite #G-720-730, Arnold, CA 95223, USA",https://www.facebook.com/people/Heart-Soul-country-kitchen/100091650326693/?mibextid=ZbWKwL
+Cajun,The Watering Hole,"223 Big Trees Rd, Murphys, CA 95247, USA",https://murphyswateringhole.com/
+Cajun,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Cajun,Highway House Restaurant,"627 CA-49, Jackson, CA 95642, USA",https://hhrb627.com/
+Cajun,Vista Grill At La Contenta,"1653 State Rte 26, Valley Springs, CA 95252, USA",
+Cajun,The Cajun Spot,"283 W Louise Ave, Manteca, CA 95336, USA",http://www.thecajunspot.com/
+Cajun,Hawg Dawg's Gourmet Dawgs,"200 CA-12, Valley Springs, CA 95252, USA",https://www.facebook.com/Hawgdawgs12?mibextid=LQQJ4d
+Cajun,Blazin' Cajun Restaurant,"125 Bridge Pl, Stockton, CA 95202, USA",http://blazincajunrestaurant.dine.online/?utm_source=website
+Cajun,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Cajun,Luka's Restaurant & Bar,"35 Main St, Jackson, CA 95642, USA",https://lukas49.com/
+Cajun,Hook & Reel Cajun Seafood & Bar,"8211 Bruceville Rd, Sacramento, CA 95823, USA",https://hookreel.com/location/sacramento-bruceville/
+Cajun,Asian N Cajun,"4271 Truxel Rd b1, Sacramento, CA 95834, USA",http://asianncajunsac.com/
+Cajun,Cajun Crack'n,"275 Ranch Dr, Milpitas, CA 95035, USA",
+Cajun,Cajun Catch,"2986 W Grant Line Rd, Tracy, CA 95304, USA",
+Cajun,Patio Drive In,"284 W St Charles St, San Andreas, CA 95249, USA",
+Cajun,Firehouse Crawfish | Cajun Seafood Restaurant,"6519 Savings Pl, Sacramento, CA 95828, USA",http://www.firehousecrawfish.com/
+Cajun,Emberz Wood-Fired Foodz,"177 S Washington St, Sonora, CA 95370, USA",http://emberzzz.com/
+Portuguese,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Portuguese,Debby's Cuisine,"1429 Stanislaus St F, Escalon, CA 95320, USA",https://www.debbyscuisine.com/
+Portuguese,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Portuguese,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Portuguese,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Portuguese,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Portuguese,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Portuguese,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Portuguese,LaSalette,"6757, 452 1st St E suite h, Sonoma, CA 95476, USA",http://lasaletterestaurant.com/
+Portuguese,"Petiscos ""Alum Rock""","1614 Alum Rock Ave, San Jose, CA 95116, USA",https://www.petiscosadega.com/
+Portuguese,Ostioneria Vallaria,"575 Lander Ave, Turlock, CA 95380, USA",
+Portuguese,Tasca Tasca - Portuguese Tapas and Wine Bar,"122 W Napa St, Sonoma, CA 95476, USA",http://www.tascatasca.com/
+Portuguese,"Petiscos ""Downtown""","399 S 1st St, San Jose, CA 95113, USA",http://petiscosadega.com/
+Portuguese,Jackson’s Waffle Shop,"543 CA-49, Jackson, CA 95642, USA",https://www.facebook.com/Waffle-Shop-121046104576047/
+Turkish,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Turkish,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Turkish,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Turkish,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Turkish,Zanga Mediterranean Cuisine,"3801 Yosemite Blvd, Modesto, CA 95355, USA",
+Turkish,Skewers Kabob House,"821 L St, Modesto, CA 95354, USA",http://www.821lstreet.com/
+Turkish,Sultana Mediterranean,"1149 El Camino Real, Menlo Park, CA 94025, USA",http://www.thesultana.net/
+Turkish,Patogh Restaurant,"130 W Monte Vista Ave, Turlock, CA 95382, USA",
+Turkish,M's | Halal Mediterranean Food,"1976 Fulton Ave, Sacramento, CA 95825, USA",
+Turkish,King's Halal Mediterranean Food (حلال),"906 J St, Sacramento, CA 95814, USA",http://kingsmediterraneanfood.com/
+Turkish,Skewers,"1117 8th St, Modesto, CA 95354, USA",
+Turkish,Ali's Eats,"772 Murphys Creek Rd Suite D, Murphys, CA 95247, USA",http://www.aliseats.com/
+Turkish,Zest Mediterranean Cuisine,"1008 Riley St, Folsom, CA 95630, USA",https://www.zest.restaurant/
+Turkish,Mr Gil’s and Grill,"1421 Coffee Rd suite h, Modesto, CA 95355, USA",https://www.rescue.org/announcement/irc-business-spotlight-mr-gils-market-grill
+Turkish,Mediterranean Bakery & Cuisine,"1547 Fulton Ave C, Sacramento, CA 95825, USA",
+Turkish,Shish Grill,"1061 Market Pl #A, San Ramon, CA 94583, USA",http://www.theshishgrill.com/
+Turkish,Papapolloni Mediterranean Bistro,"2501 McHenry Ave, Modesto, CA 95350, USA",https://www.papapolloni.net/
+Turkish,Sultan Kebab & Falafel,"11000 Crow Canyon Rd G, Danville, CA 94506, USA",http://www.sultankf.com/
+Turkish,Kolbeh | Kabob Restaurant,"8700 Greenback Ln, Orangevale, CA 95662, USA",http://kolbehkabobrestaurant.com/
+Turkish,Tarla Mediterranean Bar + Grill,"1480 1st St, Napa, CA 94559, USA",http://www.tarlagrill.com/
+Haitian,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Tahitian,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Tahitian,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Tahitian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Tahitian,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Tahitian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Tahitian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Tahitian,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Tahitian,Mike's Pizza,"294 S Main St, Angels Camp, CA 95222, USA",http://www.angelscampmikespizza.com/
+Tahitian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Tahitian,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Tahitian,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Tahitian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Tahitian,Sarafina's Italian Kitchen,"794 CA-4, Arnold, CA 95223, USA",http://www.sarafinasitaliankitchen.com/
+Tahitian,Rossetti's at The 19th Hole,"4462 CA-4, Avery, CA 95222, USA",
+Tahitian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Tahitian,Sierra House,"1051 CA-4, Arnold, CA 95223, USA",http://www.sierrahouseofarnold.com/
+Tahitian,El Vaquero,"925 CA-4, Arnold, CA 95223, USA",
+Tahitian,Bristol's Ranch House Cafe,"961 CA-4, Arnold, CA 95223, USA",
+Tahitian,Snowshoe Brewing Company,"2050 CA-4, Arnold, CA 95223, USA",http://thesnowshoebrewery.com/
+Tahitian,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Kenyan,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Korean,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Korean,Moon’s Korean Kitchen,"13220 US-50, Kyburz, CA 95720, USA",https://moonskoreankitchen.com/
+Korean,Fusion Grill,"1906 Vista Del Lago Dr D, Valley Springs, CA 95252, USA",https://usmapz.me/fusion-grill-929861-us
+Korean,Seoul Soondubu - Korean BBQ,"2041 Pacific Ave, Stockton, CA 95204, USA",http://seoulsoontobu.com/
+Korean,Hoki Korean BBQ & Japanese Cuisine,"2625 Coffee Rd, Modesto, CA 95355, USA",http://www.hokitogo.com/
+Korean,Asian Café,"64 Mitchler St, Murphys, CA 95247, USA",
+Korean,Yogi korean bbq,"3121 W Benjamin Holt Dr, Stockton, CA 95219, USA",http://kbbqyogi.com/
+Korean,K-Town Korean BBQ and Hot Pot,"5420 Pacific Ave, Stockton, CA 95207, USA",
+Korean,The Watering Hole,"223 Big Trees Rd, Murphys, CA 95247, USA",https://murphyswateringhole.com/
+Korean,Jang Su Jang,"269 W Calaveras Blvd, Milpitas, CA 95035, USA",http://jangsujang.com/milpitas/
+Korean,Blue House Korean BBQ,"1030 Howe Ave, Sacramento, CA 95825, USA",https://bluehousekbbq.com/
+Korean,Modurang Family Korean Restaurant,"9545 Folsom Blvd, Sacramento, CA 95827, USA",https://www.modurangrestaurant.com/
+Korean,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Korean,SEOULZIP KOREAN RESTAURANT,"2827 Zinfandel Dr, Rancho Cordova, CA 95670, USA",
+Korean,GK Mongolian BBQ,"1197 Sanguinetti Rd, Sonora, CA 95370, USA",http://www.gkmongolianbbq.com/
+Korean,Pine Tree House,"9205 Folsom Blvd STE D, Sacramento, CA 95826, USA",
+Korean,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Korean,Doke Sushi,"403 Main St #9628, Murphys, CA 95247, USA",https://www.facebook.com/DokeSushi/
+Korean,Ssong's Hotdog - STOCKTON,"1217 W March Ln, Stockton, CA 95207, USA",https://www.ssongshotdogstockton.com/
+Korean,Bonchon North Stockton,"7840 West Ln Suite E-3, Stockton, CA 95210, USA",https://locations.bonchon.com/ll/US/CA/Stockton/7840-N-West-Ln
+Algerian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Nigerian,Ruby's kitchen,"110 N El Dorado St, Stockton, CA 95202, USA",https://www.rubyskitchengh-africa.com/
+Libyan,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Libyan,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Libyan,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Libyan,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Libyan,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Libyan,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Libyan,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Libyan,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Libyan,Mike's Pizza,"294 S Main St, Angels Camp, CA 95222, USA",http://www.angelscampmikespizza.com/
+Libyan,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Libyan,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Libyan,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Libyan,Doke Sushi,"403 Main St #9628, Murphys, CA 95247, USA",https://www.facebook.com/DokeSushi/
+Libyan,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Libyan,Creekside Bistro,"275 Bear Valley Rd, Bear Valley, CA 95223, USA",https://www.bearvalley.com/bear-valley-vacation-rentals/bvdining/
+Libyan,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Libyan,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Libyan,Mandy's Breakfast House,"22267 Parrotts Ferry Rd, Sonora, CA 95370, USA",http://mandysbreakfast.com/
+Libyan,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Moroccan,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Lebanese,Kalamata Mediterranean Cuisine,"1224 Oak Cir, Arnold, CA 95223, USA",https://kalamataarnold.com/
+Lebanese,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Lebanese,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Lebanese,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Lebanese,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Lebanese,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Lebanese,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Lebanese,Sutter Greek,"76 Main St, Sutter Creek, CA 95685, USA",http://www.suttergreek.com/
+Lebanese,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Lebanese,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Lebanese,Zanga Mediterranean Cuisine,"3801 Yosemite Blvd, Modesto, CA 95355, USA",
+Lebanese,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Lebanese,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Lebanese,Ishtar Mediterranean Market And Grill,"2340 W Monte Vista Ave, Turlock, CA 95382, USA",
+Lebanese,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Lebanese,Park’s Gyro and Shawarma Grill,"3326 Coach Ln, Cameron Park, CA 95682, USA",https://www.parksgyroshawarmagrill.com/
+Lebanese,Me'Mo's Middle Eastern Cuisine,"2221 McHenry Ave, Modesto, CA 95350, USA",http://ordermemosmiddleeasterncuisine.com/
+Lebanese,Betty's Kabob,"1300 Sylvan Ave, Modesto, CA 95355, USA",
+Lebanese,Skewers Kabob House,"821 L St, Modesto, CA 95354, USA",http://www.821lstreet.com/
+Lebanese,toscano's restaurante,"380 Main St, Murphys, CA 95247, USA",
+Vietnamese,Pho Royal,"12240 Industry Blvd, Jackson, CA 95642, USA",
+Vietnamese,Asian Café,"64 Mitchler St, Murphys, CA 95247, USA",
+Vietnamese,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Vietnamese,Pho 38,"818 N Yosemite Ave, Oakdale, CA 95361, USA",
+Vietnamese,King Phở | Vietnamese Cuisine,"524 N Main St, Manteca, CA 95336, USA",https://www.kingphoca.com/
+Vietnamese,Mac Phở,"3322 E Hammer Ln, Stockton, CA 95212, USA",https://www.facebook.com/pages/category/Vietnamese-Restaurant/MAC-PHO-Vietnamese-Restaurant-813157038776960/
+Vietnamese,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Vietnamese,Phở Bình Minh Restaurant,"1139 E March Ln D, Stockton, CA 95210, USA",
+Vietnamese,Viet Noodles Xpress,"2400 Coffee Rd suite h, Modesto, CA 95355, USA",
+Vietnamese,Pho Island II,"1125 S Main St, Manteca, CA 95337, USA",https://phoislandmanteca.com/
+Vietnamese,Pho o'clock,"1401 Coffee Rd Ste D, Modesto, CA 95355, USA",
+Vietnamese,Phở Nguyễn Restaurant,"275 W Calaveras Blvd, Milpitas, CA 95035, USA",
+Vietnamese,Fusion Grill,"1906 Vista Del Lago Dr D, Valley Springs, CA 95252, USA",https://usmapz.me/fusion-grill-929861-us
+Vietnamese,Pho Saigon Bay Restaurant,"5756 Pacific Ave #14C, Stockton, CA 95207, USA",https://saigonbaystockton.wixsite.com/website
+Vietnamese,Rice and Roll’d - Manteca CA,"134 W Yosemite Ave, Manteca, CA 95336, USA",https://www.facebook.com/Rice-Rolld-106627072170600
+Vietnamese,Phở 7 Anh,"677 N Golden State Blvd, Turlock, CA 95380, USA",
+Vietnamese,Phở Lucky Restaurant,"8034 N El Dorado St, Stockton, CA 95210, USA",https://www.pholuckystockton.com/
+Vietnamese,iPho Vietnamese Noodle House,"1400 Standiford Ave # 7, Modesto, CA 95350, USA",http://www.iphonoodle.com/
+Vietnamese,Mama's Pho & Sandwiches,"8014 N Lower Sacramento Rd # E, Stockton, CA 95210, USA",
+Vietnamese,Saigon One,"901 N Carpenter Rd #61, Modesto, CA 95351, USA",
+Hungarian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Mediterranean,Kalamata Mediterranean Cuisine,"1224 Oak Cir, Arnold, CA 95223, USA",https://kalamataarnold.com/
+Mediterranean,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Mediterranean,Zanga Mediterranean Cuisine,"3801 Yosemite Blvd, Modesto, CA 95355, USA",
+Mediterranean,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Mediterranean,Skewers Kabob House,"821 L St, Modesto, CA 95354, USA",http://www.821lstreet.com/
+Mediterranean,Ishtar Mediterranean Market And Grill,"2340 W Monte Vista Ave, Turlock, CA 95382, USA",
+Mediterranean,Zest Mediterranean Cuisine,"1008 Riley St, Folsom, CA 95630, USA",https://www.zest.restaurant/
+Mediterranean,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Mediterranean,Sutter Greek,"76 Main St, Sutter Creek, CA 95685, USA",http://www.suttergreek.com/
+Mediterranean,Papapavlo's Mediterranean Bistro & Bar,"1320 Standiford Ave #2, Modesto, CA 95350, USA",http://www.papapavlosmodesto.com/
+Mediterranean,Patogh Restaurant,"130 W Monte Vista Ave, Turlock, CA 95382, USA",
+Mediterranean,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Mediterranean,Park’s Gyro and Shawarma Grill,"3326 Coach Ln, Cameron Park, CA 95682, USA",https://www.parksgyroshawarmagrill.com/
+Mediterranean,King's Halal Mediterranean Food (حلال),"906 J St, Sacramento, CA 95814, USA",http://kingsmediterraneanfood.com/
+Mediterranean,Ariana/Oasis Mediterranean Restaurant,"7336 Fair Oaks Blvd, Carmichael, CA 95608, USA",https://www.oasis-mediterranean.com/
+Mediterranean,Papapolloni Mediterranean Bistro,"2501 McHenry Ave, Modesto, CA 95350, USA",https://www.papapolloni.net/
+Mediterranean,Sarafina's Italian Kitchen,"794 CA-4, Arnold, CA 95223, USA",http://www.sarafinasitaliankitchen.com/
+Mediterranean,Tacos Mi Charro,"82 N Main St, Angels Camp, CA 95222, USA",
+Mediterranean,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Mediterranean,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Ethiopian,Queen Sheba Ethiopian Cuisine,"1704 Broadway, Sacramento, CA 95818, USA",https://deliverme.com/queensheba
+Ethiopian,Abyssinia | Ethiopian Restaurant,"1346 Fulton Ave, Sacramento, CA 95825, USA",http://www.abyssiniasacramento.com/
+Ethiopian,Kind Bean Café and Ethiopian Cuisine,"1547 Fulton Ave suite D, Sacramento, CA 95825, USA",http://kindbeancafe.net/
+Ethiopian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Ethiopian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Ethiopian,Nile Ethio Kitchen,"1547 Fulton Ave suite D, Sacramento, CA 95825, USA",
+Ethiopian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Ethiopian,Mudai Ethiopian Restaurant,"503 W San Carlos St, San Jose, CA 95126, USA",https://www.mudaiethiopianrestaurant.com/?y_source=1_MTU0NTA4ODYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Ethiopian,Walia Ethiopian Cuisine,"2208 Business Cir, San Jose, CA 95128, USA",http://www.waliaethiopian.com/
+Ethiopian,Meskie's Ethiopia Restaurant,"2955 Telegraph Ave, Berkeley, CA 94705, USA",http://orderethiopiarestaurant.com/
+Ethiopian,Selam Restaurant and Cafe,"3120 Williams Rd, San Jose, CA 95117, USA",
+Ethiopian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Ethiopian,Abesha Ethiopian Cuisine,"4929 Shattuck Ave., Oakland, CA 94609, USA",
+Ethiopian,Enssaro Ethiopian Restaurant,"357-A Grand Ave, Oakland, CA 94610, USA",http://www.enssarooakland.com/
+Ethiopian,LeYou Ethiopian,"1100 N First St suite c, San Jose, CA 95112, USA",http://leyouethiopian.com/
+Ethiopian,Addis,"6100 Telegraph Ave, Berkeley, CA 94705, USA",http://www.addisethiopian.com/
+Ethiopian,Barcote Ethiopian Restaurant,"6430 Telegraph Ave, Oakland, CA 94609, USA",https://barcote.com/
+Ethiopian,Lemat Ethiopian Restaurant,"3212 Adeline St, Berkeley, CA 94703, USA",http://www.lemateats.com/
+Ethiopian,Messob Ethiopian Restaurant,"4301 Piedmont Ave B, Oakland, CA 94611, USA",https://www.messobethiopianrestaurant.com/
+Ethiopian,Naija Cuisine,"At the food court, 6148 Sunrise Mall Rd, Citrus Heights, CA 95610, USA",https://naijacuisinetogo.com/
+Caribbean,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Caribbean,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Caribbean,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Caribbean,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Caribbean,CJ’S Jamaican & BBQ Catering,"4368 N Sutter St, Stockton, CA 95204, USA",https://cjs209.com/
+Caribbean,Dubplate Kitchen & Jamaican Cuisine,"3419 El Camino Ave, Sacramento, CA 95821, USA",https://www.dubplatekitchencuisine.com/
+Caribbean,Doke Sushi,"403 Main St #9628, Murphys, CA 95247, USA",https://www.facebook.com/DokeSushi/
+Caribbean,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Caribbean,Mike's Pizza,"294 S Main St, Angels Camp, CA 95222, USA",http://www.angelscampmikespizza.com/
+Caribbean,E&B Jamaican Food,"2128 S Airport Way, Stockton, CA 95206, USA",
+Caribbean,Island Spices & Soul,"110 N El Dorado St, Stockton, CA 95202, USA",
+Caribbean,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Caribbean,Patio Drive In,"284 W St Charles St, San Andreas, CA 95249, USA",
+Caribbean,Caribbean Fire Grill,"1501 N C St, Sacramento, CA 95811, USA",https://www.caribbeanfiregrill.com/
+Caribbean,Jamrock Island Cuisine,"900 Alamo Dr, Vacaville, CA 95688, USA",https://www.jamrockisland.com/
+Caribbean,Café Connection - Caribbean,"1007 L St, Sacramento, CA 95814, USA",http://facebook.com/cafeconnectioncaribbeancuisine
+Caribbean,jamaican,"1303 10th St Suite 1173, Sacramento, CA 95814, USA",
+Caribbean,Fiya Spice Caribbean,"1343 Buchanan Rd, Pittsburg, CA 94565, USA",https://www.fiyaspice.com/
+Caribbean,EZ Vibe Meals,"2324 Florin Rd, Sacramento, CA 95822, USA",
+Caribbean,Mandy's Breakfast House,"22267 Parrotts Ferry Rd, Sonora, CA 95370, USA",http://mandysbreakfast.com/
+Soul,Heart and Soul Country Kitchen,"2182 CA-4 Suite #G-720-730, Arnold, CA 95223, USA",https://www.facebook.com/people/Heart-Soul-country-kitchen/100091650326693/?mibextid=ZbWKwL
+Argentinian,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Argentinian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Argentinian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Argentinian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Argentinian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Argentinian,Cured Belly,"130 CA-4, Murphys, CA 95247, USA",http://curedbelly.com/
+Argentinian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Argentinian,El Mezcal Mexican Restaurant,"126 W St Charles St, San Andreas, CA 95249, USA",
+Chilean,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Chilean,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Chilean,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Chilean,Tacos Mi Charro,"82 N Main St, Angels Camp, CA 95222, USA",
+Chilean,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Chilean,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Chilean,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Chilean,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Chilean,El Mezcal Mexican Restaurant,"126 W St Charles St, San Andreas, CA 95249, USA",
+Chilean,Mi Tierra Restaurant,"1906 Vista Del Lago Dr, Valley Springs, CA 95252, USA",
+Chilean,Taqueria Los Pinos Food Truck,"3361 Ebbetts Pass Hwy, Arnold, CA 95223, USA",https://www.facebook.com/AVERYLOSPINOS/
+Chilean,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Chilean,Mi Pueblo,"3505 Spangler Ln # 104, Copperopolis, CA 95228, USA",http://mipueblocopper.com/
+Chilean,El Vaquero,"925 CA-4, Arnold, CA 95223, USA",
+Chilean,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Chilean,La Esperanza Taco Truck,"281 E St Charles St, San Andreas, CA 95249, USA",http://laesperanzatacos.com/
+Chilean,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Chilean,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Chilean,El Torero,"2869 W Hwy 12, Valley Springs, CA 95252, USA",https://eltorerojackson.com/
+Chilean,Highway House Restaurant,"627 CA-49, Jackson, CA 95642, USA",https://hhrb627.com/
+Colombian,The Columbia House Restaurant,"22738 Main St, Columbia, CA 95310, USA",http://www.thebellaunion.com/
+Colombian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Colombian,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Colombian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Colombian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Colombian,Tacos Mi Charro,"82 N Main St, Angels Camp, CA 95222, USA",
+Colombian,Mi Tierra Restaurant,"1906 Vista Del Lago Dr, Valley Springs, CA 95252, USA",
+Colombian,Fonda Colombiana,"1442 S White Rd, San Jose, CA 95127, USA",https://fondacolombianasj.com/
+Colombian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Colombian,El Mezcal Mexican Restaurant,"126 W St Charles St, San Andreas, CA 95249, USA",
+Colombian,St Charles Saloon,"22801 Main St, Columbia, CA 95310, USA",http://www.stcharlessaloon.com/
+Colombian,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Colombian,Divina Colombian Café,"6201 Franklin Blvd, Sacramento, CA 95824, USA",https://divinacolombiancafe.com/
+Colombian,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Colombian,Columbia Frosty,"22652 Parrotts Ferry Rd, Columbia, CA 95310, USA",
+Colombian,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Colombian,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Colombian,Sazon Colombia,"20454 Nordhoff St, Winnetka, CA 91311, USA",http://www.sazoncolombia.com/
+Colombian,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Colombian,Taqueria Los Pinos Food Truck,"3361 Ebbetts Pass Hwy, Arnold, CA 95223, USA",https://www.facebook.com/AVERYLOSPINOS/
+Costa Rican,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Czech,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Danish,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Dutch,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Dutch,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Dutch,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Dutch,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Dutch,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Dutch,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Dutch,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Dutch,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Dutch,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Dutch,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Dutch,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Dutch,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Dutch,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Dutch,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Dutch,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Ecuadorian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Finnish,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Finnish,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Finnish,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Finnish,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Finnish,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Finnish,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Finnish,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Finnish,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Finnish,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Ghanaian,Ruby's kitchen,"110 N El Dorado St, Stockton, CA 95202, USA",https://www.rubyskitchengh-africa.com/
+Guatemalan,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Honduran,Mi Bella Honduras Restaurante,"755 Foothill Blvd, Rialto, CA 92376, USA",http://ordermibellahondurasrestaurante.com/
+Icelandic,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Indonesian,Bali Kitchen,"1100 Front St STE 150, Sacramento, CA 95814, USA",
+Iranian,Nami-No Restaurant & Catering,"2545 Geer Rd, Turlock, CA 95382, USA",
+Iranian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Iranian,Kolbeh | Kabob Restaurant,"8700 Greenback Ln, Orangevale, CA 95662, USA",http://kolbehkabobrestaurant.com/
+Iranian,Shahrzad Restaurant,"2931 Sunrise Blvd #150, Rancho Cordova, CA 95742, USA",https://shahrzadrestaurant.com/
+Iranian,Famous Kabob,"1290 Fulton Ave C, Sacramento, CA 95825, USA",http://www.famouskabob.com/
+Iranian,Sactown Kabob,"2440 Fulton Ave #1, Sacramento, CA 95825, USA",https://www.sactownkabob.com/
+Iranian,Persian Kabab & Grill,"7622 Greenback Ln, Citrus Heights, CA 95610, USA",http://www.persiankababandgrill.com/
+Iranian,Patogh Restaurant,"130 W Monte Vista Ave, Turlock, CA 95382, USA",
+Iranian,Betty's Kabob,"1300 Sylvan Ave, Modesto, CA 95355, USA",
+Iranian,Ishtar Mediterranean Market And Grill,"2340 W Monte Vista Ave, Turlock, CA 95382, USA",
+Iranian,Essy’s Kabob Best kabob in the world Catering,"5207 Madison Ave STE A, Sacramento, CA 95841, USA",https://essy-kabob.com/
+Iranian,Maydoon Restaurant,"1501 16th St Suite #111, Sacramento, CA 95814, USA",http://maydoonrestaurant.com/
+Israeli,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Israeli,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Israeli,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Israeli,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Israeli,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Israeli,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Israeli,McDonald's,"33 N Main St, Angels Camp, CA 95222, USA",https://www.mcdonalds.com/us/en-us/location/CA/ANGELS-CAMP/33-NORTH-MAIN-STREET/32112.html?cid=RF:YXT:GMB::Clicks
+Jamaican,CJ’S Jamaican & BBQ Catering,"4368 N Sutter St, Stockton, CA 95204, USA",https://cjs209.com/
+Jamaican,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Jamaican,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Jamaican,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Jamaican,Dubplate Kitchen & Jamaican Cuisine,"3419 El Camino Ave, Sacramento, CA 95821, USA",https://www.dubplatekitchencuisine.com/
+Jamaican,La Esmeralda,"535 CA-49 Ste 5, Jackson, CA 95642, USA",https://laesmeraldaca.com/
+Jamaican,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Jamaican,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Jamaican,Jamrock Island Cuisine,"900 Alamo Dr, Vacaville, CA 95688, USA",https://www.jamrockisland.com/
+Jamaican,E&B Jamaican Food,"2128 S Airport Way, Stockton, CA 95206, USA",
+Jamaican,Island Spices & Soul,"110 N El Dorado St, Stockton, CA 95202, USA",
+Jamaican,jamaican,"1303 10th St Suite 1173, Sacramento, CA 95814, USA",
+Jamaican,Fiya Spice Caribbean,"1343 Buchanan Rd, Pittsburg, CA 94565, USA",https://www.fiyaspice.com/
+Jamaican,EZ Vibe Meals,"2324 Florin Rd, Sacramento, CA 95822, USA",
+Jamaican,Jamaica Irie Spice INC,"4700 Northgate Blvd #170, Sacramento, CA 95834, USA",https://www.jamaicairiespice.com/
+Jamaican,Café Connection - Caribbean,"1007 L St, Sacramento, CA 95814, USA",http://facebook.com/cafeconnectioncaribbeancuisine
+Jamaican,A Taste of The Islands,"18264 Dalton Dr, Lathrop, CA 95330, USA",https://www.facebook.com/A-Taste-of-the-Islands-101627971392198/?modal=admin_todo_tour
+Kuwaiti,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Kuwaiti,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Kuwaiti,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Kuwaiti,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Kuwaiti,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Kuwaiti,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Kuwaiti,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Kuwaiti,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Laotian,"Lao, Der!","5646 N Pershing Ave, Stockton, CA 95207, USA",https://laoder.blizzfull.com/
+Laotian,Blú Lotus | Lao & Thai Restaurant,"3641 Mitchell Rd F, Ceres, CA 95307, USA",http://facebook.com/blulotusrestaurant
+Laotian,Asian Café,"64 Mitchler St, Murphys, CA 95247, USA",
+Laotian,Spice it up,"8626 N Lower Sacramento Rd, Stockton, CA 95210, USA",
+Laotian,Lao Cuisine,"411 H St, Modesto, CA 95351, USA",
+Laotian,Thai Lao Cuisine,"5484 Dewey Dr, Fair Oaks, CA 95628, USA",https://www.thailaocuisine.com/
+Laotian,Lao / Thai Cocomilk Cafe,"6519 Savings Pl Ste 225, Sacramento, CA 95828, USA",http://www.cocomilkcafe.com/
+Laotian,Houa Khong 2,"3518 G St, Merced, CA 95340, USA",
+Laotian,Sticky Rice Restaurant,"1778 Mitchell Rd #209, Ceres, CA 95307, USA",https://stickyricerestaurant.com/
+Laotian,Laos Kitchen,"6227 Franklin Blvd, Sacramento, CA 95824, USA",
+Laotian,Vientiane Restaurant,"1001 Jefferson Blvd #600, West Sacramento, CA 95691, USA",https://order.online/store/vientiane-restaurant-west-sacramento-25585903/?activationPreview=true&hideModal=true&pickup=true
+Laotian,Thai Me Up,"2125 Pacific Ave, Stockton, CA 95204, USA",https://thai-me-up.restaurant-info.us/
+Laotian,Thailand Restaurant,"950 10th St #17, Modesto, CA 95354, USA",
+Laotian,The Spot Restaurant & Bar,"6048 Stockton Blvd Suite #170, Sacramento, CA 95824, USA",http://www.thespot916.com/menu
+Lithuanian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Malaysian,Asian Café,"64 Mitchler St, Murphys, CA 95247, USA",
+Malaysian,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Malaysian,Layang Layang Malaysian Cuisine,"181 W Calaveras Blvd, Milpitas, CA 95035, USA",https://layang-layang-malaysian-cuisine.com/
+Malaysian,Mingala Restaurant,"39055 Cedar Blvd #108, Newark, CA 94560, USA",https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=1ef3c93f-4bf5-402a-98b3-972f1821494d
+Malaysian,Banana Leaf Restaurant,"182 Ranch Dr, Milpitas, CA 95035, USA",http://www.bananaleaf-usa.com/
+Malaysian,Curry Leaves Bistro,"6003 W Las Positas Blvd, Pleasanton, CA 94588, USA",http://www.curryleavesbistro.com/
+Malaysian,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Malaysian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Malaysian,Nyonya Cafe,"5321 Hopyard Rd, Pleasanton, CA 94588, USA",https://www.nyonyacafe.us/
+Malaysian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Malaysian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Malaysian,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Malaysian,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Malaysian,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Malaysian,Lotus Thai & Khmer Cuisines,"1412 Rose Marie Ln, Stockton, CA 95207, USA",
+Malaysian,Ipoh Kopitiam,"1411 S Garfield Ave #104, Alhambra, CA 91801, USA",https://www.ipoh-kopitiam.com/
+Malaysian,Shangri La Asian Bistro & Sushi Bar,"203 S School St A, Lodi, CA 95240, USA",http://www.shangrilaasianbistro.com/
+Malaysian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Malaysian,Mitapheap Restaurant,"8028 N El Dorado St, Stockton, CA 95210, USA",https://cily.top/mitapheap-restaurant
+Malaysian,Bali Kitchen,"1100 Front St STE 150, Sacramento, CA 95814, USA",
+Mongolian,Fusion Grill,"1906 Vista Del Lago Dr D, Valley Springs, CA 95252, USA",https://usmapz.me/fusion-grill-929861-us
+Mongolian,GK Mongolian BBQ,"1197 Sanguinetti Rd, Sonora, CA 95370, USA",http://www.gkmongolianbbq.com/
+Nepalese,Taste of Himalaya,"609 S, CA-49, Jackson, CA 95642, USA",https://www.tasteofhimalayajackson.com/
+Nicaraguan,El CHANTE FRITANGUERO,"4613 Franklin Blvd, Sacramento, CA 95820, USA",
+Norwegian,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Norwegian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Norwegian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Norwegian,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Norwegian,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Norwegian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Norwegian,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Norwegian,Mike's Pizza,"294 S Main St, Angels Camp, CA 95222, USA",http://www.angelscampmikespizza.com/
+Norwegian,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Norwegian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Norwegian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Norwegian,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Norwegian,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Norwegian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Norwegian,Doke Sushi,"403 Main St #9628, Murphys, CA 95247, USA",https://www.facebook.com/DokeSushi/
+Norwegian,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Norwegian,Creekside Bistro,"275 Bear Valley Rd, Bear Valley, CA 95223, USA",https://www.bearvalley.com/bear-valley-vacation-rentals/bvdining/
+Pakistani,Little Lahore ®,"307 S Central Ave, Lodi, CA 95240, USA",http://www.littlelahore.com/
+Pakistani,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Pakistani,Shalimar Grill,"75 Quinta Ct A, Sacramento, CA 95823, USA",
+Pakistani,Kabab N Chutney,"7850 Stockton Blvd suite 100, Sacramento, CA 95823, USA",
+Pakistani,Kabul Express Halal Restaurant,"2001 Tully Rd Suite C, Modesto, CA 95350, USA",
+Pakistani,Spice Of Life,"6640 Valley Hi Dr B, Sacramento, CA 95823, USA",https://www.orderspiceoflife.com/
+Pakistani,AL-Maidah Restaurant & Banquet,"11354 White Rock Rd, Rancho Cordova, CA 95742, USA",https://almaidahrestaurantsacramento.com/
+Pakistani,Haveli Grill Commercial Kitchen & BBQ,"4333 Airport Dr, North Highlands, CA 95660, USA",https://haveligrillandbanquet.com/
+Pakistani,Kabab Corner,"1001 Jefferson Blvd, West Sacramento, CA 95691, USA",https://kababcornerws.wordpress.com/
+Pakistani,Frosty angels camp,"290 S Main St, Angels Camp, CA 95222, USA",https://notforprofitadvertising.com/
+Pakistani,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Pakistani,Darbar Halal Restaurant,"3022 Stockton Blvd #5, Sacramento, CA 95820, USA",https://darbarhalalrestaurantca.com/
+Pakistani,Kabob Palace - Halal Middle Eastern Restaurant,"9620 Bruceville Rd # 104, Elk Grove, CA 95757, USA",https://www.kabobpalaceca.com/
+Pakistani,Mr Gil’s and Grill,"1421 Coffee Rd suite h, Modesto, CA 95355, USA",https://www.rescue.org/announcement/irc-business-spotlight-mr-gils-market-grill
+Pakistani,Shalimar Restaurant,"3654 N Freeway Blvd, Sacramento, CA 95834, USA",https://shalimarnatomas.com/
+Pakistani,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Pakistani,Azhar Halal Market & Grill,"2179 Grant Line Rd, Tracy, CA 95377, USA",http://www.azharhalalmarket.com/
+Pakistani,Shan-E-Punjab,"3206 E Hammer Ln Ste B, Stockton, CA 95212, USA",http://shan-e-punjab.com/
+Pakistani,Tandoori Grill,"515 N Main St, Manteca, CA 95336, USA",https://www.tandoorigrillmanteca.net/
+Pakistani,Mayars Halal Meat & Grill,"2307 Oakdale Rd, Modesto, CA 95355, USA",https://mayarshalalmeatgrill.com/order-now
+Panamanian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Paraguayan,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Paraguayan,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Paraguayan,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Paraguayan,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Paraguayan,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Paraguayan,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Paraguayan,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Paraguayan,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Paraguayan,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Paraguayan,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Paraguayan,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Paraguayan,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Paraguayan,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Peruvian,Doña Tere Peruvian Restaurant,"16438 Cambridge Dr, Lathrop, CA 95330, USA",http://donatereperuvian.com/
+Philippine,Kusina,"2401 E Orangeburg Ave Suite 640, Modesto, CA 95355, USA",
+Philippine,Sisig & boba,"3436 W Hammer Ln SUITE A, Stockton, CA 95219, USA",
+Philippine,The Blessed Kitchen,"151 Lathrop Rd, Lathrop, CA 95330, USA",
+Philippine,Manila Foods,"3550 S Manthey Rd A, Stockton, CA 95206, USA",
+Philippine,Filipino Corner by JrAilaM’s,"3824 McHenry Ave, Modesto, CA 95356, USA",http://www.facebook.com/filocornerjrailams
+Philippine,Red Orchids Catering Co.,"126 E Market St #3203, Stockton, CA 95202, USA",https://www.facebook.com/redorchidsrestaurant/
+Philippine,Ling Nam Express,"563 W Clover Rd, Tracy, CA 95376, USA",
+Philippine,FIESTA PHILIPPINES,"11088 Olson Dr A, Rancho Cordova, CA 95670, USA",http://www.fiestaphilippines.restaurant/
+Philippine,South Villa Restaurant,"7223 55th St, Sacramento, CA 95823, USA",http://www.southvillarestaurant.net/
+Philippine,Aki's Food To Go & Oriental,"368 N Main St, Manteca, CA 95336, USA",https://akisfood.com/
+Philippine,Kusina @ Lumpia,"4301 Truxel Rd # D4, Sacramento, CA 95834, USA",http://kusinalumpia.com/
+Philippine,PhilHouse,"8430 Elk Grove Florin Rd, Elk Grove, CA 95624, USA",https://shop.islandpacificmarket.com/shop/philhouse/d/22329190
+Philippine,Island Gourmet Restaurant/Hot Foods,"1421 W 11th St, Tracy, CA 95376, USA",http://islandgourmetfood.com/
+Philippine,Pinoy's Place Restaurant by Kusina,"676 Bockman Rd Unit G, San Lorenzo, CA 94580, USA",
+Philippine,Island Gourmet Restaurant & Market,"8110 Kelley Dr, Stockton, CA 95209, USA",http://www.islandgourmetfood.com/
+Philippine,Papa Urb's Grill | Stockton,"331 E Weber Ave, Stockton, CA 95202, USA",
+Philippine,Best Lumpia,"9305 Thornton Rd J, Stockton, CA 95209, USA",
+Philippine,Manila Express LLC,"1108 E Hammer Ln, Stockton, CA 95210, USA",
+Philippine,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Philippine,Fil-Am,"4571 Gateway Park Blvd, Sacramento, CA 95834, USA",http://fil-am.cafes-world.com/
+Polish,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Polish,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Polish,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Polish,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Polish,Hawg Dawg's Gourmet Dawgs,"200 CA-12, Valley Springs, CA 95252, USA",https://www.facebook.com/Hawgdawgs12?mibextid=LQQJ4d
+Polish,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Polish,Corral's Grill,"35 Main St, San Andreas, CA 95249, USA",
+Polish,Cozy Cabin Cafe,"22612 State Rte 26, West Point, CA 95255, USA",
+Polish,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Polish,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Polish,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Polish,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Polish,Creekside Bistro,"275 Bear Valley Rd, Bear Valley, CA 95223, USA",https://www.bearvalley.com/bear-valley-vacation-rentals/bvdining/
+Polish,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Polish,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Polish,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Polish,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Polish,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Polish,Taste Restaurant and Wine Bar,"9402 Main St, Plymouth, CA 95669, USA",http://www.restauranttaste.com/
+Polish,Jackson’s Waffle Shop,"543 CA-49, Jackson, CA 95642, USA",https://www.facebook.com/Waffle-Shop-121046104576047/
+Puerto Rican,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Puerto Rican,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Puerto Rican,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Puerto Rican,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Puerto Rican,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Puerto Rican,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Puerto Rican,El Boritracho,"7054 Sunrise Blvd, Citrus Heights, CA 95610, USA",
+Puerto Rican,Sol Food,"903 Lincoln Ave, San Rafael, CA 94901, USA",https://www.solfoodrestaurant.com/
+Puerto Rican,El Coqui Puerto Rican Cuisine,"400 Mendocino Ave, Santa Rosa, CA 95401, USA",http://elcoqui2eat.com/
+Puerto Rican,Salvadorian food,"650 N Grant St, Stockton, CA 95202, USA",
+Puerto Rican,Latino Restaurant,"2151 E Main St, Stockton, CA 95205, USA",http://orderlatinorestaurantca.com/
+Puerto Rican,Maru's Kitchen,"7800 Sunrise Blvd, Citrus Heights, CA 95610, USA",http://www.maruskitchen.com/store
+Puerto Rican,El Street Cart,"107 McHenry Ave, Modesto, CA 95354, USA",
+Puerto Rican,La Perla Puerto Rican Cuisine,"3409 Fruitvale Ave, Oakland, CA 94602, USA",http://www.findlaperla.com/
+Puerto Rican,Lola's Lounge,"2424 16th St, Sacramento, CA 95818, USA",http://lolaslounge.co/
+Puerto Rican,Sol Food,"401 Miller Ave, Mill Valley, CA 94941, USA",https://www.solfoodrestaurant.com/
+Puerto Rican,El Primos,"Stockton, CA 95206, USA",
+Puerto Rican,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Puerto Rican,Señor Big Ed,"5490 Lincoln Ave, Cypress, CA 90630, USA",https://puertoricanrestaurant.com/
+Puerto Rican,Mofongos,"5757 Lankershim Blvd, North Hollywood, CA 91601, USA",https://www.mofongosrestaurant.com/
+Romanian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Saudi Arabian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Singaporean,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Singaporean,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Singaporean,Asian Café,"64 Mitchler St, Murphys, CA 95247, USA",
+Singaporean,Good Friends Chinese Restaurant,"9 California St, Valley Springs, CA 95252, USA",http://goodfriendsvalleysprings.com/
+Singaporean,Arnold Chinese Restaurant,"2182 CA-4, Arnold, CA 95223, USA",https://arnoldchinesetogo.com/
+Singaporean,Fusion Grill,"1906 Vista Del Lago Dr D, Valley Springs, CA 95252, USA",https://usmapz.me/fusion-grill-929861-us
+Singaporean,Hong Kong Garden,"267 S Washington St, Sonora, CA 95370, USA",
+Singaporean,Shiok! Singapore Kitchen,"1137 Chestnut St, Menlo Park, CA 94025, USA",http://www.shiokkitchen.com/
+Singaporean,Great Wall Restaurant,"13775 Mono Way, Sonora, CA 95370, USA",https://www.greatwallchinesesonora.com/
+Singaporean,Golden Dragon,"11980 CA-88 #2072, Jackson, CA 95642, USA",https://goldendragoncatogo.com/
+Singaporean,China Village Restaurant,"935 N Yosemite St, Stockton, CA 95203, USA",
+Singaporean,Grand Asia,"6333 Oakdale Rd #H, Riverbank, CA 95367, USA",https://www.grandasia-riverbank.com/
+Slovak,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Slovenian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Somali,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+South African,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Sri Lankan,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Swiss,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Swiss,Frosty angels camp,"290 S Main St, Angels Camp, CA 95222, USA",https://notforprofitadvertising.com/
+Swiss,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Swiss,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Swiss,Brew'gers,"10 Nove Way, Valley Springs, CA 95252, USA",https://www.facebook.com/profile.php?id=100063766864389
+Swiss,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Swiss,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Swiss,Mike's Pizza,"294 S Main St, Angels Camp, CA 95222, USA",http://www.angelscampmikespizza.com/
+Swiss,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Swiss,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Swiss,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Swiss,Bristol's Ranch House Cafe,"961 CA-4, Arnold, CA 95223, USA",
+Swiss,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Swiss,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Swiss,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Swiss,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Swiss,Patio Drive In,"284 W St Charles St, San Andreas, CA 95249, USA",
+Swiss,Pickled porch cafe,"1192 S Main St, Angels Camp, CA 95222, USA",
+Swiss,Burger King,"200 CA-12, Valley Springs, CA 95252, USA",https://burgerking.com/store-locator/store/restaurant_9049
+Swiss,Jackson’s Waffle Shop,"543 CA-49, Jackson, CA 95642, USA",https://www.facebook.com/Waffle-Shop-121046104576047/
+Syrian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Syrian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Syrian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Syrian,Ishtar Mediterranean Market And Grill,"2340 W Monte Vista Ave, Turlock, CA 95382, USA",
+Syrian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Syrian,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Syrian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Syrian,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Syrian,Zanga Mediterranean Cuisine,"3801 Yosemite Blvd, Modesto, CA 95355, USA",
+Syrian,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Syrian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Syrian,Sumer Nights,"2316 Watt Ave, Sacramento, CA 95825, USA",http://www.sumernights.com/
+Syrian,Basha Taste of Jerusalem,"1833 Fulton Ave, Sacramento, CA 95825, USA",https://bashasacramento.com/
+Syrian,Skewers Kabob House,"821 L St, Modesto, CA 95354, USA",http://www.821lstreet.com/
+Syrian,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Syrian,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Syrian,Falafel Fusion,"3151 Zinfandel Dr #1, Rancho Cordova, CA 95670, USA",
+Syrian,Nami-No Restaurant & Catering,"2545 Geer Rd, Turlock, CA 95382, USA",
+Syrian,Betty's Kabob,"1300 Sylvan Ave, Modesto, CA 95355, USA",
+Syrian,Medina Market & Grill,"1442 N Carpenter Rd, Modesto, CA 95351, USA",
+Taiwanese,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Taiwanese,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Taiwanese,Asian Café,"64 Mitchler St, Murphys, CA 95247, USA",
+Taiwanese,Tasty Pot,"6910 65th St #105, Sacramento, CA 95823, USA",https://www.tastypotsacramento.com/
+Taiwanese,Taiwan Cafe,"568 N Abel St, Milpitas, CA 95035, USA",http://www.taiwancafemilpitas.com/
+Taiwanese,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Taiwanese,Shihlin Taiwan Street Snacks,"522 Barber Ln, Milpitas, CA 95035, USA",https://www.shihlinca.com/
+Taiwanese,Taiwan Porridge,"1706 N Milpitas Blvd, Milpitas, CA 95035, USA",http://taiwanporridge.com/
+Taiwanese,Taiwan Taste,"12172 Saratoga Sunnyvale Rd, Saratoga, CA 95070, USA",http://408-253-2232.atmenu.at/
+Taiwanese,Tasty Pot,"6252 Pacific Ave, Stockton, CA 95207, USA",https://tastypotcatogo.com/
+Taiwanese,Little Taipei Café,"46897 Warm Springs Blvd, Fremont, CA 94539, USA",
+Tanzanian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Thai,Sea Thai House,"200 W Hwy 12 Ste E4, Valley Springs, CA 95252, USA",https://seathaihouse.com/
+Thai,Thai Siam,"12240 Industry Blvd #72, Jackson, CA 95642, USA",https://qmenu.us/#/thai-siam-jackson
+Thai,Sonora Thai Cuisine,"51 S Washington St, Sonora, CA 95370, USA",
+Tunisian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Tunisian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Tunisian,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Tunisian,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Tunisian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Tunisian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Ukrainian,Camps Restaurant,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",https://www.greenhorncreek.com/campsrestaurant
+Ukrainian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Ukrainian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Ukrainian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Ukrainian,Angels Méxican Kitchen,"206 N Main St, Angels Camp, CA 95222, USA",
+Ukrainian,Hotel Léger Restaurant & Bar,"8304 Main St, Mokelumne Hill, CA 95245, USA",https://www.hotelleger.com/
+Ukrainian,Alchemy Café,"191 Main St, Murphys, CA 95247, USA",http://alchemymurphys.com/
+Ukrainian,Angels Creek Café,"1246 S Main St, Angels Camp, CA 95222, USA",https://www.facebook.com/AngelsCreekCafe/
+Ukrainian,Bistro Espresso,"1225 Oak Cir Drive, Arnold, CA 95223, USA",https://thebistroespresso.com/
+Ukrainian,Creekside Bistro,"275 Bear Valley Rd, Bear Valley, CA 95223, USA",https://www.bearvalley.com/bear-valley-vacation-rentals/bvdining/
+Ukrainian,Noroc Restaurant,"4715 Manzanita Ave, Carmichael, CA 95608, USA",http://norocrestaurant.com/
+Ukrainian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Ukrainian,Leleka,"40 Belden Pl, San Francisco, CA 94104, USA",https://lelekasf.com/
+Ukrainian,Greenhorn Creek Resort,"711 McCauley Ranch Rd, Angels Camp, CA 95222, USA",http://www.greenhorncreek.com/
+Ukrainian,Elena's Kitchen & Catering office only,"OFFICE ONLY, 4604 Roseville Rd Suite 100, North Highlands, CA 95660, USA",http://www.elenas.kitchen/
+Ukrainian,Good Neighbor European Deli,"5111 College Oak Dr A-B, Sacramento, CA 95841, USA",
+Ukrainian,Caravan - Food Truck -Uzbek Cuisine- Halal,"3525 Elkhorn Blvd, North Highlands, CA 95660, USA",
+Ukrainian,"Teremok - European Store, Bakery and Grill.","5519 Hemlock St, Sacramento, CA 95841, USA",https://www.teremokstore.com/
+Ukrainian,Cafe Europa (Gyro and Kabob House),"1537 Howe Ave # 116, Sacramento, CA 95825, USA",https://www.cafeeuropagyrokabobhouse.com/
+Ukrainian,"Mom, Please Ukrainian food","13151 Fountain Park Dr, Los Angeles, CA 90094, USA",https://cafe.mom-please.com/
+Uruguayan,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Venezuelan,Manzi's Venezuelan Cuisine,"681 Leavesley Rd, Gilroy, CA 95020, USA",https://www.manzisvenezuelancuisine.com/
+Vietnamese,Pho Royal,"12240 Industry Blvd, Jackson, CA 95642, USA",
+Vietnamese,Asian Café,"64 Mitchler St, Murphys, CA 95247, USA",
+Vietnamese,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Vietnamese,Pho 38,"818 N Yosemite Ave, Oakdale, CA 95361, USA",
+Vietnamese,King Phở | Vietnamese Cuisine,"524 N Main St, Manteca, CA 95336, USA",https://www.kingphoca.com/
+Vietnamese,Mac Phở,"3322 E Hammer Ln, Stockton, CA 95212, USA",https://www.facebook.com/pages/category/Vietnamese-Restaurant/MAC-PHO-Vietnamese-Restaurant-813157038776960/
+Vietnamese,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Vietnamese,Phở Bình Minh Restaurant,"1139 E March Ln D, Stockton, CA 95210, USA",
+Vietnamese,Viet Noodles Xpress,"2400 Coffee Rd suite h, Modesto, CA 95355, USA",
+Vietnamese,Pho Island II,"1125 S Main St, Manteca, CA 95337, USA",https://phoislandmanteca.com/
+Vietnamese,Pho o'clock,"1401 Coffee Rd Ste D, Modesto, CA 95355, USA",
+Vietnamese,Phở Nguyễn Restaurant,"275 W Calaveras Blvd, Milpitas, CA 95035, USA",
+Vietnamese,Fusion Grill,"1906 Vista Del Lago Dr D, Valley Springs, CA 95252, USA",https://usmapz.me/fusion-grill-929861-us
+Vietnamese,Pho Saigon Bay Restaurant,"5756 Pacific Ave #14C, Stockton, CA 95207, USA",https://saigonbaystockton.wixsite.com/website
+Vietnamese,Rice and Roll’d - Manteca CA,"134 W Yosemite Ave, Manteca, CA 95336, USA",https://www.facebook.com/Rice-Rolld-106627072170600
+Vietnamese,Phở 7 Anh,"677 N Golden State Blvd, Turlock, CA 95380, USA",
+Vietnamese,Phở Lucky Restaurant,"8034 N El Dorado St, Stockton, CA 95210, USA",https://www.pholuckystockton.com/
+Vietnamese,iPho Vietnamese Noodle House,"1400 Standiford Ave # 7, Modesto, CA 95350, USA",http://www.iphonoodle.com/
+Vietnamese,Mama's Pho & Sandwiches,"8014 N Lower Sacramento Rd # E, Stockton, CA 95210, USA",
+Vietnamese,Saigon One,"901 N Carpenter Rd #61, Modesto, CA 95351, USA",
+Yemeni,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Zambian,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Zambian,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Zambian,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Zambian,Shiro Ninja Boba - Poke - Ramen Bar,"244 S Main St, Angels Camp, CA 95222, USA",
+Zambian,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Zambian,La Hacienda Restaurant,"51 N Main St suite d, Angels Camp, CA 95222, USA",https://www.lahaciendaangelscamp.com/
+Zambian,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/
+Zambian,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Zambian,Mike's Pizza,"294 S Main St, Angels Camp, CA 95222, USA",http://www.angelscampmikespizza.com/
+Zambian,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Zambian,Far East Chinese Restaurant,"51 N Main St # F, Angels Camp, CA 95222, USA",https://www.fareastchinesecalifornia.com/
+Zambian,Gabby's Cuisine,"260 Jones St, Murphys, CA 95247, USA",http://www.gabbyscuisinemurphys.net/
+Zambian,Doke Sushi,"403 Main St #9628, Murphys, CA 95247, USA",https://www.facebook.com/DokeSushi/
+Zambian,Mandy's Breakfast House,"22267 Parrotts Ferry Rd, Sonora, CA 95370, USA",http://mandysbreakfast.com/
+Zambian,WorldMark Angels Camp,"123 Selkirk Ranch Rd, Angels Camp, CA 95222, USA",https://www.extraholidays.com/angels-camp-california/worldmark-angels-camp?Identifier=psearch&hotelid=5076&utm_medium=referral&utm_source=google.com-local&utm_campaign=yext&utm_content=wmangelscamp
+Zimbabwean,Cascabel Restaurant,"1252 S Main St, Angels Camp, CA 95222, USA",http://www.facebook.com/CascabelAC
+Zimbabwean,Crusco's,"1240 S Main St, Angels Camp, CA 95222, USA",
+Zimbabwean,The House of Pita,"140 Main St, Murphys, CA 95247, USA",https://thehouseofpita.com/
+Zimbabwean,Firewood,"420 Main St, Murphys, CA 95247, USA",http://firewoodeats.com/
+Zimbabwean,"V Restaurant, Bistro & Bar","402 Main St Suite L, Murphys, CA 95247, USA",http://vrestaurantbistrobar.com/
+Zimbabwean,Murphys Grade CBD - n Oyster Joint,"397 Main St, Murphys, CA 95247, USA",
+Zimbabwean,Grounds,"402 Main St, Murphys, CA 95247, USA",http://www.groundsrestaurant.com/

@@ -1,0 +1,23 @@
+1. Berlin Data 
+Column Names: Staatsangeh - Nationality
+D Deutsch - German 
+A Ausländisch - Foregin 
+
+1.2 Berlin Data Site 
+https://www-genesis.destatis.de/genesis/online?operation=abruftabelleBearbeiten&levelindex=1&levelid=1711164936288&auswahloperation=abruftabelleAuspraegungAuswaehlen&auswahlverzeichnis=ordnungsstruktur&auswahlziel=werteabruf&code=12411-0002&auswahltext=&werteabruf=Value+retrieval#abreadcrumb
+
+2. Belguim 
+Origine par groupe de nationalités détaillé par province 
+translated to english 
+xlxs (excel) format 
+
+3. England and Wales 
+https://www.ethnicity-facts-figures.service.gov.uk/uk-population-by-ethnicity/national-and-regional-populations/regional-ethnic-diversity/latest/ 
+Has data for the different areas of England and Wales.
+"england-and-wales" 
+"areas-of-england-and-wales-by-ethnicity" 
+
+4. USA Data 
+Note: "Other U.S. Island Areas, Oceania, n.o.s, or at Sea"
+
+

@@ -1,0 +1,982 @@
+Cuisine Type,Name,Address,Website
+Mexican,Gomez's Mexican Restaurant,"100 Canyon Blvd, Mammoth Lakes, CA 93546, USA",http://www.gomezs.com/
+Mexican,The Loco Frijole,"3711 Main St, Mammoth Lakes, CA 93546, USA",http://thelocofrijole.com/
+Mexican,Puerto Vallarta,"3325 Main St, Mammoth Lakes, CA 93546, USA",
+Mexican,El Charro Taqueria,"452 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Mexican,Cantina Mexican Restaurant,"2588 CA-158, June Lake, CA 93529, USA",
+Mexican,Latin Market,"1566 Tavern Rd, Mammoth Lakes, CA 93546, USA",
+Mexican,Roberto's Cafe,"271 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://robertoscafe.com/
+Mexican,Salsa's Taqueria - Mammoth Lakes,"588 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.visitmammoth.com/restaurants
+Mexican,La Parrilla Grill & Tacos,"117 S Crawford Ave, June Lake, CA 93529, USA",
+Mexican,McCoy Marketplace,"10001 Minaret Rd Ste 4200, Mammoth Lakes, CA 93546, USA",
+Mexican,Balanced Rock Grill & Cantina,"2588 CA-158, June Lake, CA 93529, USA",https://balancedrockgrill.com/
+Mexican,Salsa's Taqueria - Bishop,"1347 Rocking W Dr, Bishop, CA 93514, USA",
+Mexican,Taqueria Las Palmas,"136 E Line St B, Bishop, CA 93514, USA",
+Mexican,Astorga's Mexican Restaurant,"2206 N Sierra Hwy, Bishop, CA 93514, USA",http://www.astorgasmexicanrestaurant.com/
+Mexican,El Ranchito,"281 N Main St, Bishop, CA 93514, USA",
+Mexican,Taqueria mi Guadalajara,"995 Tu-Su Ln, 395 N Sierra Hwy, Bishop, CA 93514, USA",
+Mexican,Antojitos Hippocampos,"205 Grove St, Bishop, CA 93514, USA",
+Mexican,El Pollo Loco,"785 N Main St, Bishop, CA 93514, USA",https://restaurants.elpolloloco.com/ca/bishop/785-n-main-st?utm_source=gmb&utm_medium=yext
+Mexican,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Mexican,Taco Bell,"926 N Main St, Bishop, CA 93514, USA",https://locations.tacobell.com/ca/bishop/926-n-main-street.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=028232&utm_content=website&y_source=1_NjE0MTcwNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+Swedish,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+Swedish,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Swedish,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Swedish,The Warming Hut,"343 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.thewarminghutmammoth.com/
+Swedish,The Stove,"644 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.thestoverestaurantmammoth.com/
+Swedish,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+Swedish,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Swedish,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Swedish,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Swedish,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Swedish,Dish Bistro,"588 Old Mammoth Rd #4, Mammoth Lakes, CA 93546, USA",https://onedishbistro.com/
+Swedish,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Swedish,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Swedish,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Swedish,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Swedish,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Swedish,Mammoth Pizza Co & Slice Bar,"The Village at Mammoth, 6201 Minaret Rd #109, Mammoth Lakes, CA 93546, USA",https://mammothpizzaco.com/
+Swedish,Giovanni's Pizzeria,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.giovannismammoth.com/
+Swedish,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Swedish,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Italian,John's Pizza Works,"3499 Main St, Mammoth Lakes, CA 93546, USA",https://www.johnspizzaworks.com/
+Italian,Nik-N-Willie's Pizza-n-Subs,"100 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Italian,Giovanni's Pizzeria,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.giovannismammoth.com/
+Italian,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Italian,zpizza,"26 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.zpizza.com/
+Italian,Mammoth Pizza Co & Slice Bar,"The Village at Mammoth, 6201 Minaret Rd #109, Mammoth Lakes, CA 93546, USA",https://mammothpizzaco.com/
+Italian,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Italian,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Italian,Main Street Pizza and Tap,"3399 Main St, Mammoth Lakes, CA 93546, USA",http://mainstreetpizzaandtap.com/
+Italian,Puerto Vallarta,"3325 Main St, Mammoth Lakes, CA 93546, USA",
+Italian,A Pizza Place,"26 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://apizzaplacemammoth.com/
+Italian,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Italian,Domino's Pizza,"1934 Meridian Blvd, Mammoth Lakes, CA 93546, USA",https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps
+Italian,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Italian,Pizza Factory,"970 N Main St, Bishop, CA 93514, USA",https://bishop.pizzafactory.com/
+Italian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Italian,The Mammoth Smoke Shack,"3141 Main St, Mammoth Lakes, CA 93546, USA",
+Italian,June Pie Pizza Co.,"2588 CA-158, June Lake, CA 93529, USA",http://www.junelakepizza.com/
+Italian,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+Italian,Burgers Restaurant,"6118 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.burgersrestaurant.com/
+Spanish,Latin Market,"1566 Tavern Rd, Mammoth Lakes, CA 93546, USA",
+Spanish,Puerto Vallarta,"3325 Main St, Mammoth Lakes, CA 93546, USA",
+Spanish,Gomez's Mexican Restaurant,"100 Canyon Blvd, Mammoth Lakes, CA 93546, USA",http://www.gomezs.com/
+Spanish,The Loco Frijole,"3711 Main St, Mammoth Lakes, CA 93546, USA",http://thelocofrijole.com/
+Spanish,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Spanish,Salsa's Taqueria - Mammoth Lakes,"588 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.visitmammoth.com/restaurants
+Spanish,El Charro Taqueria,"452 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Spanish,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Spanish,Roberto's Cafe,"271 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://robertoscafe.com/
+Spanish,Cantina Mexican Restaurant,"2588 CA-158, June Lake, CA 93529, USA",
+Spanish,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Spanish,McCoy Marketplace,"10001 Minaret Rd Ste 4200, Mammoth Lakes, CA 93546, USA",
+Spanish,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+Spanish,The Rolling Chef 395,"400 N Main St, Bishop, CA 93514, USA",https://www.facebook.com/therollingchef395/
+Spanish,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Spanish,Salsa's Taqueria - Bishop,"1347 Rocking W Dr, Bishop, CA 93514, USA",
+Spanish,zpizza,"26 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.zpizza.com/
+Spanish,Astorga's Mexican Restaurant,"2206 N Sierra Hwy, Bishop, CA 93514, USA",http://www.astorgasmexicanrestaurant.com/
+Spanish,Tiger Bar & Café,"2620 CA-158, June Lake, CA 93529, USA",http://tigerbarcafe.com/
+Spanish,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+American,Toomey's,"6085 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://toomeysmammoth.com/
+American,The Stove,"644 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.thestoverestaurantmammoth.com/
+American,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+American,Liberty Sports Bar and Grill,"3399 Main St, Mammoth Lakes, CA 93546, USA",http://libertysportsbarandgrill.com/
+American,Good Life Cafe,"126 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://goodlifemammoth.com/?y_source=1_MTYyMTAwMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+American,Burgers Restaurant,"6118 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.burgersrestaurant.com/
+American,Breakfast Club,"2987 Main St, Mammoth Lakes, CA 93546, USA",https://www.mammothbreakfastclub.com/
+American,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+American,McCoy Station,"10001 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.mammothmountain.com/
+American,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+American,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+American,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+American,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+American,Puerto Vallarta,"3325 Main St, Mammoth Lakes, CA 93546, USA",
+American,Mule House Café,"Mammoth Lakes, CA 93546, USA",http://www.redsmeadow.com/resort/mule-house-cafe/
+American,The Warming Hut,"343 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.thewarminghutmammoth.com/
+American,Steeps Bar,"10001 Minaret Rd Ste 4220, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/steeps-bar
+American,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+American,The Outpost,"10001 Minaret Rd Ste 4400, Mammoth Lakes, CA 93546, USA",
+American,Carl’s Jr.,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://locations.carlsjr.com/ca/mammoth-lakes/437-old-mammoth-rd
+Scottish,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+Scottish,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Scottish,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+Scottish,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Scottish,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Scottish,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Scottish,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Scottish,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Scottish,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Scottish,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Scottish,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Scottish,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Scottish,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+British,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+British,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+British,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+British,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+British,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+British,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+British,Toomey's,"6085 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://toomeysmammoth.com/
+British,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+British,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+British,Side Door Wine Bar & Cafe,"100 Canyon Blvd #229, Mammoth Lakes, CA 93546, USA",https://www.sidedoormammoth.com/
+British,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+British,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+British,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+British,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+British,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+British,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Thai,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Thai,Thai Thai Restaurant,"703 Airport Rd, Bishop, CA 93514, USA",
+Thai,Chinese Wok & Roll,"549 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Thai,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Thai,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Thai,Thai Season,"135 W Shaw Ave, Clovis, CA 93612, USA",https://sites.google.com/view/thai-season-135-w-shaw-ave-clo
+Thai,My Thai Cuisine,"2108 Lake Tahoe Blvd, South Lake Tahoe, CA 96150, USA",https://www.mythaitahoe.com/
+Thai,Davorn's Place,"400 N Willis St, Visalia, CA 93291, USA",
+Thai,Elixir Superfood & Juice,"3325 Main St, Mammoth Lakes, CA 93546, USA",http://www.enjoyelixir.com/
+Thai,Pita Pit,"6201 Minaret Rd Suite 149, Mammoth Lakes, CA 93546, USA",https://locations.pitapitusa.com/pita-pit-f06276eaca8a
+Thai,The Eatery at Mammoth Brewing Company,"18 Lake Mary Rd, Mammoth Lakes, CA 93546, USA",http://mammothbrewingco.com/eatery/
+Thai,SaBaiDee - Thai Lao Cuisine,"5730 N First St, Fresno, CA 93710, USA",http://sabaideefresno.com/
+Thai,Thai Phuket,"1830 N First St, Fresno, CA 93703, USA",https://www.zmenu.com/thai-phuket-restaurant-fresno-online-menu/
+Thai,Pad Thai,"75 W Hanford Armona Rd suite a, Lemoore, CA 93245, USA",https://padthaica.com/
+Thai,Thai Basil Restaurant,"1423 E Noble Ave #3042, Visalia, CA 93292, USA",https://m.facebook.com/VisaliaTB/
+Thai,The Patty Shack,"6201 Minaret Rd #101, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/patty-shack
+Thai,Thai Basil,"1174 Country Club Dr, Madera, CA 93638, USA",http://www.thaibasilmadera.com/
+Thai,Asian Paradise Restaurant,"463 W Visalia Rd, Farmersville, CA 93223, USA",
+Thai,Thai Country,"151 W Bullard Ave, Clovis, CA 93612, USA",http://www.thaicountry.us/
+Thai,Thai Gem Restaurant,"742 W Shaw Ave, Clovis, CA 93612, USA",https://smorefood.com/order-online/thai-gem-restaurant-clovis-93612-cr0jkhd1?utm_source=gmb&utm_medium=website
+Japanese,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Japanese,Gojira Ramen & Sushi,"1345 Rocking W Dr a7, Bishop, CA 93514, USA",https://www.gojirabishop.com/
+Japanese,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Japanese,Yamatani Japanese Restaurant,"635 N Main St, Bishop, CA 93514, USA",http://facebook.com/YamataniBishop
+Japanese,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Japanese,Chinese Wok & Roll,"549 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Japanese,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Japanese,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Japanese,Kyoto Kafe Japanese & Korean Cuisine,"40423 CA-41, Oakhurst, CA 93644, USA",
+Japanese,Carson Peak Inn,"5034 CA-158, June Lake, CA 93529, USA",
+Chinese,Chinese Wok & Roll,"549 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Chinese,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Chinese,Imperial Gourmet Chinese,"930 N Main St K, Bishop, CA 93514, USA",
+Chinese,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Chinese,China Delight Restaurant,"40484 CA-41, Oakhurst, CA 93644, USA",https://www.chinadelightonline.com/
+Chinese,China Station,"5004 CA-140, Mariposa, CA 95338, USA",
+Chinese,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Chinese,Taste of China,"40034 CA-49, Oakhurst, CA 93644, USA",https://order.mealkeyway.com/merchant/2f757147616d6c6c63476e416c4443705074326777673d3d/main
+Chinese,Great Wall Restaurant,"13775 Mono Way, Sonora, CA 95370, USA",https://www.greatwallchinesesonora.com/
+Chinese,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Chinese,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Chinese,Mammoth Rock 'N' Bowl,"3029 Chateau Rd, Mammoth Lakes, CA 93546, USA",https://www.mammothrocknbowl.com/
+Chinese,B E Wok & Sushi,"764 Mono Way, Sonora, CA 95370, USA",http://bewokonlineorder.com/
+Chinese,China Kitchen,"119 E Merced St, Fowler, CA 93625, USA",
+Chinese,Puerto Vallarta,"3325 Main St, Mammoth Lakes, CA 93546, USA",
+Chinese,Burgers Restaurant,"6118 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.burgersrestaurant.com/
+Chinese,Merry Go Round,"212 S Main St, Lone Pine, CA 93545, USA",https://qmenu.us/#/merry-go-round-lone-pine?target=http://www.merrygornd.com/
+Chinese,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+Chinese,John's Pizza Works,"3499 Main St, Mammoth Lakes, CA 93546, USA",https://www.johnspizzaworks.com/
+Chinese,New China,"250 E Antelope Ave STE J, Woodlake, CA 93286, USA",
+Indian,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Indian,Tandoori Express,"40278 Rd 425A, Oakhurst, CA 93644, USA",http://tandoori.express/
+Indian,India Express - Sweet & Spice,"208 N 8th St, Fowler, CA 93625, USA",
+Indian,Taste of India,"18555 Pistachio Dr #103, Madera, CA 93637, USA",
+Indian,Indian Curry Naan Stop,"32603 Ave 7, Madera, CA 93637, USA",
+Indian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Indian,Punjabi Dhaba - Indian Cuisine,"3767 S Golden State Blvd, Fresno, CA 93725, USA",https://emaps.top/punjabi-dhaba-indian-cuisine
+Indian,Pita Pit,"6201 Minaret Rd Suite 149, Mammoth Lakes, CA 93546, USA",https://locations.pitapitusa.com/pita-pit-f06276eaca8a
+Indian,McCoy Station,"10001 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.mammothmountain.com/
+Indian,Indian Curry house,"8445 E Dinuba Ave suit B, Selma, CA 93662, USA",
+Indian,Daana Paani indian cuisine,"3135 E Central Ave, Fresno, CA 93725, USA",
+Indian,Gulab Indian Bistro,"1820 Shaw Ave, Clovis, CA 93611, USA",http://bluegulab.com/
+Indian,Bollywood Indian Street Food,"7059 N Cedar Ave, Fresno, CA 93720, USA",http://www.bollywood-fresno.com/
+Indian,Punjabi Kitchen & Grocers,"1184 Country Club Dr, Madera, CA 93638, USA",https://www.punjabikitchenmadera.us/
+Indian,Food Junction 2 (Indian Street Food),"1095 N Fowler Ave, Fresno, CA 93727, USA",
+Indian,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Indian,Tandoori Grill,"5189 E Kings Canyon Rd, Fresno, CA 93727, USA",https://www.clover.com/online-ordering/tandoori-grill-fresno
+Indian,Twisted Indian Street Food,"236 Heinlen St, Lemoore, CA 93245, USA",https://twistedindianstreetfood.com/
+Indian,King Indian Restaurant,"6611 N Riverside Dr suite #104, Fresno, CA 93722, USA",http://kingindianfresno.com/
+Indian,India's Oven,"3035 W Ashlan Ave, Fresno, CA 93722, USA",http://www.indiasovenfresno.com/
+Canadian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Canadian,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Canadian,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Canadian,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Canadian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Canadian,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Canadian,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Canadian,Flo's Diner,"4750 US-6, Chalfant, CA 93514, USA",https://flos-diner.com/
+Canadian,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Canadian,The Barn,"152 Main St, Bridgeport, CA 93517, USA",https://www.facebook.com/TheBurgerBarnCA
+Canadian,Rhino's Bar & Grill,"226 Main St, Bridgeport, CA 93517, USA",http://www.toasttab.com/rhinos
+Canadian,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Canadian,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Canadian,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Canadian,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Canadian,Jolly Kone,"178 Main St, Bridgeport, CA 93517, USA",http://jollykone.com/
+Russian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Jewish,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+Jewish,Old New York Deli & Bakery Co.,"6201 Minaret Rd #105, Mammoth Lakes, CA 93546, USA",http://www.oldnewyork.com/
+Jewish,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Jewish,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Jewish,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Jewish,Good Life Cafe,"126 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://goodlifemammoth.com/?y_source=1_MTYyMTAwMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Jewish,The Warming Hut,"343 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.thewarminghutmammoth.com/
+Jewish,Toomey's,"6085 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://toomeysmammoth.com/
+Jewish,Eleven53 Cafe,"10001 Minaret Rd Ste 4300, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=eleven53
+Jewish,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Jewish,Saul's Restaurant & Delicatessen,"1475 Shattuck Ave., Berkeley, CA 94709, USA",http://saulsdeli.com/
+Jewish,Nosh House,"678 El Camino Real, Tustin, CA 92780, USA",http://koshernoshhouse.com/
+Jewish,Habayit,"11921 W Pico Blvd, Los Angeles, CA 90064, USA",http://www.habayitrestaurant.com/
+Jewish,Kosher Madness,"6118 W Pico Blvd, Los Angeles, CA 90035, USA",https://www.koshermadness.com/
+Jewish,Rockin' Bites - Kosher Indian Restaurant,"8326 Wilshire Blvd, Beverly Hills, CA 90211, USA",https://www.rockinbitesmenu.com/
+Jewish,Oakland Kosher Foods - Serving the San Francisco Bay Area,"3419 Lakeshore Ave, Oakland, CA 94610, USA",https://www.oaklandkosherfoods.com/
+Jewish,Yamatani Japanese Restaurant,"635 N Main St, Bishop, CA 93514, USA",http://facebook.com/YamataniBishop
+Jewish,Mr. Shiloh's,"8939 W Pico Blvd, Los Angeles, CA 90035, USA",https://mrshilohs.com/
+Jewish,H H Hot Lunch,"454 W Alluvial Ave, Fresno, CA 93650, USA",
+Jewish,Taha's Deli,"Visalia, CA 93277, USA",
+Polish,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+German,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+German,Austria Hof Restaurant,"924 Canyon Blvd, Mammoth Lakes, CA 93546, USA",http://austriahofrestaurant.com/
+German,Himmel Haus,"3819 Saddle Rd, South Lake Tahoe, CA 96150, USA",https://himmelhausslt.com/
+German,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+German,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+German,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+German,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+German,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+German,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+German,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+French,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+French,Café Crêpe,"202 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://cafecrepemammoth.square.site/
+French,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+French,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+French,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+French,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+French,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+French,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+French,Tiger Bar & Café,"2620 CA-158, June Lake, CA 93529, USA",http://tigerbarcafe.com/
+French,Flo's Diner,"4750 US-6, Chalfant, CA 93514, USA",https://flos-diner.com/
+French,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+French,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+French,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+French,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+French,Eleven53 Cafe,"10001 Minaret Rd Ste 4300, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=eleven53
+French,The Loco Frijole,"3711 Main St, Mammoth Lakes, CA 93546, USA",http://thelocofrijole.com/
+French,The Lunchbox,"3819 CA-158 Ste 2260, June Lake, CA 93529, USA",
+French,Carl’s Jr.,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://locations.carlsjr.com/ca/mammoth-lakes/437-old-mammoth-rd
+French,Good Life Cafe,"126 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://goodlifemammoth.com/?y_source=1_MTYyMTAwMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+French,Austria Hof Restaurant,"924 Canyon Blvd, Mammoth Lakes, CA 93546, USA",http://austriahofrestaurant.com/
+Hawaiian,Big Island Hawaiian BBQ,"1016 Riley St #5, Folsom, CA 95630, USA",https://eatbigisland.com/
+Brazilian,Harmony Brazilian Steakhouse & Bar,"106 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Peruvian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Peruvian,Señor Aji Peruvian Kitchen,"6701 N Milburn Ave #130, Fresno, CA 93722, USA",http://www.senoraji.com/
+Peruvian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Peruvian,El Mono | Fresh Flavors of Peru,"11720 San Pablo Ave Suite B, El Cerrito, CA 94530, USA",https://www.elmonofresh.com/
+Peruvian,Parada,"7001 Sunne Ln, Walnut Creek, CA 94597, USA",http://paradakitchen.com/
+Peruvian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Peruvian,Lucho's Peruvian Restaurant,"9047 Arrow Route #190, Rancho Cucamonga, CA 91730, USA",https://peruvianrestaurantranchocucamonga.com/
+Peruvian,Barranco Cocina Peruana,"3596 Mount Diablo Blvd, Lafayette, CA 94549, USA",http://www.barrancokitchen.com/
+Peruvian,Inca's Peruvian Cuisine,"799 Gravenstein Hwy S, Sebastopol, CA 95472, USA",https://www.incasrestaurant.net/
+Peruvian,Sabor A Perú,"235 E Rowland St, Covina, CA 91723, USA",
+Peruvian,Chio's Peruvian Grill,"7755 Sepulveda Blvd, Van Nuys, CA 91405, USA",https://chiosperuvianla.com/
+Peruvian,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+Peruvian,Chios Peruvian Grill,"7115 Van Nuys Blvd #3006, Van Nuys, CA 91405, USA",https://chiosperuvianla.com/
+Peruvian,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Peruvian,Munay Peruvian Restaurant,"3010 E Los Angeles Ave, Simi Valley, CA 93063, USA",
+Peruvian,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Peruvian,El Pollo Inka,"20765 S Avalon Blvd, Carson, CA 90746, USA",https://www.foodbooking.com/api/fb/_o5_ykk
+Peruvian,La Costanera,"260 Capistrano Rd, Half Moon Bay, CA 94019, USA",http://www.lacostanerarestaurant.com/
+Peruvian,El Pollo Inka Gardena Peruvian Restaurant & Nightclub,"1425 Artesia Blvd, Gardena, CA 90248, USA",https://elpolloinkagardena.com/
+Peruvian,Paradita Eatery,"5959 Shellmound St, Emeryville, CA 94608, USA",http://www.paradita.com/
+Salvadorian,El Salvador Restaurant,"481 W Visalia Rd, Farmersville, CA 93223, USA",https://elsalvadorrestaurantfarmersvilleca.com/
+Cuban,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Tibetan,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Tibetan,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Tibetan,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Tibetan,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Tibetan,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Tibetan,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Tibetan,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Tibetan,Café Tibet,"2020 University Ave, Berkeley, CA 94704, USA",http://cafetibetberkeley.com/contact/
+Tibetan,Nomad Tibetan restaurant,"1593 Solano Ave, Berkeley, CA 94707, USA",http://nomadtibetan.com/
+Tibetan,Tibet Nepal House Restaurant,"36 E Holly St, Pasadena, CA 91103, USA",https://tibetnepalhousepasadena.com/
+Tibetan,LASO /Nepalese Fusion Restaurant,"101 Antonina Ave Suite 5, American Canyon, CA 94503, USA",http://www.lasonepalesefusion.com/
+Tibetan,The Village At Mammoth,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://villageatmammoth.com/
+Egyptian,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Greek,Pita Pit,"6201 Minaret Rd Suite 149, Mammoth Lakes, CA 93546, USA",https://locations.pitapitusa.com/pita-pit-f06276eaca8a
+Greek,Elixir Superfood & Juice,"3325 Main St, Mammoth Lakes, CA 93546, USA",http://www.enjoyelixir.com/
+Greek,Nik-N-Willie's Pizza-n-Subs,"100 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Greek,zpizza,"26 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.zpizza.com/
+Greek,Good Life Cafe,"126 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://goodlifemammoth.com/?y_source=1_MTYyMTAwMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Greek,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Greek,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+Greek,John's Pizza Works,"3499 Main St, Mammoth Lakes, CA 93546, USA",https://www.johnspizzaworks.com/
+Greek,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Greek,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Greek,Toomey's,"6085 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://toomeysmammoth.com/
+Greek,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Greek,The Stove,"644 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.thestoverestaurantmammoth.com/
+Greek,Nick The Greek,"718 S Mooney Blvd, Visalia, CA 93277, USA",http://www.nickthegreek.com/
+Greek,The Warming Hut,"343 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.thewarminghutmammoth.com/
+Greek,Sutter Greek,"76 Main St, Sutter Creek, CA 95685, USA",http://www.suttergreek.com/
+Greek,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Greek,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Greek,Giovanni's Pizzeria,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.giovannismammoth.com/
+Greek,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Belgian,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+Irish,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+Irish,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+Irish,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Irish,Side Door Wine Bar & Cafe,"100 Canyon Blvd #229, Mammoth Lakes, CA 93546, USA",https://www.sidedoormammoth.com/
+Irish,Irish Pub,"687 Pleasant Valley Rd, Diamond Springs, CA 95619, USA",
+Irish,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Irish,Liberty Sports Bar and Grill,"3399 Main St, Mammoth Lakes, CA 93546, USA",http://libertysportsbarandgrill.com/
+Irish,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Irish,Tiger Bar & Café,"2620 CA-158, June Lake, CA 93529, USA",http://tigerbarcafe.com/
+Irish,Shelter Distilling,"100 Canyon Blvd #217, Mammoth Lakes, CA 93546, USA",http://shelterdistilling.com/
+Irish,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Irish,Bar Sierra,"202 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.thesierranevadaresort.com/
+Irish,Groggs Traditional Irish Pub,"N Willow Ave #180, Clovis, CA 93611, USA",http://www.groggsclovis.com/
+Irish,The Eatery at Mammoth Brewing Company,"18 Lake Mary Rd, Mammoth Lakes, CA 93546, USA",http://mammothbrewingco.com/eatery/
+Irish,Mammoth Tavern - Mammoth,"587 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.mammothtavern.com/
+Irish,John's Pizza Works,"3499 Main St, Mammoth Lakes, CA 93546, USA",https://www.johnspizzaworks.com/
+Irish,The Mill,"9701 Minaret Rd #3000, Mammoth Lakes, CA 93546, USA",
+Irish,Mammoth Brewing Company,"18 Lake Mary Rd, Mammoth Lakes, CA 93546, USA",http://www.mammothbrewingco.com/
+Irish,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+Irish,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Welsh,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Cajun,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Cajun,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+Cajun,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+Cajun,Toomey's,"6085 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://toomeysmammoth.com/
+Cajun,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Cajun,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Cajun,John's Pizza Works,"3499 Main St, Mammoth Lakes, CA 93546, USA",https://www.johnspizzaworks.com/
+Cajun,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Cajun,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Cajun,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Cajun,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Cajun,Shelter Distilling,"100 Canyon Blvd #217, Mammoth Lakes, CA 93546, USA",http://shelterdistilling.com/
+Cajun,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Cajun,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Cajun,Cajun & Sushi House,"2921 Elverta Rd, Antelope, CA 95843, USA",https://www.cajunsushihouseca.com/
+Cajun,Cajun Crackin,"7735 N Blackstone Ave #115, Fresno, CA 93720, USA",
+Cajun,Crab it while it's hot,"5129 W Walnut Ave, Visalia, CA 93277, USA",https://www.clover.com/online-ordering/crab-it-while-its-hot-porterville
+Cajun,Captain Crab,"1240 Shaw Ave Suite 101, Clovis, CA 93612, USA",http://captaincrabseafood.com/
+Cajun,Aaron Schat's Roadhouse,"871 N Main St, Bishop, CA 93514, USA",http://schatsroadhouse.com/
+Cajun,Cajun Crackn Concord,"1975 Diamond Blvd E361, Concord, CA 94520, USA",
+Portuguese,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Portuguese,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Portuguese,Harmony Brazilian Steakhouse & Bar,"106 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Portuguese,Portuguese Hall of Kerman,"14910 W C St, Kerman, CA 93630, USA",
+Portuguese,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Portuguese,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Portuguese,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Portuguese,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Portuguese,Tasca Tasca - Portuguese Tapas and Wine Bar,"122 W Napa St, Sonoma, CA 95476, USA",http://www.tascatasca.com/
+Portuguese,Bacalhau Grill - Portuguese Restaurant & Market,"1555 Alum Rock Ave, San Jose, CA 95116, USA",https://www.bacalhaugrillsj.com/
+Portuguese,"Petiscos ""Alum Rock""","1614 Alum Rock Ave, San Jose, CA 95116, USA",https://www.petiscosadega.com/
+Portuguese,Debby's Cuisine,"1429 Stanislaus St F, Escalon, CA 95320, USA",https://www.debbyscuisine.com/
+Portuguese,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Portuguese,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Portuguese,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Portuguese,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Portuguese,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Portuguese,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Turkish,Simply Mediterranean,"2226 S Mooney Blvd # A5, Visalia, CA 93277, USA",https://www.simplymediterraneanca.com/
+Tahitian,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Kenyan,Gomez's Mexican Restaurant,"100 Canyon Blvd, Mammoth Lakes, CA 93546, USA",http://www.gomezs.com/
+Korean,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Korean,Dish Bistro,"588 Old Mammoth Rd #4, Mammoth Lakes, CA 93546, USA",https://onedishbistro.com/
+Korean,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Korean,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Korean,Two Hands Korean Corn Dogs,"1220 Shaw Ave #105, Clovis, CA 93612, USA",https://www.twohandsus.com/
+Korean,Korean Chili,"2089 E Prosperity Ave, Tulare, CA 93274, USA",http://www.toasttab.com/koreanchili
+Korean,Shila Korean BBQ,"1205 Herndon Ave #104, Clovis, CA 93612, USA",
+Korean,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Korean,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Korean,Kyoto Kafe Japanese & Korean Cuisine,"40423 CA-41, Oakhurst, CA 93644, USA",
+Korean,Moa Korean BBQ Restaurant,"508 Contra Costa Blvd # Q, Pleasant Hill, CA 94523, USA",
+Korean,"Korean Chicken Tto Bong Ee (또봉이), TRACY","2742 Naglee Rd, Tracy, CA 95304, USA",https://ttobongeetracy.menu11.com/
+Korean,Kaya Korean Restaurant,"4151 N Blackstone Ave #3808, Fresno, CA 93726, USA",
+Korean,Asiana Korean Food & Restaurant,"90 E Magill Ave, Fresno, CA 93710, USA",
+Korean,Shila Korean BBQ,"2760 W Shaw Ave, Fresno, CA 93711, USA",
+Korean,Rock & Noodles,"2225 W Shaw Ave #104, Fresno, CA 93711, USA",
+Korean,Mo Ran Gak Restaurant,"9651 Garden Grove Blvd, Garden Grove, CA 92844, USA",https://morangakbbq.com/
+Korean,The Eatery at Mammoth Brewing Company,"18 Lake Mary Rd, Mammoth Lakes, CA 93546, USA",http://mammothbrewingco.com/eatery/
+Korean,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Korean,Bulldoc Korean Fusion Cuisine,"3039 E Campus Pointe Dr, Fresno, CA 93710, USA",https://bulldockoreanfusioncuisine.com/
+Algerian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Nigerian,PONIA'S PALACE,"2250 E Palmdale Blvd, Palmdale, CA 93550, USA",
+Nigerian,The Peppered Goat,"15136 Stagg St, Van Nuys, CA 91405, USA",http://thepepperedgoat.com/
+Nigerian,Triumph African Restaurant,"5730 N First St #108, Fresno, CA 93710, USA",https://triumphafricanrestaurant.com/
+Nigerian,Sumptuous African Restaurant,"1170 S La Brea Ave, Inglewood, CA 90301, USA",http://sumptuousafricanrestaurant.com/
+Nigerian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Nigerian,totos' African Cuisine,"15355 Sherman Way APT L, Van Nuys, CA 91406, USA",http://www.totosafricancuisine.com/
+Nigerian,Sumptuous African Restaurant,"1909 Atlantic Ave, Long Beach, CA 90806, USA",http://sumptuousafricanrestaurant.com/
+Libyan,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Libyan,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Libyan,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Libyan,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Libyan,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Libyan,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Libyan,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Libyan,El Mono Motel & Latte Da Coffee Cafe,"US-395 & 3rd St, 51395 US-395, Lee Vining, CA 93541, USA",http://www.elmonomotel.com/
+Libyan,Gojira Ramen & Sushi,"1345 Rocking W Dr a7, Bishop, CA 93514, USA",https://www.gojirabishop.com/
+Libyan,The Village At Mammoth,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://villageatmammoth.com/
+Libyan,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Libyan,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Libyan,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Libyan,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Moroccan,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Moroccan,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Moroccan,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Moroccan,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Moroccan,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Moroccan,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Moroccan,Casablanca Moroccan Restaurant,"3516 Fair Oaks Blvd, Sacramento, CA 95864, USA",https://www.casablancamoroccan-restaurant.com/
+Lebanese,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Lebanese,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Lebanese,Elixir Superfood & Juice,"3325 Main St, Mammoth Lakes, CA 93546, USA",http://www.enjoyelixir.com/
+Lebanese,Golden Grill ( Syrian & Lebanese) cuisine,"7975 N Cedar Ave UNIT 105, Fresno, CA 93720, USA",http://goldengrillfresno.com/
+Lebanese,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Lebanese,Zaytoona Resturant,"129 W 7th St, Hanford, CA 93230, USA",http://zaytoonaonline.com/
+Lebanese,Mayd Modern Mediterranean,"7090 N Palm Ave Ste 109, Fresno, CA 93650, USA",http://maydmodern.com/
+Lebanese,Pita Pit,"6201 Minaret Rd Suite 149, Mammoth Lakes, CA 93546, USA",https://locations.pitapitusa.com/pita-pit-f06276eaca8a
+Lebanese,Simply Mediterranean,"2226 S Mooney Blvd # A5, Visalia, CA 93277, USA",https://www.simplymediterraneanca.com/
+Lebanese,Nik-N-Willie's Pizza-n-Subs,"100 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Lebanese,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Lebanese,Harmony Brazilian Steakhouse & Bar,"106 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Lebanese,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Lebanese,Yafa Grill & Restaurant - Mediterranean Halal Food,"5353 N Blackstone Ave Ste 101, Fresno, CA 93710, USA",https://www.yafa-grill.com/
+Lebanese,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Lebanese,Noah's Ark Restaurant & Bakery,"783 E Barstow Ave C, Fresno, CA 93710, USA",
+Lebanese,Barbonzai Lebanese Eatery,"2930 Bristol St C104, Costa Mesa, CA 92626, USA",https://www.barbonzai.com/
+Lebanese,El Basha Fresno,"5048 N Blackstone Ave #112, Fresno, CA 93710, USA",https://www.emenu101.com/el-basha-mediterranean-bistro
+Lebanese,Halal Bros.,"1782 E Barstow Ave, Fresno, CA 93710, USA",https://order.getrevi.com/halal-bros-1045
+Lebanese,T.O.A. MEDITERRANEAN,"8961 N Cedar Ave #103, Fresno, CA 93720, USA",http://www.facebook.com/toamediterranean
+Vietnamese,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Vietnamese,Helena’s Vietnamese Kitchen,"2400 N Sierra Hwy, Bishop, CA 93514, USA",https://m.facebook.com/100065288790044/
+Vietnamese,Chinese Wok & Roll,"549 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Vietnamese,PHO VIET 101,"2141 Shaw Ave Ste 109, Clovis, CA 93611, USA",https://www.phoviet101.com/
+Vietnamese,Pho'Dera Vietnamese Noodle House,"200 W Olive Ave, Madera, CA 93637, USA",https://phoderavietnamese.com/
+Vietnamese,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Vietnamese,Huong Lan 10,"5669 E Kings Canyon Rd #102, Fresno, CA 93727, USA",http://huonglanfresno.com/
+Vietnamese,Phở VN,"1187 N Willow Ave #104, Clovis, CA 93611, USA",
+Vietnamese,PhoEver Vietnamese Cuisine,"2230 Herndon Ave Ste 105, Clovis, CA 93611, USA",http://www.phoevervc.com/
+Vietnamese,Pho Phuong Nine Restaurant,"4903 E Kings Canyon Rd # 107, Fresno, CA 93727, USA",
+Vietnamese,Pita Pit,"6201 Minaret Rd Suite 149, Mammoth Lakes, CA 93546, USA",https://locations.pitapitusa.com/pita-pit-f06276eaca8a
+Vietnamese,Pho Wynn,"2737 S Mooney Blvd, Visalia, CA 93277, USA",https://www.skiplinow.com/shop/289306y
+Vietnamese,Phở Paradise Restaurant,"1848 N First St, Fresno, CA 93703, USA",
+Vietnamese,Pho 'n Seafood,"924 N Court St, Visalia, CA 93291, USA",https://www.facebook.com/people/Pho-N-Seafood-Restaurant/100057626852146/
+Vietnamese,Phở Paradise Restaurant 2,"6769 N Cedar Ave, Fresno, CA 93710, USA",https://www.phoparadise2.com/
+Vietnamese,Phở 2006,"1468 Clovis Ave, Clovis, CA 93612, USA",
+Vietnamese,Huonglan#9,"4965 N Fresno St, Fresno, CA 93726, USA",http://huonglanfresno.com/
+Vietnamese,Asian Cuisine,"4842 E Kings Canyon Rd Ste 105, Fresno, CA 93727, USA",https://www.asiancuisinefresno.com/
+Vietnamese,Phở #1,"1656 N First St, Fresno, CA 93703, USA",
+Vietnamese,Pho 99 | Noodle House,"231 N K St, Tulare, CA 93274, USA",
+Hungarian,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Hungarian,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Hungarian,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Hungarian,Harmony Brazilian Steakhouse & Bar,"106 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Hungarian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Hungarian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Hungarian,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Hungarian,Shelter Distilling,"100 Canyon Blvd #217, Mammoth Lakes, CA 93546, USA",http://shelterdistilling.com/
+Hungarian,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Mediterranean,Pita Pit,"6201 Minaret Rd Suite 149, Mammoth Lakes, CA 93546, USA",https://locations.pitapitusa.com/pita-pit-f06276eaca8a
+Ethiopian,Meskie's Ethiopia Restaurant,"2955 Telegraph Ave, Berkeley, CA 94705, USA",http://orderethiopiarestaurant.com/
+Ethiopian,Café Colucci,"5849 San Pablo Ave, Oakland, CA 94608, USA",https://www.cafecolucci.com/
+Ethiopian,Enssaro Ethiopian Restaurant,"357-A Grand Ave, Oakland, CA 94610, USA",http://www.enssarooakland.com/
+Ethiopian,GS Cafe and Ethiopian Cuisine,"1068 N Citrus Ave, Covina, CA 91722, USA",
+Ethiopian,Selam Restaurant and Cafe,"3120 Williams Rd, San Jose, CA 95117, USA",
+Ethiopian,Queen of Sheba Ethiopian Restaurant,"630 N La Brea Ave #106, Inglewood, CA 90302, USA",
+Ethiopian,Addis,"6100 Telegraph Ave, Berkeley, CA 94705, USA",http://www.addisethiopian.com/
+Ethiopian,Abesha Ethiopian Cuisine,"4929 Shattuck Ave., Oakland, CA 94609, USA",
+Ethiopian,Kategna Ethiopian Restaurant,"1663 W San Carlos St, San Jose, CA 95128, USA",https://www.kategna.com/
+Ethiopian,Blue Nile,"160 14th St, Oakland, CA 94612, USA",http://www.bluenilefood.com/
+Ethiopian,Merkato,"1036 1/2 S Fairfax Avenue, 1036 S Fairfax Ave, Los Angeles, CA 90019, USA",
+Ethiopian,Mela Bistro,"35 Grand Ave, Oakland, CA 94612, USA",http://melabistro.com/
+Ethiopian,Buna Ethiopian Restaurant & Market,"1034 S Fairfax Ave, Los Angeles, CA 90019, USA",http://bunaethiopianmarket.com/
+Ethiopian,Rosalind's,"1044 S Fairfax Ave, Los Angeles, CA 90019, USA",http://rosalindsla.com/
+Ethiopian,Barcote Ethiopian Restaurant,"6430 Telegraph Ave, Oakland, CA 94609, USA",https://barcote.com/
+Ethiopian,Messob Ethiopian Restaurant,"1041 S Fairfax Ave, Los Angeles, CA 90019, USA",http://www.messob.com/
+Ethiopian,Walia Ethiopian Cuisine,"2208 Business Cir, San Jose, CA 95128, USA",http://www.waliaethiopian.com/
+Ethiopian,Shewhat Restaurant / Cafe,"6101 Shattuck Ave., Oakland, CA 94609, USA",https://shewhatcafe.com/
+Ethiopian,Zeni,"1320 Saratoga Ave, San Jose, CA 95129, USA",https://www.zeniethiopianrestaurant.com/
+Ethiopian,Haleluya Ethiopian Gourmet,"4144 Walnut Ave, Fremont, CA 94538, USA",
+Caribbean,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Caribbean,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Caribbean,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Caribbean,The Warming Hut,"343 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.thewarminghutmammoth.com/
+Caribbean,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Caribbean,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Caribbean,Yaadie Plates (Delivery Only),"Grangeville Blvd, Hanford, CA 93230, USA",https://instagram.com/yaadie_plates?igshid=YmMyMTA2M2Y=
+Caribbean,Yardstyleplates,"Hanford-Armona Rd, Lemoore, CA 93245, USA",
+Caribbean,Caribbean Haven Restaurants,"1780 S Victoria Ave E, Ventura, CA 93003, USA",http://www.caribbeanhaven.com/
+Caribbean,Back A Yard Caribbean Grill,"1189 Willow Rd, Menlo Park, CA 94025, USA",https://backayard.net/
+Caribbean,Heavenly Plates,"1375 N Archie Ave, Fresno, CA 93703, USA",
+Caribbean,Cocobreeze Caribbean Restaurant and Bakery,"2370 High St, Oakland, CA 94601, USA",https://cocobreezeco.myshopify.com/pages/location
+Caribbean,One876 Caribbean Restaurant,"20869 Lassen St, Chatsworth, CA 91311, USA",https://one876caribbeanrestaurant.com/
+Caribbean,Mammoth Tavern - Mammoth,"587 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.mammothtavern.com/
+Caribbean,Taste Of The Caribbean LA,"5920 Santa Monica Blvd, Los Angeles, CA 90038, USA",https://www.tasteofthecaribbean.co/
+Caribbean,Sierra Meadows Ranch,"101 Sherwin Creek Rd, Mammoth Lakes, CA 93546, USA",http://www.sierrameadowsranch.com/
+Caribbean,Sattdown Jamaican Grill,"11320 Ventura Blvd, Studio City, CA 91604, USA",https://sattdownjamaicangrillca.com/
+Caribbean,Lee's Caribbean Restaurant,"1041 Prairie Ave #5, Inglewood, CA 90301, USA",http://orderlees.com/
+Caribbean,Janga by Derrick's Jamaican Cuisine,"3850 Main St, Culver City, CA 90232, USA",http://jangabyderrick.com/
+Caribbean,Clocktower Cellar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.clocktowercellar.com/
+Soul,Soul Good,"216 S K St, Tulare, CA 93274, USA",
+Argentinian,"Corrientes 348, Argentinian Steakhouse Restaurant","6113 Reseda Blvd, Reseda, CA 91335, USA",https://corrientes348.wixsite.com/my-site-1
+Argentinian,Toro Y Pampa Argentinian Food,"915 N Euclid Ave, Upland, CA 91786, USA",
+Argentinian,Harmony Brazilian Steakhouse & Bar,"106 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Argentinian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Argentinian,Carlitos Gardel Argentine Steakhouse,"7963 Melrose Ave, Los Angeles, CA 90046, USA",http://www.carlitosgardel.com/
+Argentinian,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Argentinian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Argentinian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Argentinian,Boca Burger With A Bit of Argentina,"425 W Foothill Blvd, Claremont, CA 91711, USA",
+Argentinian,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Argentinian,Villa Del Sol Argentinian Restaurant,"423 Grand Ave, South San Francisco, CA 94080, USA",
+Argentinian,El Mono Motel & Latte Da Coffee Cafe,"US-395 & 3rd St, 51395 US-395, Lee Vining, CA 93541, USA",http://www.elmonomotel.com/
+Argentinian,Guido's/FURNO'S Pizza & Empanadas Argentinas,"9755 Arrow Route G, Rancho Cucamonga, CA 91730, USA",
+Argentinian,Furnos,"1515 N Mountain Ave D, Ontario, CA 91762, USA",https://furnosontario.wixsite.com/furnos
+Argentinian,The Rolling Chef 395,"400 N Main St, Bishop, CA 93514, USA",https://www.facebook.com/therollingchef395/
+Argentinian,Lolinda,"2518 Mission St, San Francisco, CA 94110, USA",https://lolindasf.com/
+Argentinian,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Argentinian,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Argentinian,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Argentinian,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Chilean,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Chilean,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Chilean,El Charro Taqueria,"452 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Chilean,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Chilean,Latin Market,"1566 Tavern Rd, Mammoth Lakes, CA 93546, USA",
+Chilean,Puerto Vallarta,"3325 Main St, Mammoth Lakes, CA 93546, USA",
+Chilean,Salsa's Taqueria - Mammoth Lakes,"588 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.visitmammoth.com/restaurants
+Chilean,The Loco Frijole,"3711 Main St, Mammoth Lakes, CA 93546, USA",http://thelocofrijole.com/
+Chilean,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Chilean,Good Life Cafe,"126 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://goodlifemammoth.com/?y_source=1_MTYyMTAwMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Chilean,Gomez's Mexican Restaurant,"100 Canyon Blvd, Mammoth Lakes, CA 93546, USA",http://www.gomezs.com/
+Chilean,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Chilean,Cantina Mexican Restaurant,"2588 CA-158, June Lake, CA 93529, USA",
+Chilean,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Chilean,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Chilean,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Chilean,Balanced Rock Grill & Cantina,"2588 CA-158, June Lake, CA 93529, USA",https://balancedrockgrill.com/
+Chilean,Roberto's Cafe,"271 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://robertoscafe.com/
+Chilean,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Chilean,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Colombian,Latin Market,"1566 Tavern Rd, Mammoth Lakes, CA 93546, USA",
+Colombian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Colombian,La Chiva Colombian Restaurant,"6029 Beach Blvd, Buena Park, CA 90621, USA",https://lachivacolombianrestaurantbpca.com/
+Colombian,Sazon Colombia,"20454 Nordhoff St, Winnetka, CA 91311, USA",http://www.sazoncolombia.com/
+Colombian,Macondo Kitchen,"15333 Sherman Way suite w, Van Nuys, CA 91406, USA",
+Colombian,Fonda Colombiana,"1442 S White Rd, San Jose, CA 95127, USA",https://fondacolombianasj.com/
+Colombian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Colombian,La Maria Restaurant,"10516 Victory Blvd, North Hollywood, CA 91606, USA",https://lamariarestaurant.com/
+Colombian,Macondo Colombian Fusion,"1545 Webster St, Alameda, CA 94501, USA",https://www.macondocolombianfusion.com/
+Colombian,Nene's Colombian Food,"14607 Prairie Ave, Lawndale, CA 90260, USA",
+Colombian,La Chiva Colombiana Restaurant #3,"11374 Atlantic Ave, Lynwood, CA 90262, USA",https://lynwoodcolombianrestaurant.com/
+Colombian,Vivi's Gourmet Cuisine,"5900 Sepulveda Blvd, Van Nuys, CA 91411, USA",https://vivisgourmetcuisine.wixsite.com/foodtruck
+Colombian,Los parceros Colombian Mexican fusion,"18590 Van Buren Boulevard, Riverside, CA 92508, USA",
+Colombian,Que Chimba Parce,"17715 Arrow Blvd, Fontana, CA 92335, USA",https://quechimbaparceca.com/
+Colombian,Mägo,"3762 Piedmont Ave, Oakland, CA 94611, USA",https://www.magorestaurant.com/
+Colombian,Black Velvet Coffee Roaster | Espresso & Wine Bar,"3343 Main St SUITE F, Mammoth Lakes, CA 93546, USA",http://www.blackvelvetcoffee.com/
+Colombian,Bridgeport Inn,"205 Main St, Bridgeport, CA 93517, USA",http://www.thebridgeportinn.com/
+Costa Rican,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Czech,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+Czech,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Czech,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Czech,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Czech,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Czech,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Czech,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Czech,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Czech,Vladimir's Czech Restaurant,"12785 Sir Francis Drake Blvd, Inverness, CA 94937, USA",
+Czech,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Czech,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Czech,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Czech,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Danish,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Danish,The Stove,"644 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.thestoverestaurantmammoth.com/
+Danish,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Danish,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Danish,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Danish,Stellar Brew & Natural Cafe,"3280 Main St, Mammoth Lakes, CA 93546, USA",http://www.stellarbrew.life/
+Danish,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Danish,Old New York Deli & Bakery Co.,"6201 Minaret Rd #105, Mammoth Lakes, CA 93546, USA",http://www.oldnewyork.com/
+Danish,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Danish,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Danish,Erick Schat's Bakery,"763 N Main St, Bishop, CA 93514, USA",https://www.schatsbakery.com/
+Danish,Mammoth Pizza Co & Slice Bar,"The Village at Mammoth, 6201 Minaret Rd #109, Mammoth Lakes, CA 93546, USA",https://mammothpizzaco.com/
+Danish,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Danish,Solvang Restaurant,"1672 Copenhagen Dr #2759, Solvang, CA 93463, USA",http://www.solvangrestaurant.com/
+Danish,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Danish,Virginia Creek Settlement,"70847 US-395, Bridgeport, CA 93517, USA",https://www.virginiacreeksettlement.net/
+Danish,Giovanni's Pizzeria,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.giovannismammoth.com/
+Danish,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Danish,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Danish,Base Camp Eatery,"9006 Yosemite Lodge Dr, Yosemite Valley, CA 95389, USA",https://www.travelyosemite.com/lodging/dining/yosemite-valley-lodge/?utm_source=google&utm_medium=places&utm_campaign=google_places
+Dutch,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Dutch,Dish Bistro,"588 Old Mammoth Rd #4, Mammoth Lakes, CA 93546, USA",https://onedishbistro.com/
+Dutch,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Dutch,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Dutch,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+Dutch,Side Door Wine Bar & Cafe,"100 Canyon Blvd #229, Mammoth Lakes, CA 93546, USA",https://www.sidedoormammoth.com/
+Dutch,"Dutch Pete's Ranch, near Benton Hot Springs","51057 CA-120, Benton, CA 93512, USA",http://dutchpetesranch.com/
+Dutch,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Dutch,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Dutch,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Dutch,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Ecuadorian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Finnish,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+Finnish,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Finnish,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Finnish,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Finnish,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Finnish,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Finnish,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Finnish,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Finnish,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Finnish,Mammoth Pizza Co & Slice Bar,"The Village at Mammoth, 6201 Minaret Rd #109, Mammoth Lakes, CA 93546, USA",https://mammothpizzaco.com/
+Finnish,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Finnish,Giovanni's Pizzeria,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.giovannismammoth.com/
+Finnish,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Finnish,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Finnish,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Finnish,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Ghanaian,Triumph African Restaurant,"5730 N First St #108, Fresno, CA 93710, USA",https://triumphafricanrestaurant.com/
+Guatemalan,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Honduran,Pollo Hondureño Keidy's,"889 Derrick Ave, Mendota, CA 93640, USA",
+Icelandic,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Icelandic,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Icelandic,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Icelandic,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Icelandic,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Icelandic,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Icelandic,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Icelandic,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Icelandic,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Icelandic,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Indonesian,Indo Ranch Restaurant & Grocery,"22722 Lambert St #1701, Lake Forest, CA 92630, USA",
+Iranian,Kolbeh | Kabob Restaurant,"8700 Greenback Ln, Orangevale, CA 95662, USA",http://kolbehkabobrestaurant.com/
+Iranian,Tah Deeg Persian Cuisine,"1250 Shaw Ave Suite 109, Clovis, CA 93612, USA",https://food.orders.co/tahdeegpersiancuisine
+Iranian,Kabob Land,"1540 E Nees Ave, Fresno, CA 93720, USA",http://www.kaboblandinc.com/
+Iranian,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Iranian,Persian Nights Restaurant,"248 Grand Ave, Oakland, CA 94610, USA",http://www.persiannights.co/
+Iranian,Maral Cuisine,"5843 Kanan Rd, Agoura Hills, CA 91301, USA",https://www.maralcuisine.com/
+Iranian,Daryoush,"2144 Center St, Berkeley, CA 94704, USA",http://www.daryoush.com/
+Iranian,Essy’s Kabob Best kabob in the world Catering,"5207 Madison Ave STE A, Sacramento, CA 95841, USA",https://essy-kabob.com/
+Iranian,Amir's Shish Kabob of Fresno,"2023 W Bullard Ave, Fresno, CA 93711, USA",
+Iranian,Ziba Persian Restaurant,"4628 Meridian Ave, San Jose, CA 95124, USA",
+Iraqi,Golden Grill ( Syrian & Lebanese) cuisine,"7975 N Cedar Ave UNIT 105, Fresno, CA 93720, USA",http://goldengrillfresno.com/
+Israeli,The Stove,"644 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.thestoverestaurantmammoth.com/
+Israeli,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Israeli,Dish Bistro,"588 Old Mammoth Rd #4, Mammoth Lakes, CA 93546, USA",https://onedishbistro.com/
+Israeli,Good Life Cafe,"126 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://goodlifemammoth.com/?y_source=1_MTYyMTAwMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Israeli,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Israeli,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Israeli,Eleven53 Cafe,"10001 Minaret Rd Ste 4300, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=eleven53
+Israeli,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Israeli,Mayd Modern Mediterranean,"7090 N Palm Ave Ste 109, Fresno, CA 93650, USA",http://maydmodern.com/
+Israeli,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Israeli,El Mono Motel & Latte Da Coffee Cafe,"US-395 & 3rd St, 51395 US-395, Lee Vining, CA 93541, USA",http://www.elmonomotel.com/
+Israeli,Tel Aviv Grill- Encino,"17201 Ventura Blvd, Encino, CA 91316, USA",http://www.telavivkoshergrill.com/
+Israeli,Ciya Mediterranean Cuisine,"408 Main St, Half Moon Bay, CA 94019, USA",https://www.ciyahmb.com/
+Israeli,Hummus Bar & Grill,"18743 Ventura Blvd, Tarzana, CA 91356, USA",https://www.hummusbarandgrill.com/
+Israeli,Hummus Republic,"4235 S Mooney Blvd, Visalia, CA 93277, USA",https://www.thehummusrepublic.com/
+Israeli,Noah's Ark Restaurant & Bakery,"783 E Barstow Ave C, Fresno, CA 93710, USA",
+Israeli,Mazal,"110 N San Fernando Rd, Los Angeles, CA 90031, USA",http://mazal.la/
+Israeli,T.O.A. MEDITERRANEAN,"8961 N Cedar Ave #103, Fresno, CA 93720, USA",http://www.facebook.com/toamediterranean
+Israeli,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Jamaican,Back A Yard Caribbean Grill,"1189 Willow Rd, Menlo Park, CA 94025, USA",https://backayard.net/
+Jamaican,Wah Gwaan jamaican kitchen & Bar,"4371 Crenshaw Blvd A, Los Angeles, CA 90008, USA",http://wahgwaanjakitchenbar.com/?utm_source=gmb&utm_medium=referral
+Jamaican,Blessed Tropical Cuisine,"901 S Prairie Ave, Inglewood, CA 90301, USA",
+Jamaican,Yaadie Plates (Delivery Only),"Grangeville Blvd, Hanford, CA 93230, USA",https://instagram.com/yaadie_plates?igshid=YmMyMTA2M2Y=
+Jamaican,Janga by Derrick's Jamaican Cuisine,"3850 Main St, Culver City, CA 90232, USA",http://jangabyderrick.com/
+Jamaican,Jamdung Jamaican Restaurant,"12759 Foothill Blvd, Rancho Cucamonga, CA 91739, USA",
+Jamaican,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Jamaican,Taste Of The Caribbean LA,"5920 Santa Monica Blvd, Los Angeles, CA 90038, USA",https://www.tasteofthecaribbean.co/
+Jamaican,Coconuts Caribbean Restaurant & Bar,"642 Ramona St, Palo Alto, CA 94301, USA",https://www.coconutspaloalto.com/
+Jamaican,Salsa's Taqueria - Mammoth Lakes,"588 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.visitmammoth.com/restaurants
+Jamaican,Belizean/Jamaican Cuisine,"336 E Palmdale Blvd, Palmdale, CA 93550, USA",https://jamaicancuisinepalmdale.com/
+Jamaican,Jamdung Jamaican Restaurant,"23100 Alessandro Blvd suite g, Moreno Valley, CA 92552, USA",
+Jamaican,Sattdown Jamaican Grill,"11320 Ventura Blvd, Studio City, CA 91604, USA",https://sattdownjamaicangrillca.com/
+Jamaican,Minto's Jamaican Restaurant & Bar,"412 15th St, Oakland, CA 94612, USA",
+Jamaican,JAH BLESS,"1580 Centinela Ave, Inglewood, CA 90302, USA",https://jahblessrestaurant.com/
+Jamaican,Puerto Vallarta,"3325 Main St, Mammoth Lakes, CA 93546, USA",
+Jamaican,Flavas Jamaican Grill,"314 Linden Ave, South San Francisco, CA 94080, USA",https://flavasjamaicangrillsf.com/
+Jamaican,Yardstyleplates,"Hanford-Armona Rd, Lemoore, CA 93245, USA",
+Jamaican,Triumph African Restaurant,"5730 N First St #108, Fresno, CA 93710, USA",https://triumphafricanrestaurant.com/
+Jamaican,Heavenly Plates,"1375 N Archie Ave, Fresno, CA 93703, USA",
+Kuwaiti,Mono County,"Mono County, CA, USA",
+Laotian,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Lithuanian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Lithuanian,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Lithuanian,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Lithuanian,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Lithuanian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Lithuanian,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Lithuanian,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Lithuanian,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Lithuanian,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Lithuanian,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Lithuanian,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Malaysian,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Malaysian,Layang Layang Malaysian Cuisine,"181 W Calaveras Blvd, Milpitas, CA 95035, USA",https://layang-layang-malaysian-cuisine.com/
+Malaysian,Ipoh Garden Malaysian Cuisine,"100 El Camino Real, Millbrae, CA 94030, USA",https://smorefood.com/order-online/ipoh-garden-malaysian-cuisine-millbrae-94030-kv9ifbyu?utm_source=gmb&utm_medium=website
+Malaysian,Ipoh Kopitiam,"1411 S Garfield Ave #104, Alhambra, CA 91801, USA",https://www.ipoh-kopitiam.com/
+Malaysian,Curry Leaves Bistro,"6003 W Las Positas Blvd, Pleasanton, CA 94588, USA",http://www.curryleavesbistro.com/
+Malaysian,Borneo Eatery,"19 S Garfield Ave, Alhambra, CA 91801, USA",http://borneoeatery.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=14559655773208764635
+Malaysian,Banana Leaf Restaurant,"182 Ranch Dr, Milpitas, CA 95035, USA",http://www.bananaleaf-usa.com/
+Malaysian,Belacan Grill - Malaysian Bistro,"17460 17th St, Tustin, CA 92780, USA",http://www.belacangrillmalaysianbistro.com/
+Malaysian,MY-Malaysianfood,"1566 Carroll Ave Unit 2K, San Francisco, CA 94124, USA",https://mymalaysianfoodca.allhungry.com/
+Malaysian,Seasons Kitchen USA,"641 N Euclid St, Anaheim, CA 92801, USA",http://www.seasonskitchenusa.com/
+Malaysian,Mutiara Food & Market,"225 S La Brea Ave, Inglewood, CA 90301, USA",https://mutiaramasrestaurant.com/
+Mongolian,Chinese Wok & Roll,"549 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Mongolian,Harmony Brazilian Steakhouse & Bar,"106 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Mongolian,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Mongolian,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Mongolian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Mongolian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Mongolian,GK Mongolian BBQ,"3296 Grant Line Rd, Tracy, CA 95304, USA",https://www.gkmongolianbbq.com/
+Mongolian,Li's Mongolian BBQ,"4725 Manzanita Ave, Carmichael, CA 95608, USA",https://www.facebook.com/Lis-Mongolian-BBQ-1597483593839835/
+Mongolian,Chang's Mongolian Grill | Folsom Central Shopping Center,"631 E Bidwell St, Folsom, CA 95630, USA",https://changsmongolian.wixsite.com/mysite
+Nepalese,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Nicaraguan,La Fritanguera,"1819 Colfax St, Concord, CA 94520, USA",http://www.lafritanguera.com/
+Norwegian,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+Norwegian,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Norwegian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Norwegian,The Warming Hut,"343 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.thewarminghutmammoth.com/
+Norwegian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Norwegian,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Norwegian,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Norwegian,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Norwegian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Norwegian,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Norwegian,The Restaurant at Convict Lake,"2000 Convict Lake Rd, Mammoth Lakes, CA 93546, USA",https://convictlake.com/fine-dining/
+Norwegian,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Norwegian,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Norwegian,El Mono Motel & Latte Da Coffee Cafe,"US-395 & 3rd St, 51395 US-395, Lee Vining, CA 93541, USA",http://www.elmonomotel.com/
+Norwegian,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Norwegian,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Norwegian,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Norwegian,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Pakistani,Biryani Tika Kabab (برياني تكا كباب حلال)Halal Indian & Pakistani Cuisine,"328 14th St, Oakland, CA 94612, USA",
+Pakistani,Khan Karahi Kabobs,"22872 Main St, Hayward, CA 94541, USA",https://www.khankarahikabobshayward.com/?utm_source=gmb&utm_medium=website
+Pakistani,Masala Indo-Pak Cuisine,"25227 Redlands Blvd Suite E, Loma Linda, CA 92354, USA",http://masalaindopak.com/
+Pakistani,Al-Karam Pakistani Cuisine,"3457 Arlington Ave STE 101, Riverside, CA 92506, USA",http://www.akpakistanicuisine.com/
+Pakistani,Pak Halal Kitchen,"18743 Pioneer Blvd #101, Artesia, CA 90701, USA",https://www.pak-halal.com/
+Pakistani,Gul Naz Cuisine of Pakistan,"1624 E Washington St, Colton, CA 92324, USA",https://gulnazcuisine.com/
+Pakistani,Mashaallah Halal Pakistani Food Restaurant,"845 Market St space 4, San Francisco, CA 94103, USA",https://mashallah-halal-food.com/
+Pakistani,Al-Maida Hot Food and Market,"5650 Market St, Oakland, CA 94608, USA",
+Pakistani,Shahnawaz Restaurant,"18728 Pioneer Blvd 2nd floor, Artesia, CA 90701, USA",https://www.shahnawazcalifornia.com/
+Pakistani,Karimi Restaurant,"1086 N First St, San Jose, CA 95112, USA",http://karimirestaurant.com/
+Pakistani,Pepper House,"742 W Bullard Ave, Fresno, CA 93704, USA",
+Pakistani,Punjabi Dhaba - Indian Cuisine,"3767 S Golden State Blvd, Fresno, CA 93725, USA",https://emaps.top/punjabi-dhaba-indian-cuisine
+Pakistani,Tandoori Express,"40278 Rd 425A, Oakhurst, CA 93644, USA",http://tandoori.express/
+Pakistani,Curry Village Dining Pavilion,"Half Dome Village, 9010 Curry Village Dr, Yosemite Valley, CA 95389, USA",http://travelyosemite.com/
+Pakistani,Pakwan Restaurant,"25168 Mission Blvd, Hayward, CA 94544, USA",https://pakwanrestaurant.com/
+Pakistani,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Pakistani,HOME MADE FOOD,"5236 N Valentine Ave #201, Fresno, CA 93711, USA",
+Pakistani,Tandoori Night,"6751 N Blackstone Ave, Fresno, CA 93710, USA",
+Pakistani,Halal bros,"1782 E Barstow Ave, Fresno, CA 93710, USA",https://www.halalbros.org/
+Pakistani,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Panamanian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Paraguayan,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Peruvian,Inca's Peruvian Cuisine,"799 Gravenstein Hwy S, Sebastopol, CA 95472, USA",https://www.incasrestaurant.net/
+Peruvian,Señor Aji Peruvian Kitchen,"6701 N Milburn Ave #130, Fresno, CA 93722, USA",http://www.senoraji.com/
+Peruvian,Lucho's Peruvian Restaurant,"9047 Arrow Route #190, Rancho Cucamonga, CA 91730, USA",https://peruvianrestaurantranchocucamonga.com/
+Peruvian,El Mono | Fresh Flavors of Peru,"11720 San Pablo Ave Suite B, El Cerrito, CA 94530, USA",https://www.elmonofresh.com/
+Peruvian,Munay Peruvian Restaurant,"3010 E Los Angeles Ave, Simi Valley, CA 93063, USA",
+Peruvian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Peruvian,Parada,"7001 Sunne Ln, Walnut Creek, CA 94597, USA",http://paradakitchen.com/
+Peruvian,La Costanera,"260 Capistrano Rd, Half Moon Bay, CA 94019, USA",http://www.lacostanerarestaurant.com/
+Peruvian,Sabor A Perú,"235 E Rowland St, Covina, CA 91723, USA",
+Peruvian,Chio's Peruvian Grill,"7755 Sepulveda Blvd, Van Nuys, CA 91405, USA",https://chiosperuvianla.com/
+Peruvian,Limeña Peruvian Eatery,"2388-4 Thousand Oaks Blvd, Thousand Oaks, CA 91362, USA",https://limenaeatery.com/
+Peruvian,Chios Peruvian Grill,"7115 Van Nuys Blvd #3006, Van Nuys, CA 91405, USA",https://chiosperuvianla.com/
+Peruvian,El Pollo Inka Gardena Peruvian Restaurant & Nightclub,"1425 Artesia Blvd, Gardena, CA 90248, USA",https://elpolloinkagardena.com/
+Peruvian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Peruvian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Peruvian,Barranco Cocina Peruana,"3596 Mount Diablo Blvd, Lafayette, CA 94549, USA",http://www.barrancokitchen.com/
+Peruvian,Qusqo Bistro and Gallery,"11633 Santa Monica Blvd, Los Angeles, CA 90025, USA",https://qusqobistro.com/
+Peruvian,Paradita Eatery,"5959 Shellmound St, Emeryville, CA 94608, USA",http://www.paradita.com/
+Peruvian,El Pollo Inka,"20765 S Avalon Blvd, Carson, CA 90746, USA",https://www.foodbooking.com/api/fb/_o5_ykk
+Peruvian,The Rolling Chef 395,"400 N Main St, Bishop, CA 93514, USA",https://www.facebook.com/therollingchef395/
+Philippine,Jowli's Filipino Cuisine,"7058 N Cedar Ave, Fresno, CA 93720, USA",
+Polish,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Puerto Rican,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Puerto Rican,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Puerto Rican,Puerto Vallarta,"3325 Main St, Mammoth Lakes, CA 93546, USA",
+Puerto Rican,Latin Market,"1566 Tavern Rd, Mammoth Lakes, CA 93546, USA",
+Puerto Rican,The Loco Frijole,"3711 Main St, Mammoth Lakes, CA 93546, USA",http://thelocofrijole.com/
+Puerto Rican,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Puerto Rican,El Coqui Puerto Rican Cuisine,"400 Mendocino Ave, Santa Rosa, CA 95401, USA",http://elcoqui2eat.com/
+Puerto Rican,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Puerto Rican,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Puerto Rican,Salsa's Taqueria - Mammoth Lakes,"588 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.visitmammoth.com/restaurants
+Puerto Rican,El Charro Taqueria,"452 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Puerto Rican,Señor Big Ed,"5490 Lincoln Ave, Cypress, CA 90630, USA",https://puertoricanrestaurant.com/
+Puerto Rican,Mofongos,"5757 Lankershim Blvd, North Hollywood, CA 91601, USA",https://www.mofongosrestaurant.com/
+Romanian,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Saudi Arabian,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Singaporean,Shiok! Singapore Kitchen,"1137 Chestnut St, Menlo Park, CA 94025, USA",http://www.shiokkitchen.com/
+Slovenian,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Somali,Banadir Somali Restaurant,"137 Arbor Vitae St, Inglewood, CA 90301, USA",https://order.banadirsomalirestaurant.com/
+Somali,Fontana Somali Restaurant,"15040 Valley Blvd, Fontana, CA 92335, USA",
+Somali,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Somali,Jubba Somali Restaurant,"5330 Terner Way, San Jose, CA 95136, USA",
+Somali,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Somali,Triumph African Restaurant,"5730 N First St #108, Fresno, CA 93710, USA",https://triumphafricanrestaurant.com/
+Somali,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Somali,Virginia Creek Settlement,"70847 US-395, Bridgeport, CA 93517, USA",https://www.virginiacreeksettlement.net/
+Somali,Sierra Meadows Ranch,"101 Sherwin Creek Rd, Mammoth Lakes, CA 93546, USA",http://www.sierrameadowsranch.com/
+Somali,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Somali,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Somali,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Somali,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+South African,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Sri Lankan,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Sri Lankan,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Sri Lankan,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Sri Lankan,Pearl Island Restaurant,"16045 Sherman Way, Van Nuys, CA 91406, USA",https://instagram.com/pearlislandla?igshid=1qdpf711f00t5
+Sri Lankan,Rice N' Spice,"1732 S Euclid St, Anaheim, CA 92802, USA",
+Sri Lankan,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Sri Lankan,Plate50LA Indian & Sri Lankan Restaurant,"2411 W Olympic Blvd #5, Los Angeles, CA 90006, USA",http://plate50la.com/
+Sri Lankan,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Sri Lankan,Baja Subs Market & Deli,"8801 Reseda Blvd Suite A, Northridge, CA 91324, USA",https://asianflavorsstore.com/
+Sri Lankan,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Sri Lankan,1601 Bar & Kitchen,"1601 Howard St, San Francisco, CA 94103, USA",http://www.1601sf.com/
+Sri Lankan,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Sri Lankan,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Sri Lankan,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Sri Lankan,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Sri Lankan,Malabar Restaurant,"514 Front St, Santa Cruz, CA 95060, USA",http://malabar-restaurant.com/
+Swiss,The Yodler Restaurant & Bar,"10000 Minaret Rd #2120, Mammoth Lakes, CA 93546, USA",http://www.theyodlermammoth.com/
+Swiss,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Swiss,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Swiss,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Swiss,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Swiss,Fowl Language,"4000 Majestic Pines Dr Ste 1110, Mammoth Lakes, CA 93546, USA",
+Swiss,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Swiss,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Swiss,The Stove,"644 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.thestoverestaurantmammoth.com/
+Swiss,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Swiss,Burgers Restaurant,"6118 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.burgersrestaurant.com/
+Swiss,Good Life Cafe,"126 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://goodlifemammoth.com/?y_source=1_MTYyMTAwMTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Swiss,Eagle's Landing Restaurant,"5587 CA-158, June Lake, CA 93529, USA",http://doubleeagle.com/eagles-landing-restaurant/
+Swiss,Carl’s Jr.,"437 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://locations.carlsjr.com/ca/mammoth-lakes/437-old-mammoth-rd
+Swiss,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Swiss,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Swiss,Mammoth Tavern - Mammoth,"587 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.mammothtavern.com/
+Swiss,Old New York Deli & Bakery Co.,"6201 Minaret Rd #105, Mammoth Lakes, CA 93546, USA",http://www.oldnewyork.com/
+Swiss,Flo's Diner,"4750 US-6, Chalfant, CA 93514, USA",https://flos-diner.com/
+Swiss,The Patty Shack,"6201 Minaret Rd #101, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/patty-shack
+Syrian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Syrian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Syrian,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Syrian,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Syrian,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Syrian,Toomey's,"6085 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://toomeysmammoth.com/
+Syrian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Syrian,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Syrian,Morrison's Restaurant and Bar,"3516 Main St, Mammoth Lakes, CA 93514, USA",https://morrisonsrestaurantandbar.com/
+Syrian,Sincerely Syria (Sherman Oaks),"14518 Ventura Blvd, Sherman Oaks, CA 91403, USA",https://order.online/business/sincerely-syria-11536101
+Syrian,T.O.A MEDITERRANEAN,"521 E Shaw Ave #107, Fresno, CA 93710, USA",
+Syrian,Golden Grill ( Syrian & Lebanese) cuisine,"7975 N Cedar Ave UNIT 105, Fresno, CA 93720, USA",http://goldengrillfresno.com/
+Syrian,Sincerely Syria (Hollywood),"6319 Hollywood Blvd, Los Angeles, CA 90028, USA",https://order.online/business/sincerely-syria-11536101
+Syrian,Kobee Factory,"14110 Oxnard St, Van Nuys, CA 91401, USA",http://kobeefactoryla.com/
+Syrian,Virginia Creek Settlement,"70847 US-395, Bridgeport, CA 93517, USA",https://www.virginiacreeksettlement.net/
+Syrian,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Syrian,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Syrian,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Syrian,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Taiwanese,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Taiwanese,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Taiwanese,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Taiwanese,Dago Taiwanese Cuisine,"13089 Peyton Dr Suite I, Chino Hills, CA 91709, USA",https://www.fetail.com/storev2/shop?store_id=20&t=1605839726
+Taiwanese,Liang's Village,"20530 Stevens Creek Blvd, Cupertino, CA 95014, USA",https://www.liangsvillage.com/?y_source=1_MTg3MjEyMTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+Taiwanese,Taiwan Cafe,"568 N Abel St, Milpitas, CA 95035, USA",http://www.taiwancafemilpitas.com/
+Taiwanese,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Taiwanese,Taiwanese Eats,"426 MacArthur Ave, Redwood City, CA 94063, USA",https://redwoodcityeats.com/s/taiwanese-eats/426-macarthur-ave-redwood-city/a6b697ee-6a8c-4439-a9a4-6f45c3cff2b8?facility_id=983bc311-51e8-4e2e-ba27-6cc94bec511c&facility_name=Redwood+City+Eats
+Tanzanian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Thai,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Thai,Thai Thai Restaurant,"703 Airport Rd, Bishop, CA 93514, USA",
+Thai,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Thai,The Eatery at Mammoth Brewing Company,"18 Lake Mary Rd, Mammoth Lakes, CA 93546, USA",http://mammothbrewingco.com/eatery/
+Thai,Thai Basil,"1174 Country Club Dr, Madera, CA 93638, USA",http://www.thaibasilmadera.com/
+Thai,Thai Season,"135 W Shaw Ave, Clovis, CA 93612, USA",https://sites.google.com/view/thai-season-135-w-shaw-ave-clo
+Thai,Pad Thai,"75 W Hanford Armona Rd suite a, Lemoore, CA 93245, USA",https://padthaica.com/
+Thai,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Thai,Thai Basil Restaurant,"1423 E Noble Ave #3042, Visalia, CA 93292, USA",https://m.facebook.com/VisaliaTB/
+Thai,Asian Paradise Restaurant,"463 W Visalia Rd, Farmersville, CA 93223, USA",
+Thai,Dish Bistro,"588 Old Mammoth Rd #4, Mammoth Lakes, CA 93546, USA",https://onedishbistro.com/
+Thai,Davorn's Place,"400 N Willis St, Visalia, CA 93291, USA",
+Thai,Shelter Distilling,"100 Canyon Blvd #217, Mammoth Lakes, CA 93546, USA",http://shelterdistilling.com/
+Thai,Love and Thai,"4821 E Butler Ave, Fresno, CA 93727, USA",http://www.loveandthai.com/
+Thai,SaBaiDee - Thai Lao Cuisine,"5730 N First St, Fresno, CA 93710, USA",http://sabaideefresno.com/
+Thai,Thai Gem Restaurant,"742 W Shaw Ave, Clovis, CA 93612, USA",https://smorefood.com/order-online/thai-gem-restaurant-clovis-93612-cr0jkhd1?utm_source=gmb&utm_medium=website
+Thai,Thai Phuket,"1830 N First St, Fresno, CA 93703, USA",https://www.zmenu.com/thai-phuket-restaurant-fresno-online-menu/
+Thai,Thai Country,"151 W Bullard Ave, Clovis, CA 93612, USA",http://www.thaicountry.us/
+Thai,Toomey's,"6085 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://toomeysmammoth.com/
+Thai,My Thai Cuisine,"2108 Lake Tahoe Blvd, South Lake Tahoe, CA 96150, USA",https://www.mythaitahoe.com/
+Tunisian,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Tunisian,Petra's Bistro & Wine Bar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.petrasbistro.com/
+Tunisian,"The Rolling Chef 395 Mammoth Lakes, CA","3069 Main St, Mammoth Lakes, CA 93546, USA",
+Tunisian,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Tunisian,Mogul Restaurant,"1528 Tavern Rd, Mammoth Lakes, CA 93546, USA",http://themogul.com/
+Tunisian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Tunisian,El Mono Motel & Latte Da Coffee Cafe,"US-395 & 3rd St, 51395 US-395, Lee Vining, CA 93541, USA",http://www.elmonomotel.com/
+Tunisian,Moun Of Tunis Restaurant,"7445 1/2 Sunset Blvd, Los Angeles, CA 90046, USA",http://www.mounoftunis.com/index.html
+Tunisian,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Tunisian,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/
+Tunisian,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Tunisian,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Ukrainian,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Ukrainian,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Ukrainian,"Mom, Please Ukrainian food","13151 Fountain Park Dr, Los Angeles, CA 90094, USA",https://cafe.mom-please.com/
+Ukrainian,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Ukrainian,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Ukrainian,Leleka,"40 Belden Pl, San Francisco, CA 94104, USA",https://lelekasf.com/
+Ukrainian,Odessa Restaurant,"18525 Burbank Blvd, Tarzana, CA 91356, USA",
+Ukrainian,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Venezuelan,Mil Jugos,"320 W 5th St, Santa Ana, CA 92701, USA",http://www.miljugos.com/
+Vietnamese,Noodle-Ly,"437 Old Mammoth Rd Suite 146, Mammoth Lakes, CA 93546, USA",https://www.noodle-ly.com/?y_source=1_NDk3MzAyNzItNzE1LWxvY2F0aW9uLndlYnNpdGU=
+Vietnamese,Helena’s Vietnamese Kitchen,"2400 N Sierra Hwy, Bishop, CA 93514, USA",https://m.facebook.com/100065288790044/
+Vietnamese,Chinese Wok & Roll,"549 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",
+Vietnamese,PHO VIET 101,"2141 Shaw Ave Ste 109, Clovis, CA 93611, USA",https://www.phoviet101.com/
+Vietnamese,Pho'Dera Vietnamese Noodle House,"200 W Olive Ave, Madera, CA 93637, USA",https://phoderavietnamese.com/
+Vietnamese,GOJIRA Ramen & Sushi,"452 Old Mammoth Rd #109, Mammoth Lakes, CA 93546, USA",https://www.gojiramammoth.com/
+Vietnamese,Huong Lan 10,"5669 E Kings Canyon Rd #102, Fresno, CA 93727, USA",http://huonglanfresno.com/
+Vietnamese,Phở VN,"1187 N Willow Ave #104, Clovis, CA 93611, USA",
+Vietnamese,PhoEver Vietnamese Cuisine,"2230 Herndon Ave Ste 105, Clovis, CA 93611, USA",http://www.phoevervc.com/
+Vietnamese,Pho Phuong Nine Restaurant,"4903 E Kings Canyon Rd # 107, Fresno, CA 93727, USA",
+Vietnamese,Pita Pit,"6201 Minaret Rd Suite 149, Mammoth Lakes, CA 93546, USA",https://locations.pitapitusa.com/pita-pit-f06276eaca8a
+Vietnamese,Pho Wynn,"2737 S Mooney Blvd, Visalia, CA 93277, USA",https://www.skiplinow.com/shop/289306y
+Vietnamese,Phở Paradise Restaurant,"1848 N First St, Fresno, CA 93703, USA",
+Vietnamese,Pho 'n Seafood,"924 N Court St, Visalia, CA 93291, USA",https://www.facebook.com/people/Pho-N-Seafood-Restaurant/100057626852146/
+Vietnamese,Phở Paradise Restaurant 2,"6769 N Cedar Ave, Fresno, CA 93710, USA",https://www.phoparadise2.com/
+Vietnamese,Phở 2006,"1468 Clovis Ave, Clovis, CA 93612, USA",
+Vietnamese,Huonglan#9,"4965 N Fresno St, Fresno, CA 93726, USA",http://huonglanfresno.com/
+Vietnamese,Asian Cuisine,"4842 E Kings Canyon Rd Ste 105, Fresno, CA 93727, USA",https://www.asiancuisinefresno.com/
+Vietnamese,Phở #1,"1656 N First St, Fresno, CA 93703, USA",
+Vietnamese,Pho 99 | Noodle House,"231 N K St, Tulare, CA 93274, USA",
+Yemeni,Hadramout,"4030 N Blackstone Ave, Fresno, CA 93726, USA",
+Zimbabwean,Dos Alas CubaRican Café & Lounge,"101 Sherwin Creek Rd Building A, Mammoth Lakes, CA 93546, USA",http://www.dosalascafe.com/
+Zimbabwean,Mono Inn,"55620 US-395, Lee Vining, CA 93541, USA",http://www.monoinn.com/
+Zimbabwean,Vulcania,"6201 Minaret Rd #240, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/things-to-do/dining/vulcania
+Zimbabwean,Lakanuki,"6201 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.lakanuki.net/
+Zimbabwean,Whitebark Restaurant & Lounge In The Westin Hotel,"50 Hillside Dr, Mammoth Lakes, CA 93546, USA",https://www.marriott.com/hotels/hotel-information/restaurant/mmhwi-the-westin-monache-resort-mammoth/
+Zimbabwean,The Warming Hut,"343 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",https://www.thewarminghutmammoth.com/
+Zimbabwean,The Lakefront Restaurant,"163 Twin Lakes Rd, Mammoth Lakes, CA 93546, USA",http://www.lakefrontmammoth.com/
+Zimbabwean,Mammoth Tavern - Mammoth,"587 Old Mammoth Rd, Mammoth Lakes, CA 93546, USA",http://www.mammothtavern.com/
+Zimbabwean,Mountainside Bar & Grill,"10400 Minaret Rd #1200, Mammoth Lakes, CA 93546, USA",https://www.mammothmountain.com/winter/things-to-do/shop-dine/dining/dining-detail?url=mountainside-bar-and-grill
+Zimbabwean,Mono Cone,"51508 US-395, Lee Vining, CA 93541, USA",https://www.facebook.com/Mono-Cone-1483323691993220/
+Zimbabwean,Clocktower Cellar,"6080 Minaret Rd, Mammoth Lakes, CA 93546, USA",http://www.clocktowercellar.com/
+Zimbabwean,Sierra Meadows Ranch,"101 Sherwin Creek Rd, Mammoth Lakes, CA 93546, USA",http://www.sierrameadowsranch.com/
+Zimbabwean,El Mono Motel & Latte Da Coffee Cafe,"US-395 & 3rd St, 51395 US-395, Lee Vining, CA 93541, USA",http://www.elmonomotel.com/
+Zimbabwean,Nicely's Restaurant,"51343 US-395, Lee Vining, CA 93541, USA",
+Zimbabwean,Bodie Mike's,"51357 US-395, Lee Vining, CA 93541, USA",
+Zimbabwean,The Basin Cafe,"349 Lee Vining Ave, Lee Vining, CA 93541, USA",https://www.toasttab.com/the-basin-cafe-349-lee-vining-ave
+Zimbabwean,Whoa Nellie Deli,"22 Vista Point Dr, Lee Vining, CA 93541, USA",http://www.whoanelliedeli.com/

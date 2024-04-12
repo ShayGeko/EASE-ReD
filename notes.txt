@@ -1,0 +1,20 @@
+
+
+--- Neural net:
+
+- using sentence embeddings on the cuisine type
+--- cant use word embedding because cuisine can be something like "american; pizza; burger"
+--- sentence embeddings produce a vector in high-dimensional space that lets you add embeddings
+      in semantically meaningful ways. embed("King") - embed("Man") + embed("Woman") ~ embed("Queen")
+--- after computing such embeddings, we count the number of cuisine types of each type and compute the
+weighted average of the embeddings. By doing so we hope to encompass a vector encompassing the cuisine distribution
+
+- once we have the embeddings, we train a Feed forward NN in pytorch to get probabilities for every populaton 'class'
+
+- pitfalls:
+--- there is class imbalance: many towns in the us are predominantly white. 
+So predicting all white gives a 70% accuracy.
+----- solutions:
+----- a. Weights for BCEWithLogitsLoss.
+----- We have very few datapoints given the 384-dimensional sentence embedding.
+To tackle this we try to do PCA on it to reduce to 20 dimensions.
