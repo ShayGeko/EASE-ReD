@@ -1,0 +1,6 @@
+name: 'data-world-4'
+demographics_file: './data/demographicData/csv/data_world/us_city_demographics.csv'
+demographics_normalized_file: './data/demographicData/csv/data_world/us_city_demographics_normalized.csv'
+embeddings_file: './data/embeddings/embeddings.csv'
+lr: 1e-4
+weight_decay: 1e-3
