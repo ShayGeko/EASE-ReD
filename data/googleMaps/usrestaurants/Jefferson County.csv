@@ -1,0 +1,407 @@
+Cuisine Type,Name,Address,Website
+Mexican,El Ranchito Family Mexican Restaurant,"8138 WA-539, Lynden, WA 98264, USA",
+Mexican,Fiesta Jalisco Mexican Restaurant,"10893 Rhody Dr, Port Hadlock-Irondale, WA 98339, USA",
+Mexican,Guadalajara Grill,"157 State Hwy 99E Bus, Jefferson, OR 97352, USA",
+Mexican,San Juan Taqueria,"23 Kala Square Pl, Port Townsend, WA 98368, USA",https://sanjuantaqueriakp.com/
+Mexican,Tequila Grill,"325 OR-99W, McMinnville, OR 97128, USA",
+Mexican,Taqueria Nayarit,"11323 Rhody Dr, Port Hadlock-Irondale, WA 98339, USA",
+Mexican,Hacienda Tizapan,"2330 Washington St, Port Townsend, WA 98368, USA",
+Mexican,Las Brisas Authentic Mexican Restaurant,"8620 Daniel Dunklin Dr, Pevely, MO 63070, USA","https://www.google.com/search?source=hp&ei=eKgvXf-fE4KusAWIuovoDA&q=las+brisas+pevely+mo&oq=&gs_l=mobile-gws-wiz-hp.1.0.35i39i19j35i39l5j46i39j35i39.0.0..2683...1.0..0.0.0.......0...........8.kCtI45lqzCg#lkt=overview&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:6613254227807877891,rc_q:Las%2520Brisas.%2520authentic%2520Mexican%2520restaurant%2520%2523%252010,ru_q:Las%2520Brisas.%2520authentic%2520Mexican%2520restaurant%2520%2523%252010"
+Swedish,Svensken A taste of Scandinavia,"22320 NE Halsey St, Fairview, OR 97024, USA",https://www.svensken.net/
+Italian,Olive Garden Italian Restaurant,"1809 Marketplace Dr, Burlington, WA 98233, USA",https://www.olivegarden.com/locations/wa/burlington/burlington-washington/1691?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:burlington-wa-1691_pl:locurl_rd:1541
+Italian,Casa Mia Italian Restaurant,"7304 Lakewood Dr W #1, Lakewood, WA 98499, USA",https://www.casamiaitalianrestaurant.com/?utm_source=gbp
+Italian,rustica - italian restaurant and bar,"670 SE Pioneer Way #102, Oak Harbor, WA 98277, USA",http://www.rusticacafe.com/
+Italian,The Adriatic at Oakbrook,"8102 Zircon Dr SW, Lakewood, WA 98498, USA",https://www.oakbrookgolfclub.com/adriatic-at-oakbrook/
+Italian,Jimmy's Pizza & Pasta,"9819 WA-532, Stanwood, WA 98292, USA",http://www.jimmyspizzastanwood.com/
+Italian,Giorgio's Pizza & Spaghetti House,"9031 Evergreen Way, Everett, WA 98204, USA",http://www.giorgiospizzaandpasta.com/
+Italian,Olive Garden Italian Restaurant,"11325 NE 124th St, Kirkland, WA 98034, USA",https://www.olivegarden.com/locations/wa/kirkland/kirkland-totem-lake/1318?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:kirkland-wa-1318_pl:locurl_rd:1241
+Italian,Olive Garden Italian Restaurant,"#4276, Bellingham, WA 98226, USA",https://www.olivegarden.com/locations/wa/bellingham/bellingham/1487?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:bellingham-wa-1487_pl:locurl_rd:1365
+Italian,Olive Garden Italian Restaurant,"10326 Quil Ceda Blvd, Tulalip, WA 98271, USA",https://www.olivegarden.com/locations/wa/tulalip/tulalip/1867?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:tulalip-wa-1867_pl:locurl_rd:1709
+Italian,The Old Spaghetti Factory (Victoria),"703 Douglas St, Victoria, BC V8W 2B4, Canada",http://www.oldspaghettifactory.ca/locations/victoria
+Italian,Olive Garden Italian Restaurant,"35030 Enchanted Pkwy S, Federal Way, WA 98003, USA",https://www.olivegarden.com/locations/wa/federal-way/federal-way/1449?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:federal-way-wa-1449_pl:locurl_rd:1334
+Italian,Ciao Food & Wine,"701 N Main St, Coupeville, WA 98239, USA",https://www.ciao.store/
+Italian,Grazie Ristorante Italiano,"23207 Bothell Everett Hwy, Bothell, WA 98021, USA",http://www.grazierestaurant.com/
+Italian,Olive Garden Italian Restaurant,"3204 NW Randall Way, Silverdale, WA 98383, USA",https://www.olivegarden.com/locations/wa/silverdale/silverdale/1377?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:silverdale-wa-1377_pl:locurl_rd:1284
+Italian,La Pasta La Pizza,"6-1701 Douglas St, Victoria, BC V8W 0C1, Canada",https://lapastalapizza.com/
+Italian,Olive Garden Italian Restaurant,"4221 196th St SW, Lynnwood, WA 98036, USA",https://www.olivegarden.com/locations/wa/lynnwood/lynnwood/1209?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:lynnwood-wa-1209_pl:locurl_rd:1155
+Italian,Bucatini,"9818 Edmonds Way, Edmonds, WA 98020, USA",http://www.bucatiniedmonds.com/
+Italian,Sparta's Pizza & Pasta House,"17630 Hwy 99, Lynnwood, WA 98037, USA",http://www.spartaspizza.com/
+Italian,II Terrazzo,"555 Johnson St, Victoria, BC V8W 1M2, Canada",https://www.ilterrazzo.com/
+Italian,Sogno di Vino,"18830 Front St NE, Poulsbo, WA 98370, USA",http://www.sogno-di-vino.com/
+Spanish,Izla,"3635 Hill Blvd, Jefferson Valley, NY 10535, USA",http://izlany.com/
+American,The Local House Restaurant & Bar,"3946 Jeffco Blvd, Arnold, MO 63010, USA",http://localhousearnold.com/
+American,Twisted Tavern STL,"3606 W Outer Rd, Arnold, MO 63010, USA",https://www.twistedtavernstl.com/
+American,Cracker Barrel Old Country Store,"1193 Scenic Dr, Herculaneum, MO 63048, USA",https://www.crackerbarrel.com/Locations/States/mo/herculaneum/567/?utm_source=google&utm_medium=maps&utm_campaign=crackerbarrelurl
+American,Tommy's Welcome Inn,"142 S Main St, Jefferson, OR 97352, USA",https://tommyswelcomeinn.com/
+American,Ruby Tuesday,"1120 Shapiro Dr, Festus, MO 63028, USA",https://rubytuesday.com/
+American,Joe Clark's Restaurant,"42 Gravois Rd, Fenton, MO 63026, USA",
+American,Billy G's Kirkwood,"Billy G's, 131 W Argonne Dr, Kirkwood, MO 63122, USA",http://billygskirkwood.com/
+American,Fountain City Grille,"4660 Yeager Rd, Hillsboro, MO 63050, USA",https://www.fountaincitygrillemo.com/
+American,The Concord Grill,"11427 Concord Village Ave, St. Louis, MO 63123, USA",https://concordgrill.com/
+American,Cracker Barrel Old Country Store,"6233 Heimos Industrial Park Dr, St. Louis, MO 63129, USA",https://www.crackerbarrel.com/Locations/States/mo/st-louis/99/?utm_source=google&utm_medium=maps&utm_campaign=crackerbarrelurl
+American,Steak 'n Shake,"999 Veterans Blvd, Festus, MO 63028, USA",https://www.steaknshake.com/
+American,A&W Restaurant,"3998 Jeffco Blvd, Arnold, MO 63010, USA",https://awrestaurants.com/locations/missouri/arnold/3998-jeffco-blvd/
+American,Crispy Edges,"700 Collins Dr, Festus, MO 63028, USA",https://crispyedgesfestus.com/
+American,Waffle House,"1304 Veterans Blvd, Festus, MO 63028, USA",https://locations.wafflehouse.com/festus-mo-1163
+American,Culver’s,"123 Richardson Crossing, Arnold, MO 63010, USA",http://www.culvers.com/restaurants/arnold?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places
+American,Culver’s,"200 S Truman Blvd, Crystal City, MO 63019, USA",http://www.culvers.com/restaurants/crystal-city-truman-blvd?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places
+American,Denny's,"1203 Drury Ln, Arnold, MO 63010, USA",https://locations.dennys.com/MO/ARNOLD/248815?utm_source=yext&utm_medium=local-listing&utm_campaign=yext-listing&y_source=1_MjIyNzg2Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+American,Culver’s,"4140 Rusty Rd, St. Louis, MO 63128, USA",http://www.culvers.com/restaurants/st-louis-rusty?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places
+American,Ginny's Kitchen & Custards,"7022 US-61, Barnhart, MO 63012, USA",http://www.iloveginnys.com/
+American,Jack in the Box,"899 Veterans Blvd, Festus, MO 63028, USA",https://locations.jackinthebox.com/us/mo/festus/899-veterans-blvd?utm_source=google&utm_medium=local&utm_campaign=google-local
+British,Best of British Pub,"150 California Blvd, Davenport, FL 33897, USA",http://www.bestofbritishpub.com/
+Thai,Patsara Thai,"528 Carnarvon St, New Westminster, BC V3L 1C4, Canada",https://www.patsara.ca/
+Thai,Little Thailand,"702 Metcalf St, Sedro-Woolley, WA 98284, USA",https://m.facebook.com/pages/Little-Thailand/491266320936048
+Thai,Mai Thai Restaurant,"91 NE Midway Blvd, Oak Harbor, WA 98277, USA",https://www.maithairestaurant.net/
+Thai,Khu Larb,"225 Adams St, Port Townsend, WA 98368, USA",http://khularbthai.com/
+Thai,123 Thai Food,"2219 E Sims Way, Port Townsend, WA 98368, USA",https://123thaifood.com/menu
+Thai,1-2-3 Thai Food,"31595 State Rte 20 #2, Oak Harbor, WA 98277, USA",http://www.123thaifood.net/
+Thai,Taste of Thai by Wipa,"1038 S Burlington Blvd, Burlington, WA 98233, USA",https://tasteofthaibywipawa.smiledining.com/
+Thai,Naung Mai Thai Kitchen,"2216 Commercial Ave, Anacortes, WA 98221, USA",http://nmthaikitchen.com/
+Thai,Lanna Thai Restaurant,"7825 Evergreen Way, Everett, WA 98203, USA",http://www.lannathaieverett.com/
+Thai,Naung Mai Thai Kitchen,"270 SE Cabot Dr, Oak Harbor, WA 98277, USA",http://nmthaikitchen.com/
+Thai,Sweet Rice Thai Cuisine & Spirit,"885 SE Pioneer Way, Oak Harbor, WA 98277, USA",http://www.sweetricethaicuisine.com/
+Thai,Baan Thai Wok & Bar,"1117 Blanshard St, Victoria, BC V8W 2H7, Canada",http://baanthaiwokandbar.ca/
+Thai,Rachawadee Thai Cafe,"410 W Gates St, Mount Vernon, WA 98273, USA",http://www.rachawadeethai.com/
+Thai,Thumra Thai Restaurant,"12549 116th Ave NE, Kirkland, WA 98034, USA",http://www.thaikirkland.com/
+Thai,Zab Thai Restaurant,"11108 Evergreen Way A, Everett, WA 98204, USA",https://www.zabon99.com/
+Thai,Thong Thai Restaurant,"12836 Pacific Hwy SW, Lakewood, WA 98499, USA",
+Thai,Racha Thai Cuisine,"13317 NE 175th St, Woodinville, WA 98072, USA",http://www.rachawoodinville.com/
+Thai,Mae Phim Thai Restaurant,"1212 State Ave Suite E, Marysville, WA 98270, USA",https://maephimthairestaurantwa.com/
+Thai,Chang Thai Cuisine,"8215 Steilacoom Blvd SW, Lakewood, WA 98498, USA",https://www.changthaicuisine.com/
+Thai,Noppakao | Thai Restaurant,"9745 NE 117th Ln, Kirkland, WA 98034, USA",http://noppakaothai.com/
+Japanese,Sakura Japanese Steakhouse and Sushi Bar,"1830 S Burlington Blvd, Burlington, WA 98233, USA",http://www.sakuraburlington.com/
+Japanese,Songoku Hibachi and Sushi Japanese,"134 W Front St, Port Angeles, WA 98362, USA",
+Japanese,Ichikawa,"1208 Water St, Port Townsend, WA 98368, USA",https://ptsushi.com/
+Japanese,Kyoto Japanese Restaurant,"8722 S Tacoma Way, Lakewood, WA 98499, USA",https://kyotojapaneserestaurant.menu11.com/
+Japanese,Oshima Sushi,"11108 Evergreen Way, Everett, WA 98204, USA",
+Japanese,Shima Japanese Restaurant,"10007 270th St NW, Stanwood, WA 98292, USA",http://www.shimastanwood.com/
+Japanese,Fudo Japanese Restaurant,"425, 777, Royal Oak Dr, Victoria, BC V8X 4V1, Canada",http://www.fudovictoria.com/
+Japanese,Katsu-Mi Japanese Cuisine,"31217 Pacific Hwy S C-103, Federal Way, WA 98003, USA",https://instagram.com/katsu_mi_official?igshid=MzRlODBiNWFlZA==
+Japanese,Koibito Japanese Restaurant,"7205 Capitol Blvd SE, Tumwater, WA 98501, USA",
+Japanese,kamakura japanese cuisine,"4804 Pacific Ave SE, Lacey, WA 98503, USA",
+Japanese,Sushi Field (Fairfield),"1594 Fairfield Rd #5, Victoria, BC V8S 1G1, Canada",http://sushifield.com/
+Japanese,Misora Teriyaki Sushi and Wok,"16809 Hwy 99, Lynnwood, WA 98037, USA",https://misora-teriyaki-and-sushi.square.site/
+Japanese,YuaBistro,"622 Fisgard St, Victoria, BC V8W 1R6, Canada",http://www.yuabistro.com/
+Japanese,Tokyo Japanese Restaurant,"3500 Factoria Blvd SE, Bellevue, WA 98006, USA",https://tokyobellevue.com/
+Japanese,Wild Wasabi,"19720 44th Ave W Suite A, Lynnwood, WA 98036, USA",https://wildwasabisushi.com/
+Japanese,"Koto Teriyaki & Sushi (Sequim, WA)","1252 W Washington St, Sequim, WA 98382, USA",https://www.kotosequim.com/
+Japanese,Mana Sushi & Teriyaki Wok,"435 SW Sedgwick Rd #103, Port Orchard, WA 98367, USA",https://manasushiteriyaki.com/
+Japanese,Nami Sushi,"31260 Pacific Hwy S Suite 12, Federal Way, WA 98003, USA",https://www.namisushiwa.com/
+Japanese,Toudai Sushi & Fusion,"12926 Mukilteo Speedway Ste F-3, Lynnwood, WA 98087, USA",http://toudaisushifusion.menu11.com/
+Japanese,TOGO SUSHI,"1883 Fort St, Victoria, BC V8R 1K1, Canada",http://togo-sushi.com/
+Chinese,Mama Rich,"4949 Kingsway, Burnaby, BC V5H 2E5, Canada",https://mamarichburnaby.com/?utm_source=google&utm_medium=maps&utm_campaign=website
+Chinese,Joy Luck Restaurant,"81 Chimacum Rd, Port Hadlock-Irondale, WA 98339, USA",
+Chinese,Hong Kong Restaurant,"1300 Riverside Dr, Mount Vernon, WA 98273, USA",http://www.hongkongrestaurantmv.com/
+Chinese,Shanghai Chinese Restaurant,"265 Hudson St, Port Townsend, WA 98368, USA",https://www.takeout-guide.com/porttownsend/restaurants/ShanghaiChineseRestaurant
+Chinese,Maple Palace Chinese Restaurant,"9800 McDonald Park Rd #202, Sidney, BC V8L 1W7, Canada",http://www.maplepalace.ca/
+Chinese,China City,"33185 State Rte 20, Oak Harbor, WA 98277, USA",http://www.chinacityrestaurant.com/
+Chinese,Phoenix Pavilion Chinese Restaurant,"8714 271st St NW, Stanwood, WA 98292, USA",http://www.phoenixpavilionstanwood.com/
+Chinese,Hong Kong Garden Restaurant,"2501 Commercial Ave, Anacortes, WA 98221, USA",https://www.facebook.com/pages/Hong-Kong-Gardens/113910448640661
+Chinese,China Harbor Inc,"630 SE Pioneer Way, Oak Harbor, WA 98277, USA",
+Chinese,Great China Restaurant,"13501 100th Ave NE, Kirkland, WA 98034, USA",http://www.greatchinakirkland.com/
+Chinese,Beijing Garden,"3719 Rucker Ave, Everett, WA 98201, USA",https://www.beijinggardenwa.com/
+Chinese,Town Story,"6211 Evergreen Way, Everett, WA 98203, USA",http://www.townstoryonline.com/
+Chinese,New China,"3414 132nd St SE suite 304, Mill Creek, WA 98012, USA",https://www.newchina3414.com/
+Chinese,Four Seasons Port Townsend,"1111 Water St, Port Townsend, WA 98368, USA",http://fourseasonschinesefood.net/
+Chinese,Sidney Harbour Chinese Restaurant,"2500 Beacon Ave, Sidney, BC V8L 4T9, Canada",http://www.sidneyharbourchineserestaurant.com/
+Chinese,Fortune Star Chinese Restaurant,"145 E Washington St Suite C, Sequim, WA 98382, USA",
+Chinese,Golden Phoenix Chinese Restaurant,"16915 SE 272nd St #106, Covington, WA 98042, USA",https://goldenphoenixc.wixsite.com/menu
+Chinese,May's Asian Cuisine,"5848 Trans-Canada Hwy, Duncan, BC V9L 3S1, Canada",https://www.menupix.com/victoria/restaurants/1181685/May-Asian-Cuisine-Duncan-BC
+Chinese,Brother's Chinese Restaurant,"16715 52nd Ave W, Lynnwood, WA 98037, USA",http://www.brotherschinesefoods.com/
+Chinese,Asian Noodle House,"313 Goldstream Ave, Victoria, BC V9B 2W4, Canada",http://www.asiannoodlehouse.net/
+Indian,The Great Indian Cuisine,"15953 Fraser Hwy #101, Surrey, BC V4N 0Y3, Canada",http://www.thegreatindiancuisine.com/
+Indian,24 hrs cuisine of india,"930 SE Pioneer Way, Oak Harbor, WA 98277, USA",https://order.online/store/old-silk-route-oak-harbor-1554323/?hideModal=true&pickup=true
+Indian,Indian Restaurant,"1331 S 2nd St, Mount Vernon, WA 98273, USA",https://lokobee.com/restaurants/kKD3hoNGTnrQrwmLbjbx24
+Indian,Shahi Catering,"12827 76 Ave #106, Surrey, BC V3W 3V3, Canada",http://www.shahicatering.com/
+Indian,Turmeric Indian Cuisine,"777 Goldstream Ave #103, Victoria, BC V9B 2X4, Canada",https://turmericvictoria.com/
+Indian,Fresh Tandoori Flavour Indian Restaurant Royal Oak,"4440 W Saanich Rd #104, Victoria, BC V8Z 3E9, Canada",https://freshtandooriflavour.ca/
+Indian,Taste of India,"420 W Gates St, Mount Vernon, WA 98273, USA",http://www.tasteofindiaskagit.com/
+Indian,Five Spice Indian Cuisine,"3431 Happy Valley Rd, Victoria, BC V9C 2X9, Canada",https://www.fivespiceindiancuisineca.com/
+Indian,5 Rivers Indian Cuisine,"9629 Evergreen Way #201, Everett, WA 98204, USA",https://5riversindiancuisine.business.site/
+Indian,Namaste Indian Cuisine,"2950 Douglas St #280, Victoria, BC V8T 4N4, Canada",https://namastevictoria.ca/
+Indian,Mantra Indian Cuisine Colwood,"1951 B Sooke Rd, Victoria, BC V9B 1W2, Canada",http://www.mantrarestaurant.ca/
+Indian,All spice Restaurant,"3480 Tillicum Rd, Victoria, BC V8Z 4H3, Canada",https://allspicerestaurant.ca/
+Indian,Taj Grill N' Spice Indian Cuisine,"2310 WA-530, Arlington, WA 98223, USA",https://www.tajgrillnspice.com/
+Indian,Sizzling Tandoor Westshore,"2955 Phipps Rd, Victoria, BC V9B 2P5, Canada",http://www.sizzlingtandoor.ca/
+Indian,Aastha Devotional Indian Restaurant,"2680 James St, Duncan, BC V9L 2X5, Canada",https://www.aasthadevotional.com/
+Indian,Kanishka Cuisine of India,"16651 Redmond Way Ste 180, Redmond, WA 98052, USA",http://kanishkaredmond.com/
+Indian,UNNI's,"32945 State Rte 20, Oak Harbor, WA 98277, USA",https://unnis.square.site/
+Indian,Tandoori Bites,"505 32nd St STE 104, Bellingham, WA 98225, USA",https://tandooribites.us/
+Indian,Old Silk Route,"930 SE Pioneer Way #102, Oak Harbor, WA 98277, USA",https://order.online/business/old-silk-route-11562873
+Indian,Authentic Cuisine Of India | Indian Restaurant Langford,"3046 Merchant Wy #104, Langford, BC V9B 3Y7, Canada",https://authenticcuisineofindia.com/
+Canadian,Eh! Restaurant,"1050 Alberni St #2nd, Vancouver, BC V6E 1A3, Canada",
+Canadian,Dinner in the Sky Canada,"1121 Argyle Ave #1089, West Vancouver, BC V7M 1A7, Canada",http://www.dinnerintheskycanada.com/
+Russian,From Russia With Love,"4250 SW Rose Biggi Ave, Beaverton, OR 97005, USA",https://www.fromrussiawithloveor.com/
+Jewish,Rimon,"912 Broadway St, New Orleans, LA 70118, USA",http://www.rimontulanehillel.com/
+Polish,SMAK-TAK! Polish Restaurant,"5961 N Elston Ave, Chicago, IL 60646, USA",
+German,Das Stein Haus,"1812 W Francis Ave, Spokane, WA 99205, USA",
+French,French Table,"3916 Main St, Vancouver, BC V5V 3P2, Canada",http://thefrenchtable.ca/
+Hawaiian,Kona Hawaiian BBQ —Arvada,"5324 Wadsworth Blvd Ste A, Arvada, CO 80002, USA",http://konahawaiianbbq.com/
+Hawaiian,Ohana Island Kitchen,"2563 15th St Ste. 105, Denver, CO 80211, USA",http://ohanadenver.com/
+Hawaiian,Aloha Kitchen,"10408 Silverdale Way NW, Silverdale, WA 98383, USA",
+Hawaiian,Da Hawaiian Kitchen,"9842 Adams Ave, Huntington Beach, CA 92646, USA",http://www.dahawaiiankitchen.com/
+Hawaiian,No Ke Aloha,"854 S Buckley Rd, Aurora, CO 80017, USA",http://www.nokealoha.com/
+Hawaiian,Ohana Hawaiian BBQ,"4360 Blue Diamond Rd #107, Las Vegas, NV 89139, USA",http://www.ohanahibbq.com/
+Hawaiian,Moki's Hawaiian Grill,"4836 S Redwood Rd, Taylorsville, UT 84123, USA",https://mokis.com/
+Hawaiian,Aloha Hawaiian Grill,"18016 71st Ave S, Kent, WA 98032, USA",
+Hawaiian,Ono Hawaiian BBQ,"10814 Jefferson Blvd M, Culver City, CA 90230, USA",http://www.onobbq.com/
+Hawaiian,L&L Hawaiian Barbecue,"10417 Gravelly Lake Dr SW #E, Lakewood, WA 98499, USA",http://hawaiianbarbecue.com/
+Hawaiian,Sweet's Island Place,"711 Columbia Ln, Provo, UT 84604, USA",https://www.toasttab.com/sweet-s-hawaiian-grill-711-columbia-lane
+Hawaiian,The Royal Hawaiian,"331 N Coast Hwy, Laguna Beach, CA 92651, USA",https://www.royalhawaiianoc.com/
+Hawaiian,Rutts Hawaiian Cafe,"11707 Washington Pl, Los Angeles, CA 90066, USA",https://www.ruttscafe.com/
+Hawaiian,Hawaiian Sun BBQ,"607 SE Everett Mall Way #4, Everett, WA 98208, USA",
+Hawaiian,Aloha Kitchen and Bar,"8150 S Maryland Pkwy, Las Vegas, NV 89123, USA",http://www.alohakitchenlv.com/
+Hawaiian,Aloha Hawaiian BBQ,"730 N Brookhurst St, Anaheim, CA 92801, USA",https://www.alohabbqs.com/
+Hawaiian,Hawaiian Bros Island Grill,"749 W Main St, Lewisville, TX 75067, USA",https://hawaiianbros.com/
+Hawaiian,khawaiian,"3438 Wilshire Blvd, Los Angeles, CA 90010, USA",
+Hawaiian,Buzz’s Hawaiian Grill,"3457 Magnolia Ave, St. Louis, MO 63118, USA",https://buzzshawaiiangrill.com/
+Hawaiian,Island Flavor,"7668 W Lake Mead Blvd #107, Las Vegas, NV 89128, USA",https://www.islandflavor808.com/
+Brazilian,Rio Brazilian Steak House Coquitlam,"2729 Barnet Hwy, Coquitlam, BC V3E 1K9, Canada",https://riobraziliansteakhouse.ca/
+Brazilian,Fogo de Chão Brazilian Steakhouse,"18602 Alderwood Mall Pkwy Suite 1110, Lynnwood, WA 98037, USA",https://fogodechao.com/location/lynnwood/
+Brazilian,Botteco Brazil Restaurant,"14561 Bothell Way NE, Shoreline, WA 98155, USA",http://bottecobrazil.com/
+Brazilian,Rio Brazilian Steakhouse,"1122 Denman St, Vancouver, BC V6G 1T2, Canada",http://riobraziliansteakhouse.ca/
+Peruvian,Silvestre Deli & Bistro,"317 Water St, Vancouver, BC V6B 1B8, Canada",http://www.silvestregustolatino.com/
+Peruvian,SUYO Modern Peruvian,"3475 Main St, Vancouver, BC V5V 3M9, Canada",http://www.suyo.ca/
+Salvadorian,La Chele Salvadorean Restaurant Pupuseria,"12134 Pacific Hwy SW, Lakewood, WA 98499, USA",http://www.clover.com/online-ordering/la-chele-lakewood
+Cuban,Caiman Cafe,"120 SW Jefferson St, Portland, OR 97201, USA",https://caimancafe.com/
+Tibetan,Tibet's Restaurant & Bar,"321 McCaslin Blvd A, Louisville, CO 80027, USA",https://www.tibetsrestaurant.com/
+Egyptian,Koshari Zooba,"2519 St Johns St, Port Moody, BC V3H 2B3, Canada",https://order.online/business/koshari-zooba-11732068
+Greek,Yiannis Greek Taverna,"543 6th St, New Westminster, BC V3L 3B5, Canada",http://www.yiannisnewwest.com/
+Greek,Greek Village Restaurant,"7953 120 St, Delta, BC V4C 6P6, Canada",http://www.greekvillagedelta.com/
+Greek,Taverna Greka,"326 Columbia St, New Westminster, BC V3L 1A6, Canada",http://www.taverna.ca/
+Greek,Greek Fellas Restaurant,"11008 River Rd, Delta, BC V4C 2S2, Canada",http://www.greekfellas.ca/
+Greek,My Greek Taverna Surrey,"6450 120 St, Surrey, BC V3W 3M5, Canada",http://mygreektavernasurrey.com/
+Greek,Pallas Athena Greek Kousina,"1250 Dominion Ave, Port Coquitlam, BC V3B 8G7, Canada",http://www.pallasathena.org/
+Greek,Primerose Greek Restaurant,"6165 BC-17A, Delta, BC V4K 5B8, Canada",http://www.theprimerose.com/
+Greek,Galini Greek Kouzina & Grill,"19475 Fraser Hwy #101, Surrey, BC V3S 6K7, Canada",http://galini.ca/
+Greek,The Greek Corner,"7218 King George Blvd #123, Surrey, BC V3W 5A5, Canada",http://www.thegreekcorner.ca/
+Greek,The Greek Yaletown,"1043 Mainland St, Vancouver, BC V6B 5P9, Canada",https://thegreekbyanatoli.com/
+Greek,AB's Hillbilly Gyros,"32760 State Rte 20, Oak Harbor, WA 98277, USA",https://www.abshillbillygyros.com/
+Greek,Maria's Souvlaki Greek Restaurant,"9812 Second St, Sidney, BC V8L 3C6, Canada",http://www.mariassouvlaki.ca/menu
+Greek,The Village Taverna,"1075 Pendergast St, Victoria, BC V8V 0A1, Canada",http://www.thevillagetaverna.ca/
+Greek,Ithaka Greek Restaurant,"716 Burdett Ave, Victoria, BC V8W 3G2, Canada",http://www.ithakagreek.ca/
+Greek,Gyrosa,"1517 Admirals Rd #102, Victoria, BC V9A 2P8, Canada",https://gyrosafreshgreek.ca/
+Greek,OPA! of Greece Mayfair Shopping Centre,"3147 Douglas St #10, Victoria, BC V8Z 6E3, Canada",http://www.opasouvlaki.ca/
+Greek,OPA! of Greece Belmont Market,"857 Terlane Place Unit #109, Building Q, Langford, BC V9B 0X8, Canada",http://opasouvlaki.ca/
+Greek,Santorini Greek Grill,"106 Central Way, Kirkland, WA 98033, USA",https://www.facebook.com/pages/Santorini-Greek-Grill/116033645091899
+Greek,Mykonos Greek Grill,"310 NE 72nd St, Seattle, WA 98115, USA",http://www.mykonosgreekgrillseattle.com/
+Greek,Gyros Plus,"209 E Casino Rd suite d, Everett, WA 98208, USA",https://www.grubhub.com/restaurant/gyros-plus-209-e-casino-rd-suite-d-everett/314434
+Belgian,THE BELGIAN DELIGHT,"c 1100 County C, Brussels, WI 54204, USA",http://www.belgiandelightbrussels.com/
+Irish,Dublin Crossing Irish Pub,"18789 Fraser Hwy #101, Surrey, BC V3S 7Y3, Canada",http://www.dublincrossing.com/
+Irish,The Irish Heather Shebeen,"248 E Georgia St, Vancouver, BC V6A 1Z7, Canada",https://www.irishheather.com/
+Irish,Wilde Irish Pub,"423 W Railroad Ave, Shelton, WA 98584, USA",http://www.wildeirishpub.com/
+Welsh,Cajun Tales Seafood,"501 N Adams St, Welsh, LA 70591, USA",
+Cajun,Taytro's,"331 N Creek Dr, Festus, MO 63028, USA",http://taytros.com/
+Cajun,Cajun Seafood House,"2531 Rocky Ridge Rd SUITE 107, Vestavia Hills, AL 35243, USA",https://www.thecajunseafoodhouse.com/
+Cajun,Cajun Crave,"7165 10th St N, Oakdale, MN 55128, USA",https://cajuncrave.us/
+Cajun,Toulouse Petit Kitchen & Lounge,"601 Queen Anne Ave N, Seattle, WA 98109, USA",http://toulousepetit.com/
+Cajun,Jubilee Joe's Cajun Seafood Restaurant,"5190 Medford Dr Ste 114, Hoover, AL 35244, USA",http://www.jubileejoes.com/
+Cajun,Callen's Restaurant,"12981 State Rte 20, Coupeville, WA 98239, USA",http://www.callensrestaurant.com/
+Cajun,Crawdaddy's on Greenfield,"9427 W Greenfield Ave, West Allis, WI 53214, USA",http://www.crawdaddysccb.com/
+Cajun,Krabby Daddy's Seafood Eatery,"102 Pine St, Festus, MO 63028, USA",http://www.krabbydaddys.com/
+Cajun,New Orleans Cajun Seafood,"7256 West Colonial Drive, Orlando, FL 32818, USA",http://www.neworleanscajunseafood.net/
+Cajun,"Cravin Cajun Hopewell, MS","18011 MS-27, Crystal Springs, MS 39059, USA",
+Cajun,Jazz A Louisiana Kitchen,"1823 W 39th St, Kansas City, MO 64111, USA",http://www.jazzkitchen.com/
+Cajun,Fishbone's Cajun & Creole Restaurant,"1704 Milwaukee St, Delafield, WI 53018, USA",http://www.fishbonesrestaurant.com/
+Cajun,Crazy Cajuns' Boiling Pot,"125 Inverness Plaza, Birmingham, AL 35242, USA",http://www.crazycajuns.net/
+Cajun,Budd Bay Cafe,"525 Columbia St NW, Olympia, WA 98501, USA",http://www.buddbaycafe.com/
+Cajun,Shady Gators,"132 Sweet William Rd, Lake Ozark, MO 65049, USA",http://www.shadygators.com/
+Cajun,Cajun Connection,"400 Frisco St, Winfield, AL 35594, USA",
+Cajun,Farm & Sea Cajun Grill,"6200 Grand River Blvd E Suite 360, Leeds, AL 35094, USA",https://www.farmandseacajungrill.com/
+Cajun,LeMaire’s,"3500 W Broadway Blvd, Sedalia, MO 65301, USA",https://m.facebook.com/lemaireseafood/
+Cajun,Lou Lou on Market,"812 E Market St, Louisville, KY 40206, USA",https://www.loulouonmarket.com/
+Cajun,Creole With A Splash Of Soul,"4353 Manchester Ave, St. Louis, MO 63110, USA",http://creolemeetsoul.com/
+Portuguese,Portuguese Club Of Vancouver,"1144 Commercial Dr, Vancouver, BC V5L 3X2, Canada",https://thepcov.ca/
+Turkish,Saray Turkish Cuisine,"6633 Hastings St, Burnaby, BC V5B 1S1, Canada",https://sarayturkish.com/
+Turkish,Anatolia's Gate Restaurant,"7084 Kingsway, Burnaby, BC V5E 1E7, Canada",http://www.anatoliasgaterestaurant.com/
+Haitian,Tap Tap Cuisine,"3927 N Williams Ave, Portland, OR 97227, USA",https://instagram.com/taptap_cuisine?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr
+Tahitian,No Ke Aloha,"854 S Buckley Rd, Aurora, CO 80017, USA",http://www.nokealoha.com/
+Kenyan,Hadiani African Restaurant,"22003 66th Ave W d2, Mountlake Terrace, WA 98043, USA",http://www.hadianirestaurant.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12254110818708891448
+Kenyan,Rafiki Restaurant and Lounge,"226 1st Ave S, Kent, WA 98032, USA",http://rafikirestaurantandlounge.com/
+Kenyan,Akwaba Restaurant,"16251 E Colfax Ave, Aurora, CO 80011, USA",
+Korean,So Hyang Korean Cuisine,"6345 Fraser St, Vancouver, BC V5W 3A3, Canada",https://so-hyang.ca/
+Korean,Koreana Korean Restaurant,"1001 Austin Ave #101, Coquitlam, BC V3K 3N9, Canada",http://www.koreanaeats.com/
+Korean,Shilla Korean Restaurant,"1031 Kingsway, Vancouver, BC V5V 3C7, Canada",http://shillakorean.ca/
+Korean,Bon Ga Korean Restaurant,"10356 Whalley Blvd, Surrey, BC V3T 4H4, Canada",http://www.bongakorea.ca/
+Korean,Banchan Korean Bistro 반찬,"20689 Willoughby Town Centre Dr A160, Langley Twp, BC V2Y 0X7, Canada",https://banchanbistro.com/
+Korean,Agoongyi (아궁이),"Inside of the H-Mart, 19555 Fraser Hwy, Surrey, BC V3S 6K7, Canada",https://agoongyi.ca/
+Korean,Seoul Bowl & Bar,"722 12th Ave, Seattle, WA 98122, USA",http://www.seoulbowlco.com/
+Algerian,KAYMA Algerian Eatery Food Truck,"701 Valencia St, San Francisco, CA 94110, USA",http://www.kaymaeatery.com/
+Nigerian,Alebi African Cuisine,"10694 135a St, Surrey, BC V3T 4E2, Canada",http://alebiafricanrestaurant.com/
+Nigerian,Taste of Africa,"10663 King George Blvd, Surrey, BC V3T 2X6, Canada",
+Libyan,Lebnani house,"5051 S 27th St, Greenfield, WI 53221, USA",https://www.lebnanihouseinc.com/
+Moroccan,Moltaqa Moroccan Restaurant Mainland Street Yaletown,"1002 Mainland St, Vancouver, BC V6B 6J8, Canada",https://www.moltaqarestaurant.ca/
+Lebanese,Taste Of Lebanon,"331 N Euclid Ave, St. Louis, MO 63108, USA",http://tasteoflebanonstl.com/
+Vietnamese,Kim Son Vietnamese Food,"555 W 12th Ave #030, Vancouver, BC V5Z 3X7, Canada",
+Vietnamese,Ivy's Kitchen Vietnamese Restaurant,"4598 Main St, Vancouver, BC V5V 3R5, Canada",
+Vietnamese,PhoFilling Restaurant,"2310 Washington St, Port Townsend, WA 98368, USA",http://www.phofillingco.com/
+Vietnamese,Pho New Saigon,"106 W Front St, Port Angeles, WA 98362, USA",https://www.phonewsaigonpa.com/
+Hungarian,Budapest Bistro,"12926 Mukilteo Speedway, Lynnwood, WA 98037, USA",
+Mediterranean,Gastro Mania SW Portland,"1 SW Columbia St, Portland, OR 97258, USA",http://gastromaniapdx.com/
+Ethiopian,Fassil Restaurant,"736 E Broadway, Vancouver, BC V5T 1X9, Canada",http://www.fassil.ca/
+Ethiopian,Axum Restaurant,"1279 E Hastings St, Vancouver, BC V6A 1S4, Canada",http://www.axumrestaurant.ca/
+Ethiopian,massawa restaurant,"418 6th St, New Westminster, BC V3L 3B2, Canada",
+Ethiopian,Harambe Ethiopian Restaurant,"2149 Commercial Dr, Vancouver, BC V5N 4B3, Canada",
+Ethiopian,Gojo Café Ethiopia I Ethiopian Cuisine,"2838 Commercial Dr, Vancouver, BC V5N 4C6, Canada",http://www.gojocafe.com/
+Ethiopian,Konjo Ethiopian Food,"inside the Edgewater Public Market, 5505 W 20th Ave Suite #106, Edgewater, CO 80214, USA",http://www.konjoethiopianfood.com/
+Ethiopian,Cafe Selam,"2715 E Cherry St B, Seattle, WA 98122, USA",https://www.cafeselam.com/
+Ethiopian,Jebena Cafe,"1510 NE 117th St, Seattle, WA 98125, USA",https://www.jebenacafe.com/
+Ethiopian,Ras Kassa's Ethiopian Restaurant,"802 S Public Rd, Lafayette, CO 80026, USA",http://www.raskassas.com/
+Ethiopian,Zobel Ethiopian Cuisine,"1219 E Jefferson St, Seattle, WA 98122, USA",http://zobelethiopianwa.com/
+Ethiopian,Abyssinia Ethiopian Restaurant and Bar,"5707 E Colfax Ave, Denver, CO 80220, USA",
+Ethiopian,Addis Ababa Ethiopian Restaurant,"2222 S Havana St unit B, Aurora, CO 80014, USA",
+Ethiopian,Meskerem Ethiopian Restaurant,"3210 S Grand Blvd, St. Louis, MO 63118, USA",http://www.meskeremstl.com/
+Ethiopian,Zagol Ethiopian Restaurant,"2722 E Cherry St, Seattle, WA 98122, USA",http://www.zagolethiopianrestaurant.com/
+Ethiopian,Meskie's Ethiopia Restaurant,"2955 Telegraph Ave, Berkeley, CA 94705, USA",http://orderethiopiarestaurant.com/
+Ethiopian,Blue Nile Ethiopian Restaurant,"7821 Rainier Ave S, Seattle, WA 98118, USA",
+Ethiopian,Mesob Ethiopian Restaurant,"1422 Poplar St, Denver, CO 80220, USA",https://www.mesobethiopianrestaurant.com/
+Ethiopian,Addis,"6100 Telegraph Ave, Berkeley, CA 94705, USA",http://www.addisethiopian.com/
+Ethiopian,Ahadu Ethiopian Restaurant,"1508 NE 117th St, Seattle, WA 98125, USA",http://www.ahadu-ethiopian-restaurant.net/
+Caribbean,Koko + Rae Caribbean Kitchen,"1511 Bardstown Rd, Louisville, KY 40205, USA",http://www.kokoandrae.com/
+Soul,King Of Soul,"423 S Florissant Rd, Ferguson, MO 63135, USA",https://m.facebook.com/KingofSoulCafeSTL/
+Argentinian,Patagōn,"1610 2nd Ave, Seattle, WA 98101, USA",https://www.patagonseattle.com/?utm_source=extnet&utm_medium=yext
+Chilean,Al Chile,"1340 Davie St, Vancouver, BC V6E 1N6, Canada",https://instagram.com/alchilevan?igshid=MzRlODBiNWFlZA==
+Colombian,El Parche Colombian Restaurant Tacoma,"6324 E McKinley Ave, Tacoma, WA 98404, USA",https://elparchecolombiano.com/
+Costa Rican,"Local Restaurant, Costa Rican Food","WWGG+2JG, San José Province, San José, Barrio Luján, Costa Rica",
+Costa Rican,El Chante Tipico,"75X5+PM4, C. del Parque, Provincia de Guanacaste, Tamarindo, Costa Rica",
+Costa Rican,Los Arcos,"G8X3+HGQ, Ruta Nacional Secundaria 151, Provincia de Guanacaste, Coco, Costa Rica",
+Costa Rican,Garalúa Costa Rican Gourmet,"San José Province, San José, Barrio Escalante, 10101, Costa Rica",
+Czech,Vladimir's Czech Restaurant,"12785 Sir Francis Drake Blvd, Inverness, CA 94937, USA",
+Danish,Pastries of Denmark,"12613 Olive Blvd, Creve Coeur, MO 63141, USA",
+Dutch,Dutch Treat Restaurant,"206 3rd St, Lynden, WA 98264, USA",https://m.facebook.com/dutchtreatlynden/
+Ecuadorian,...donde Angie,"7552 11th St, Buena Park, CA 90621, USA",http://orderdondeangie.com/
+Ghanaian,Taste of Africa,"10663 King George Blvd, Surrey, BC V3T 2X6, Canada",
+Ghanaian,Alebi African Cuisine,"10694 135a St, Surrey, BC V3T 4E2, Canada",http://alebiafricanrestaurant.com/
+Ghanaian,Bantaba African Restaurant,"19417 36th Ave W, Lynnwood, WA 98036, USA",
+Ghanaian,Dijah's Kitchen - African Restaurant,"16108 Ash Way #103, Lynnwood, WA 98087, USA",http://www.dijahskitchen.com/
+Guatemalan,Las delicias Guatemala Restaurant,"24354 Muirlands Blvd, Lake Forest, CA 92630, USA",https://lasdeliciasguatemalarestaurant.com/
+Honduran,Mi Bella Honduras RESTAURANT.,"29500 Pacific Hwy S j, Federal Way, WA 98003, USA",
+Icelandic,Old Iceland,"Laugavegur 72, 101 Reykjavík, Iceland",http://www.oldiceland.is/
+Indonesian,Peranakan Kitchen (P'Kay),"1122 5th Ave, New Westminster, BC V3M 1Y6, Canada",https://perkit.ca/
+Indonesian,Bali Thai,"88 W Pender St, Vancouver, BC V6B 1R3, Canada",https://www.balithaivancouver.com/
+Indonesian,Indo Cafe,"13754 Aurora Ave N Suite D, Seattle, WA 98133, USA",http://www.myindocafe.com/
+Indonesian,Wajan,"4611 E Burnside St, Portland, OR 97215, USA",http://wajanpdx.com/
+Indonesian,Waroeng Jajanan​,"22315 Hwy 99 i, Edmonds, WA 98026, USA",
+Iranian,Suren Persian cuisine,"4624 Hastings St, Burnaby, BC V5C 2K5, Canada",https://linktr.ee/surenrestaurant
+Iranian,Pasargad Restaurant,"2565 Barnet Hwy #22, Coquitlam, BC V3H 4E2, Canada",http://pasargadrestaurant.ca/
+Iranian,Sahel Market & Restaurant,"3207 W Broadway, Vancouver, BC V6K 2H5, Canada",https://sahelpersianrestaurant.com/
+Iranian,Mehman Restaurant,"1451 Lonsdale Ave, North Vancouver, BC V7M 2H9, Canada",http://www.mehmanrestaurant.ca/
+Iranian,Avishan,"20433 Douglas Cres, Langley, BC V3A 4B6, Canada",https://avishanrestaurant.com/
+Iranian,Khaghan Restaurant,"851 Denman St, Vancouver, BC V6G 2L9, Canada",
+Iranian,Khaghan Restaurant North Shore,"935 Marine Dr Unit 66, North Vancouver, BC V7P 1S3, Canada",https://linktr.ee/khaghan
+Iranian,Farsi Food,"1480 Pemberton Ave, North Vancouver, BC V7P 2S1, Canada",http://www.farsifood.ca/
+Iranian,Gillaneh GrillHouse - Downtown,"1072 Denman St, Vancouver, BC V6G 2M8, Canada",https://gilane.ca/
+Iranian,Zeitoon Restaurant,"1795 Pendrell St, Vancouver, BC V6G 1T2, Canada",https://zeitoon.cloudwaitress.com/
+Iranian,Grab and Go Persian Restaurant,"1805 Lonsdale Ave, North Vancouver, BC V7M 2J8, Canada",https://grabandgopersian.ca/
+Iranian,Celeshmet Restaurant | Authentic Persian Halal Restaurant,"6956 Victoria Dr, Vancouver, BC V5P 3Y8, Canada",http://celeshmet.com/?utm_source=gmb&utm_medium=referral
+Iraqi,DarSalam Restaurant & Catering (Downtown),"320 SW Alder St, Portland, OR 97204, USA",https://darsalamrestaurant.com/
+Israeli,Haifa Restaurant,"8717 W Pico Blvd, Los Angeles, CA 90035, USA",
+Jamaican,Taste of the Caribbean,"1212 E Jefferson St, Seattle, WA 98122, USA",http://www.tasteofthecaribbeanseattle.com/
+Kuwaiti,Kuwaiti Cusinie Restaurant,"مركز علياء،، 9M39+WV شارع محمد ضيف الله القحص، Al Jahra, Kuwait",https://kuwaiti-cuisine.com/
+Kuwaiti,البيت الكويتي,"82R5+CWQ, Hawally, Kuwait",
+Kuwaiti,Mais Alghanim,"Kuwait Kuwait city, مدينة الكويت 13012, Kuwait",https://www.maisalghanim.com/
+Kuwaiti,Together & Co. Restaurant,"Ground Floor, Mutlaq Abbas Munawir St, Kuwait",
+Kuwaiti,Olio Trattoria Italiana,"Beachfront, Jumeirah Messilah Beach Hotel & Spa, Kuwait City 13036, Kuwait",https://www.jumeirah.com/en/dine/kuwait/messilah-olio-trattoria-italiana
+Kuwaiti,Saravanaa Bhavan Fahaheel,"Kuwait-Fahaheel Humoud Towers, 4th Floor, (Above Centre Point، شارع الخليج العربي، Kuwait",
+Kuwaiti,Saravanaa Bhavan Salmiya,"6th Floor, Anfal Complex, Block 7، Salem Al Mubarak St, Salmiya, Kuwait",https://www.facebook.com/SaravanaaBhavanKuwait/
+Laotian,Vientiane Lao Thai Restaurant,"10262 Westminster Ave, Garden Grove, CA 92843, USA",https://vientianelaothai.com/
+Lithuanian,Smilga,"2819 83rd St, Darien, IL 60561, USA",http://www.smilgabakery.com/
+Malaysian,Green & Oak Malaysian Restaurant,"3760 Hastings St, Burnaby, BC V5C 2H5, Canada",https://www.greenandoak.com/
+Malaysian,IPOH Malaysian Cuisine,"2127-4500 Kingsway, Burnaby, BC V5H 2A9, Canada",https://www.facebook.com/ipohmalaysiancuisine/
+Malaysian,Mamalee - Broadway,"3144 W Broadway, Vancouver, BC V6K 2H3, Canada",http://www.mamalee.ca/
+Malaysian,Kopitiam Malaysia,"3885 Rupert St, Vancouver, BC V5R 2G7, Canada",https://kopitiammalaysia.ca/
+Malaysian,Penang Bistro Fine Malaysian Cuisine(10% OFF for Orders from Our Website!),"3932 Fraser St, Vancouver, BC V5V 4E4, Canada",https://penangbistro.zomi.menu/
+Malaysian,Tropika,"2975 Cambie St, Vancouver, BC V5Z 2V7, Canada",http://www.tropikavancouver.ca/
+Malaysian,Malaysian Hut,"14727 108 Ave, Surrey, BC V3R 1V9, Canada",http://www.malaysianhutrestaurant.com/
+Malaysian,Ipoh Malay Cuisine,"1316 W 73rd Ave, Vancouver, BC V6P 4M9, Canada",https://www.ipohmalaycuisine.ca/
+Malaysian,Laksa King,"2546 E Hastings St, Vancouver, BC V5K 1Z3, Canada",https://laksaking.ca/
+Malaysian,Malay Satay Hut,"5540, 15230 NE 24th St, Redmond, WA 98052, USA",https://www.malaysatay.com/
+Malaysian,Reunion Malaysian Cafe + Kitchen,"339 Kirkland Ave C, Kirkland, WA 98033, USA",
+Malaysian,Kedai Makan,"1449 E Pine St, Seattle, WA 98122, USA",http://www.kedaimakansea.com/
+Mongolian,Mongo Bongo Mongolian Grill,"512 6th Ave. B, New Westminster, BC V3L 1V3, Canada",http://mongobongo.ca/
+Nepalese,The Momo Grill Nepali Kitchen,"16016 Fraser Hwy #104, Surrey, BC V4N 0G3, Canada",https://themomogrill.com/
+Nepalese,Spice of Nepal Restaurant,"13486 72 Ave, Surrey, BC V3W 2N8, Canada",https://spiceofnepal.ca/
+Nepalese,Gurkha Himalayan Kitchen Restaurant,"1141 Davie St, Vancouver, BC V6E 1N2, Canada",https://www.gurkha.ca/
+Nepalese,Royal Nepalese Momo Palace - #1 Place for Momos + Sugarcane Juice,"3490 Kingsway, Vancouver, BC V5R 5L7, Canada",https://www.royalmomopalace.com/
+Nicaraguan,Fritanga Nicaraguan Cuisine,"2208 S Jefferson Ave, St. Louis, MO 63104, USA",http://www.fritangastl.com/
+Norwegian,Svensken A taste of Scandinavia,"22320 NE Halsey St, Fairview, OR 97024, USA",https://www.svensken.net/
+Pakistani,Taste of Lahore restaurant,"9526 120 St, Surrey, BC V3V 4C1, Canada",http://tasteoflahore.ca/
+Pakistani,Dewan-E-Khass,"5750 Fraser St, Vancouver, BC V5W 2Z5, Canada",http://dewanekhass.ca/dishes/
+Pakistani,Lahori Restaurant,"12877 80 Ave #109, Surrey, BC V3W 4E9, Canada",https://order.tbdine.com/pickup/44405
+Panamanian,Panjaz Panamanian Cuisine,"5115 Thousand Oaks Dr, San Antonio, TX 78233, USA",https://panjaz-panamanian-cuisine.square.site/
+Paraguayan,Paraguayan Steakhouse,"53-76 65th Pl, Queens, NY 11378, USA",
+Peruvian,Silvestre Deli & Bistro,"317 Water St, Vancouver, BC V6B 1B8, Canada",http://www.silvestregustolatino.com/
+Peruvian,SUYO Modern Peruvian,"3475 Main St, Vancouver, BC V5V 3M9, Canada",http://www.suyo.ca/
+Philippine,La Meza Grill,"11955 88 Ave, Delta, BC V4C 3C9, Canada",http://www.lamezagrill.com/
+Philippine,Pampanga’s Cuisine Home of the Original Sisig,"5179 Joyce St, Vancouver, BC V5R 4G8, Canada",http://pampangascuisine.ca/
+Philippine,EPIC GRILL SILOGS + SANS RIVAL,"538 Ewen Ave, New Westminster, BC V3M 5B8, Canada",https://epicsilogsgrill.com/
+Philippine,Hapag Ihaw-Ihaw Restaurant,"5432 Victoria Dr, Vancouver, BC V5P 3V7, Canada",http://hapagrestaurant.com/
+Philippine,Kulinarya Filipino Eatery,"2922 Glen Dr, Coquitlam, BC V3B 2P5, Canada",http://www.kulinarya.ca/
+Philippine,PLATO FILIPINO,"892 Carnarvon St #100, New Westminster, BC V3M 0C5, Canada",https://www.instagram.com/platofilipino/?hl=en
+Philippine,PLATO FILIPINO,"5175 Joyce St, Vancouver, BC V5R 4G8, Canada",
+Philippine,Bacayons Chibugan,"13979 104 Ave Unit 105, Surrey, BC V3T 1X1, Canada",https://bacayonschibugan.com/
+Philippine,Pin Pin Restaurant,"6113 Fraser St, Vancouver, BC V5W 2Z9, Canada",http://www.pinpinrestaurant.com/
+Philippine,PAMPANGA’S CUISINE Home of the Original Sisig,"6094 Fraser St, Vancouver, BC V5W 2Z7, Canada",https://pampangascuisine.ca/
+Philippine,Pampanga's Best Cafeteria,"4279 Fraser St, Vancouver, BC V5V 4G1, Canada",http://pampangasbestcafeteria.com/
+Philippine,Kulinarya Filipino Eatery,"1134 Commercial Dr, Vancouver, BC V5L 3X2, Canada",http://www.kulinarya.ca/
+Philippine,Kuy’s Lechon,"660 W 71st Ave, Vancouver, BC V6P 3A1, Canada",https://www.kuyslechon.com/
+Philippine,Little Ongpin Restaurant,"4093 No 5 Rd, Richmond, BC V6X 2T9, Canada",
+Philippine,The Filipino Noodle Joint,"180 Keefer Street Unit 111 - China Town Plaza, Vancouver, BC V6A 4E9, Canada",http://www.thefilipinonoodlejoint.com/
+Philippine,Maresol Restaurant,"10505 Bridgeport Way SW, Lakewood, WA 98499, USA",
+Philippine,Paraiso Filipino Native Foods,"10518 S Tacoma Way C, Lakewood, WA 98499, USA",
+Philippine,Fil Cuisine,"23843 108th Ave SE, Kent, WA 98031, USA",https://filcuisine.com/
+Philippine,Mekenie Pampangga’s Special | Filipino Restaurant,"16928 116th Ave SE, Renton, WA 98058, USA",
+Polish,SMAK-TAK! Polish Restaurant,"5961 N Elston Ave, Chicago, IL 60646, USA",
+Puerto Rican,Izla,"3635 Hill Blvd, Jefferson Valley, NY 10535, USA",http://izlany.com/
+Romanian,Sunset Bistro llc,"354 Sunset Blvd N, Renton, WA 98057, USA",
+Saudi Arabian,Makarios Kabobs & Grill,"940 20th St S, Birmingham, AL 35205, USA",https://makarioskabob.com/
+Singaporean,Singapore Hawker Burnaby,"7150 Sperling Ave, Burnaby, BC V5E 2W5, Canada",http://www.singaporehawker.ca/
+Singaporean,Singapore Hawker,"1169 Pacific St #120, Coquitlam, BC V3B 0J1, Canada",http://www.singaporehawker.ca/
+Singaporean,Singapore Express,"2775 Laurel St Room 4145, Vancouver, BC V5Z 1M9, Canada",https://www.qooway.com/OLO/m-en?SingExpOnLaurel
+Singaporean,Shiok Singaporean Cuisine,"1716 Kingsway, Vancouver, BC V5N 2S4, Canada",http://shiok.ca/
+Singaporean,Prata-Man Singapore Cuisine,"9060 Capstan Wy, Richmond, BC V6X 3N6, Canada",https://prata-man-richmond.business.site/
+Slovak,Sophia's Cafe,"16784 SW Edy Rd, Sherwood, OR 97140, USA",http://sophiascafepdx.com/
+Somali,Sahara Cafe Somali Cuisine,"13919 Tukwila International Blvd, Tukwila, WA 98168, USA",
+South African,Waaberi,"3445 S Grand Blvd, St. Louis, MO 63118, USA",
+Sri Lankan,J.R Taste Of Ceylon,"3929 Knight St, Vancouver, BC V5N 3L8, Canada",http://j-r-taste-of-ceylon.jany.io/
+Swiss,Swiss Hibiscus,"4950 NE 14th Ave, Portland, OR 97211, USA",http://www.swisshibiscus.com/
+Syrian,Yasma,"550 Denman St, Vancouver, BC V6G 3H1, Canada",http://www.yasma.ca/
+Taiwanese,Ding Hao Noodle House,"2773 Barnet Hwy #4, Coquitlam, BC V3B 1C2, Canada",http://www.dinghaonoodlehouse.com/
+Taiwanese,台風 Typhoon Bubble Tea Taiwanese Cuisine,"11700 Cambie Rd. #175, Richmond, BC V6X 1L5, Canada",https://typhoonbbt.ca/
+Taiwanese,Chef Hung Taiwanese Beef Noodle,"3313 Shrum Lane #102, Vancouver, BC V6S 0C8, Canada",http://www.chefhungnoodle.com/
+Taiwanese,Bubble 88,"10209 King George Blvd #102, Surrey, BC V3T 2W6, Canada",https://bubble88.business.site/
+Taiwanese,Wang's Taiwan Beef Noodle House,"8390 Granville St, Vancouver, BC V6P 4Z7, Canada",https://wangstaiwanhouse.com/
+Taiwanese,Joys Taiwanese Food,"4380 No. 3 Rd, Richmond, BC V6X 3V7, Canada",
+Taiwanese,Chef Hung Taiwanese Beef Noodle,"4151 Hazelbridge Wy #2800, Richmond, BC V6X 4J7, Canada",http://www.chefhungnoodle.com/
+Tanzanian,Simba's Grill,"3300 Boundary Rd, Burnaby, BC V5M 4A4, Canada",http://www.simbasgrill.com/
+Tanzanian,Alebi African Cuisine,"10694 135a St, Surrey, BC V3T 4E2, Canada",http://alebiafricanrestaurant.com/
+Thai,Patsara Thai,"528 Carnarvon St, New Westminster, BC V3L 1C4, Canada",https://www.patsara.ca/
+Thai,Little Thailand,"702 Metcalf St, Sedro-Woolley, WA 98284, USA",https://m.facebook.com/pages/Little-Thailand/491266320936048
+Thai,Mai Thai Restaurant,"91 NE Midway Blvd, Oak Harbor, WA 98277, USA",https://www.maithairestaurant.net/
+Thai,Khu Larb,"225 Adams St, Port Townsend, WA 98368, USA",http://khularbthai.com/
+Thai,123 Thai Food,"2219 E Sims Way, Port Townsend, WA 98368, USA",https://123thaifood.com/menu
+Thai,1-2-3 Thai Food,"31595 State Rte 20 #2, Oak Harbor, WA 98277, USA",http://www.123thaifood.net/
+Thai,Taste of Thai by Wipa,"1038 S Burlington Blvd, Burlington, WA 98233, USA",https://tasteofthaibywipawa.smiledining.com/
+Thai,Naung Mai Thai Kitchen,"2216 Commercial Ave, Anacortes, WA 98221, USA",http://nmthaikitchen.com/
+Thai,Lanna Thai Restaurant,"7825 Evergreen Way, Everett, WA 98203, USA",http://www.lannathaieverett.com/
+Thai,Naung Mai Thai Kitchen,"270 SE Cabot Dr, Oak Harbor, WA 98277, USA",http://nmthaikitchen.com/
+Thai,Sweet Rice Thai Cuisine & Spirit,"885 SE Pioneer Way, Oak Harbor, WA 98277, USA",http://www.sweetricethaicuisine.com/
+Thai,Baan Thai Wok & Bar,"1117 Blanshard St, Victoria, BC V8W 2H7, Canada",http://baanthaiwokandbar.ca/
+Thai,Rachawadee Thai Cafe,"410 W Gates St, Mount Vernon, WA 98273, USA",http://www.rachawadeethai.com/
+Thai,Thumra Thai Restaurant,"12549 116th Ave NE, Kirkland, WA 98034, USA",http://www.thaikirkland.com/
+Thai,Zab Thai Restaurant,"11108 Evergreen Way A, Everett, WA 98204, USA",https://www.zabon99.com/
+Thai,Thong Thai Restaurant,"12836 Pacific Hwy SW, Lakewood, WA 98499, USA",
+Thai,Racha Thai Cuisine,"13317 NE 175th St, Woodinville, WA 98072, USA",http://www.rachawoodinville.com/
+Thai,Mae Phim Thai Restaurant,"1212 State Ave Suite E, Marysville, WA 98270, USA",https://maephimthairestaurantwa.com/
+Thai,Chang Thai Cuisine,"8215 Steilacoom Blvd SW, Lakewood, WA 98498, USA",https://www.changthaicuisine.com/
+Thai,Noppakao | Thai Restaurant,"9745 NE 117th Ln, Kirkland, WA 98034, USA",http://noppakaothai.com/
+Tunisian,Carthage Cafe,"1851 Commercial Dr, Vancouver, BC V5N 4A6, Canada",https://www.carthage.cafe/
+Ukrainian,Ukrainian Village,"815 Denman St, Vancouver, BC V6G 2L7, Canada",https://ukrainianvillage.wixsite.com/canada
+Uruguayan,La Gran Uruguaya Restaurant,"85-02 37th Ave, Jackson Heights, NY 11372, USA",http://lagranuruguaya.com/
+Venezuelan,Paparepas Venezuelan Food,"1620 Broadway, Seattle, WA 98122, USA",http://www.paparepas.com/
+Vietnamese,Kim Son Vietnamese Food,"555 W 12th Ave #030, Vancouver, BC V5Z 3X7, Canada",
+Vietnamese,Ivy's Kitchen Vietnamese Restaurant,"4598 Main St, Vancouver, BC V5V 3R5, Canada",
+Vietnamese,PhoFilling Restaurant,"2310 Washington St, Port Townsend, WA 98368, USA",http://www.phofillingco.com/
+Vietnamese,Pho New Saigon,"106 W Front St, Port Angeles, WA 98362, USA",https://www.phonewsaigonpa.com/
+Yemeni,Saba Yemeni Restaurant,"2881 Granville St, Vancouver, BC V6H 3J4, Canada",http://www.sabafoods.ca/
