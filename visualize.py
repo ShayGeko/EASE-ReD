@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
+from  matplotlib.colors import LinearSegmentedColormap
 import os
 
 from geopy.geocoders import Nominatim
@@ -58,7 +59,7 @@ def store_visuals(actuals, predictions, cities, dir):
     # plt.show()
     plt.savefig(f'{dir}/predictions.png')
 
-def get_MSE(actuals, predictions, cities, dir):
+def get_MSE(actuals, predictions, cities, dir, config):
     labels = ['white_pop', 'black_pop', 'asian_pop', 'indigenous', 'pacific_pop', 'hisp_pop', 'two_pop']
     x = np.arange(len(labels))  # the label locations
     width = 0.35  # the width of the bars
@@ -76,6 +77,12 @@ def get_MSE(actuals, predictions, cities, dir):
         counties.append(city[0])
         pred.append(predictions[i])
         act.append(actuals[i])
+        if config['loss']=='CrossEntropy':
+            # print('predictions before softmax:')
+            # print(predictions)
+            predictions[i] = nn.functional.softmax(torch.tensor(predictions[i]), dim=0).numpy()
+            # print('predictions after softmax:')
+            # print(predictions)
         MSE = nn.MSELoss()(torch.tensor(predictions[i]), torch.tensor(actuals[i])).item()
         MSEs.append(MSE)
     errors = pd.DataFrame({'county': counties,
@@ -171,7 +178,7 @@ def map_MSE(errors, dir):
     plt.savefig(f'{dir}/MSE_map.png')
 
 def main(config):
-    model = torch.load(f'./experiments/{config["name"]}/models/model-1000.pth')
+    model = torch.load(f'./experiments/{config["name"]}/models/model-7000.pth')
 
     city_demographics, city_cuisine_embeddings = \
         load_data(config)
@@ -189,6 +196,8 @@ def main(config):
 
     results = predictions.detach().numpy()
     results_all = predictions_all.detach().numpy()
+    print('results all:')
+    print(results_all)
     actuals = y_test.detach().numpy()
     actuals_all = torch.cat((y_train,y_test)).detach().numpy()
     cities = test_cities
@@ -204,7 +213,8 @@ def main(config):
         os.makedirs(dir_MSE)
 
     # store_visuals(actuals, results, cities, dir)
-    MSEs = get_MSE(actuals_all, results_all, cities_all, dir_MSE)
+    MSEs = get_MSE(actuals_all, results_all, cities_all, dir_MSE, config)
+    # MSEs = get_MSE(actuals, results, cities, dir_MSE, config)
     # get_lon_lat(MSEs) #only run this once - will take 30 min and store a csv file of the coordinates
     map_MSE(MSEs, dir_MSE)
 
