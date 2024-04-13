@@ -6,6 +6,17 @@ from dotenv import load_dotenv
 
 
 def search_restaurants(cuisine, apiKey, location):
+    """
+    Search for restaurants based on cuisine and location using the Google Places API.
+
+    Args:
+        cuisine (str): The type of cuisine to search for.
+        apiKey (str): The API key for accessing the Google Places API.
+        location (str): The location to search for restaurants in.
+
+    Returns:
+        dict: The JSON response containing the search results.
+    """
     query = f"{cuisine} Restaurants in {location}"
     url = "https://places.googleapis.com/v1/places:searchText"
     headers = {
@@ -18,8 +29,14 @@ def search_restaurants(cuisine, apiKey, location):
     return response.json()
 
 
-# changed for the USA data
 def main():
+    """
+    Main function to execute the program.
+
+    This function loads environment variables, reads county data from a CSV file,
+    and performs restaurant searches for each county and cuisine type.
+    The search results are then written to separate CSV files for each county.
+    """
     print("Loading environment variables...")
     load_dotenv()
     apiKey = os.getenv("GOOGLE_API_KEY")
