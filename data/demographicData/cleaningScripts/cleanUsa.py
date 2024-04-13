@@ -5,6 +5,19 @@ import numpy as np
 
 
 def clean():
+    """
+    Cleans the demographic data for cities in the USA.
+
+    Reads in city names from a CSV file, drops unnecessary columns, performs data cleaning operations,
+    calculates the percentage of total population, renames columns, counts the total number of classes,
+    saves the cleaned data to new files.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
     # reading in the city names
     with open("cities.csv", "r") as file:
         reader = csv.reader(file)

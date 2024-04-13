@@ -3,6 +3,19 @@ import csv
 
 
 def clean():
+    """
+    Cleans the demographic data for different cities.
+
+    This function reads in a list of city names from a CSV file, and for each city,
+    it reads the corresponding data file, drops unnecessary columns, renames the columns,
+    and saves the cleaned data back to the original file.
+
+    Args:
+        None
+
+    Returns:
+        None
+    """
     # reading in the city names
     with open("city.csv", "r") as file:
         reader = csv.reader(file)

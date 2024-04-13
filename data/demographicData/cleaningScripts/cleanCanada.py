@@ -4,6 +4,15 @@ import sys
 
 
 def clean(file):
+    """
+    Cleans the given CSV file containing demographic data for Canada.
+
+    Parameters:
+    file (str): The path to the CSV file to be cleaned.
+
+    Returns:
+    None
+    """
     data = pd.read_csv(file)
     filename = file.split("/")[-1].replace(".csv", "")
 

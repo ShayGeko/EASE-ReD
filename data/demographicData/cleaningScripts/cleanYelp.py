@@ -2,8 +2,23 @@ import pandas as pd
 import csv
 
 
+import csv
+import pandas as pd
+
 def clean():
-    # reading in the city names
+    """
+    Cleans the Yelp data by dropping unnecessary columns, renaming columns, and swapping column positions.
+
+    This function reads in a list of city names from a CSV file called 'city.csv'. For each city, it reads in a
+    corresponding CSV file containing Yelp data. It drops the 'Alias' column, renames the remaining columns to
+    'name' and 'cuisine', and swaps the positions of the 'name' and 'cuisine' columns. Finally, it saves the cleaned
+    data back to the same CSV file.
+
+    Note: This function assumes that the CSV files for each city are named after the city itself.
+
+    Returns:
+        None
+    """
     with open("city.csv", "r") as file:
         reader = csv.reader(file)
 
@@ -16,8 +31,8 @@ def clean():
             data.drop(columns=columns_to_drop, inplace=True)
 
             data.columns = ["name", "cuisine"]
-            # Swap 'name' and 'cuisine' columns
             data = data[["cuisine", "name"]]
+
             data.to_csv(f"{city_filename}", index=False)
 
 
