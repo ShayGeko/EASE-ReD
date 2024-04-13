@@ -66,7 +66,8 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
     elif config['loss'] == 'BCEWithLogits':
         weights = torch.tensor([1, 5, 5, 5, 5, 5, 5])
         criterion = nn.BCEWithLogitsLoss(pos_weight=weights)
-        # y_train = nn.functional.softmax(y_train, dim=1)
+    elif config['loss'] == 'CrossEntropy':
+        criterion = nn.CrossEntropyLoss()
     else:
         print("Invalid loss function")
         sys.exit(1)
@@ -114,8 +115,8 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
             
             model.eval()
             predictions = model(X_test)
-            # if(config['loss'] == 'BCEWithLogits'):
-            #     predictions = nn.functional.softmax(predictions, dim=1)
+            if(config['loss'] == 'CrossEntropy'):
+                predictions = nn.functional.softmax(predictions, dim=1)
             print(predictions.shape)
 
             results = predictions.detach().numpy()
