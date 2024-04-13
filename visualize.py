@@ -4,16 +4,15 @@ import torch
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 import os
 
-import geopandas as gpd
-from shapely.geometry import box, Point
-from contextily import Place
-import contextily as cx
-import rasterio
-from rasterio.plot import show as rioshow
-
+from geopy.geocoders import Nominatim
+from tqdm import tqdm
 from torch import nn
+import geopandas as gpd
+from shapely.geometry import Point
+from geodatasets import get_path
 
 from data import load_data, prepare_data
 
@@ -108,10 +107,27 @@ def get_MSE(actuals, predictions, cities, dir):
 
     return errors
 
-def map_MSE(errors):
-    plt.rcParams["figure.dpi"] = 70 # lower image size
-    zoom_lvl = 50
+def get_lon_lat(errors):
     errors = errors[['county', 'MSE']]
+    coordinates = []
+
+    def get_coordinates(location_name):
+        geolocator = Nominatim(user_agent="my_geocoder")
+        try:
+            location = geolocator.geocode(location_name + ", United States")
+            print(location_name,"->",location)
+            print(location.longitude, location.latitude)
+            return location.longitude, location.latitude
+        except:
+            print(location_name + '-> not found')
+            return 0,0
+        
+    for county in tqdm(errors['county']):
+        coordinates.append(get_coordinates(county))
+    coordinates = np.array(coordinates)
+    np.savetxt('coordinates.csv', coordinates, delimiter = ",")
+
+def map_MSE(errors, dir):
     def marker_colour(num):
         if num > 0.08:
             return 'red'
@@ -121,10 +137,37 @@ def map_MSE(errors):
             return 'blue'
         else:
             return 'green'
+    errors = errors[['county', 'MSE']]
     errors['colour'] = errors['MSE'].apply(lambda x: marker_colour(x))
-    errors['longitude'] = errors['county'].apply(lambda x: Place(x, zoom = zoom_lvl).longitude)
-    errors['latitude'] = errors['county'].apply(lambda x: Place(x, zoom = zoom_lvl).latitude)
-    print(errors)
+    coordinates = pd.read_csv('coordinates.csv', names = ['lon', 'lat'])
+    errors['longitude'] = coordinates['lon']
+    errors['latitude'] = coordinates['lat']
+    errors = errors[(errors['longitude'] >= -180) & 
+                    (errors['longitude'] <= -66) &
+                    (errors['latitude'] >= 18) &
+                    (errors['latitude'] <= 72)].reset_index(drop = True)
+    # print(errors)
+
+    errors_map = gpd.GeoDataFrame(
+        errors, geometry=gpd.points_from_xy(errors.longitude, errors.latitude))
+    print(errors_map)
+
+    world = gpd.read_file(get_path("naturalearth.land"))
+
+    fig= plt.figure()
+    # We restrict to United States.
+    usa = world.clip([-189, 18, -66, 72]).plot(color="white", edgecolor="black")
+
+    # We can now plot our ``GeoDataFrame``.
+    errors_map.plot(ax=usa, color=errors_map['colour'], markersize = 1)
+
+    red_patch = mpatches.Patch(color='red', label='very high MSE')
+    purple_patch = mpatches.Patch(color='purple', label='high MSE')
+    blue_patch = mpatches.Patch(color='blue', label='medium MSE')
+    green_patch = mpatches.Patch(color='green', label='low MSE')
+
+    plt.legend(handles=[red_patch, purple_patch, blue_patch, green_patch])
+    plt.savefig(f'{dir}/MSE_map.png')
 
 def main(config):
     model = torch.load(f'./experiments/{config["name"]}/models/model-1000.pth')
@@ -161,8 +204,8 @@ def main(config):
 
     # store_visuals(actuals, results, cities, dir)
     MSEs = get_MSE(actuals_all, results_all, cities_all, dir_MSE)
-
-    map_MSE(MSEs)
+    # get_lon_lat(MSEs) #only run this once - will take 30 min and store a csv file of the coordinates
+    map_MSE(MSEs, dir_MSE)
 
 
 if __name__ == "__main__":
