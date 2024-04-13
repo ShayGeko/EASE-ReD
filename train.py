@@ -13,7 +13,7 @@ from data import load_data, prepare_data
 from tqdm import tqdm
 
 def store_visuals(actuals, predictions, cities, file):
-    labels = ['white_pop', 'black_pop', 'asian_pop', 'indigenous', 'pacific_pop', 'hisp_pop', 'two_pop']
+    labels = ['white', 'black', 'asian', 'native', 'pacific', 'hispanic', 'mixed']
     x = np.arange(len(labels))  # the label locations
     width = 0.35  # the width of the bars
 
@@ -28,7 +28,7 @@ def store_visuals(actuals, predictions, cities, file):
             break
         ax = axs[i // ncols, i % ncols]
         ax.set_ylabel('Population Percentage')
-        ax.set_title(f'{city}')
+        ax.set_title(f'{city[0]}')
         ax.set_xticks(x)
         ax.set_xticklabels(labels, rotation=45, ha="right")
         ax.bar(x - width/2, actuals[i], width, label='Actual')
@@ -64,9 +64,10 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
     if config['loss'] == 'MSE':
         criterion = nn.MSELoss()
     elif config['loss'] == 'BCEWithLogits':
-        weights = torch.tensor([1, 1, 1, 1, 1, 1, 1])
+        weights = torch.tensor([1, 5, 5, 5, 5, 5, 5])
         criterion = nn.BCEWithLogitsLoss(pos_weight=weights)
-        y_train = nn.functional.softmax(y_train, dim=1)
+    elif config['loss'] == 'CrossEntropy':
+        criterion = nn.CrossEntropyLoss()
     else:
         print("Invalid loss function")
         sys.exit(1)
@@ -78,26 +79,31 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
     
     train_losses = []
     val_losses = []
-    for epoch in tqdm(range(20000)):  # Number of epochs
+
+    num_epochs = int(config['num_epochs'])
+    for epoch in tqdm(range(num_epochs)):  # Number of epochs
         model.train()
         optimizer.zero_grad()
         outputs = model(X_train)
         loss = criterion(outputs, y_train) # + torch.relu(-outputs).mean()
 
         if epoch % 25 == 0:
-            print(f'Epoch {epoch}, Loss: {loss.item()}')
             with torch.no_grad():
                 val_outputs = model(X_test)
                 val_loss = criterion(val_outputs, y_test)
                 val_losses.append(val_loss.item())
+            print(f'Epoch {epoch}, train loss: {loss.item()}, validation loss: {val_losses[-1]}')
             train_losses.append(loss.item())
 
 
         if epoch % 100 == 0:
             plt.figure()
-            plt.plot(train_losses, label='train')
-            plt.plot(val_losses, label='val')
+            x_ticks = np.arange(0, len(train_losses)) * 25
+            plt.plot(x_ticks, train_losses, label='train')
+            plt.plot(x_ticks, val_losses, label='val')
             plt.legend()
+            plt.xlabel('Epoch')
+            plt.ylabel('Loss')
             plt.savefig(f'./experiments/{name}/loss.png')
             plt.close()
 
@@ -109,8 +115,8 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
             
             model.eval()
             predictions = model(X_test)
-            # if(config['loss'] == 'BCEWithLogits'):
-            #     predictions = nn.functional.softmax(predictions, dim=1)
+            if(config['loss'] == 'CrossEntropy'):
+                predictions = nn.functional.softmax(predictions, dim=1)
             print(predictions.shape)
 
             results = predictions.detach().numpy()
