@@ -35,13 +35,14 @@ def append_to_csv_osm(output, embedding, city_name, state_name):
 
 
 
-def generate_embeddings_from_bing_maps(model, input = "./bingMaps/counties/", output = "./embeddings/bing_embeddings.csv"):
+def generate_embeddings_from_bing_maps(model, input, output, pca_output, shouldDoPCA, isNeededToParse, columnName):
     """
     Expects a list of .csv files in input directory
     Each file should be in format f"<city>-<state>.csv"
     Currently assumes that files are coming from Bing Maps and is parcing them
     """
     files = os.listdir(input)
+    files = sorted(files)
 
     if(os.path.exists(output)):
         os.remove(output)
@@ -52,12 +53,11 @@ def generate_embeddings_from_bing_maps(model, input = "./bingMaps/counties/", ou
         if file.endswith(".csv"):
             df = pd.read_csv(input + file)
 
-            df['Categories'] = df['Categories'].str.replace("[\[\]'']", '', regex=True)
-            
+            if(isNeededToParse):
+                df[columnName] = df[columnName].str.replace("[\[\]'']", '', regex=True)
             county_name = file[:-4]
 
-            embeddings = model.encode(df['Categories'])
-
+            embeddings = model.encode(df[columnName])
             if(embeddings.size == 0):
                 continue
 
@@ -83,14 +83,17 @@ def generate_embeddings_from_bing_maps(model, input = "./bingMaps/counties/", ou
             
     all_embeddings_df = np.array(all_embeddings)
 
-    pca = PCA(n_components = 50)
-    pca_embeddings = pca.fit_transform(all_embeddings_df)
-    
-    pca_embeddings = [np.array2string(embedding, separator=', ', precision=4, suppress_small=True) for embedding in pca_embeddings]
-    
-    pca_embeddings = pd.DataFrame({'county' : counties,'embedding':pca_embeddings})
-    pca_output = "./embeddings/pca_bing_embeddings.csv"
-    pca_embeddings.to_csv(pca_output, index=False)
+    print(all_embeddings_df.shape)
+
+    if shouldDoPCA:
+        pca = PCA(n_components = 50)
+        pca_embeddings = pca.fit_transform(all_embeddings_df)
+        
+        pca_embeddings = [np.array2string(embedding, separator=',', max_line_width=np.inf)[1:-1]  for embedding in pca_embeddings]
+        
+        pca_embeddings = pd.DataFrame({'county' : counties,'embedding':pca_embeddings})
+        pca_embeddings = pca_embeddings.sort_values(by=['county'])
+        pca_embeddings.to_csv(pca_output, index=False)
 
 def generate_embeddings_from_osm(model, input="./osm/data/", output="./predictions_input/embeddings.csv"):
     """
@@ -150,7 +153,23 @@ def main():
     model = SentenceTransformer('all-MiniLM-L6-v2')
     print("Model loaded. Generating embeddings.")
     # generate_embeddings_from_osm(model)
-    generate_embeddings_from_bing_maps(model)
+
+
+    input_file = "./bingMaps/restaurantCategory/"
+    output_file = "./embeddings/category_bing_embeddings.csv"
+    pca_output_file = "./embeddings/pca_category_bing_embeddings.csv"
+    isNeededToParse = True
+    columnName = 'Categories'
+    shouldDoPCA = True
+
+    # input_file = "./bingMaps/nameCategory/"
+    # output_file = "./embeddings/name_bing_embeddings.csv"
+    # pca_output_file = "./embeddings/pca_name_bing_embeddings.csv"
+    # isNeededToParse = False
+    # columnName = 'Name'
+    # shouldDoPCA = True
+
+    generate_embeddings_from_bing_maps(model, input_file, output_file, pca_output_file, shouldDoPCA, isNeededToParse, columnName)
 
 if __name__ == "__main__":
     main()

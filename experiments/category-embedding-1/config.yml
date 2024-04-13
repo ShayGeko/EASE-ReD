@@ -1,0 +1,10 @@
+name: 'category-embedding-1'
+demographics_file: './data/demographicData/csv/data_world/us_city_demographics.csv'
+demographics_normalized_file: './data/demographicData/csv/census_est_all_data_2019/county_ethnicity_fractions_2019.csv'
+embeddings_file: './data/embeddings/category_bing_embeddings.csv'
+lr: 1e-5
+weight_decay: 1e-5 # 1e-5 for MSE, 1e-4 for BCEWithLogits
+loss: 'MSE' # 'MSE' or 'BCEWithLogits'
+restaurant_data_source: 'Bing'
+hidden_layer_size: 256
+num_epochs: 10000

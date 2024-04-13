@@ -1,9 +1,0 @@
-name: 'data-world-10'
-demographics_file: './data/demographicData/csv/data_world/us_city_demographics.csv'
-demographics_normalized_file: './data/demographicData/csv/data_world/us_county_demographics_norm.csv'
-embeddings_file: './data/embeddings/bing_embeddings.csv'
-lr: 1e-5
-weight_decay: 1e-5 # 1e-5 for MSE
-loss: 'MSE' # or 'MSE' or 'BCEWithLogits'
-restaurant_data_source: 'Bing'
-hidden_layer_size: 256
