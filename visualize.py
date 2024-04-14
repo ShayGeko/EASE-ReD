@@ -101,6 +101,7 @@ def get_MSE(actuals, predictions, cities, dir, config):
         ax.bar(x - width/2, errors_top15['actuals'][i], width, label='Actual')
         ax.bar(x + width/2, errors_top15['predictions'][i], width, label='Predicted')
         ax.set_ylim(0, 1)
+        ax.legend()
     print(errors_top15[['county', 'MSE']])
 
     # Adjust or remove empty subplots if cities < nrows*ncols
@@ -158,7 +159,7 @@ def map_MSE(errors, dir):
 
     errors_map = gpd.GeoDataFrame(
         errors, geometry=gpd.points_from_xy(errors.longitude, errors.latitude))
-    print(errors_map)
+    print(errors_map[errors_map['colour'] == 'green'])
 
     world = gpd.read_file(get_path("naturalearth.land"))
 
@@ -178,7 +179,7 @@ def map_MSE(errors, dir):
     plt.savefig(f'{dir}/MSE_map.png')
 
 def main(config):
-    model = torch.load(f'./experiments/{config["name"]}/models/model-7000.pth')
+    model = torch.load(f'./experiments/{config["name"]}/models/model-6000.pth')
 
     city_demographics, city_cuisine_embeddings = \
         load_data(config)
@@ -196,8 +197,6 @@ def main(config):
 
     results = predictions.detach().numpy()
     results_all = predictions_all.detach().numpy()
-    print('results all:')
-    print(results_all)
     actuals = y_test.detach().numpy()
     actuals_all = torch.cat((y_train,y_test)).detach().numpy()
     cities = test_cities
