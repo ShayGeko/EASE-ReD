@@ -14,7 +14,8 @@ from torch import nn
 import geopandas as gpd
 from shapely.geometry import Point
 from geodatasets import get_path
-
+from scipy.stats import normaltest, f_oneway
+from statsmodels.stats.multicomp import pairwise_tukeyhsd
 from data import load_data, prepare_data
 
 
@@ -59,18 +60,10 @@ def store_visuals(actuals, predictions, cities, dir):
     # plt.show()
     plt.savefig(f'{dir}/predictions.png')
 
-def get_MSE(actuals, predictions, cities, dir, config):
-    labels = ['white_pop', 'black_pop', 'asian_pop', 'indigenous', 'pacific_pop', 'hisp_pop', 'two_pop']
-    x = np.arange(len(labels))  # the label locations
-    width = 0.35  # the width of the bars
+def get_MAE(actuals, predictions, cities, dir, config):
 
-    # Assuming we have 15 cities and want a 3x5 grid of subplots
-    nrows = 3
-    ncols = 5
-    fig, axs = plt.subplots(nrows, ncols, figsize=(15, 10))  # Adjust figsize as needed
-    fig.tight_layout(pad=3.0)
     counties = []
-    MSEs = []
+    MAEs = []
     pred = []
     act = []
     for i, city in enumerate(cities):
@@ -83,40 +76,64 @@ def get_MSE(actuals, predictions, cities, dir, config):
             predictions[i] = nn.functional.softmax(torch.tensor(predictions[i]), dim=0).numpy()
             # print('predictions after softmax:')
             # print(predictions)
-        MSE = nn.MSELoss()(torch.tensor(predictions[i]), torch.tensor(actuals[i])).item()
-        MSEs.append(MSE)
+        MAE = np.mean(np.abs(predictions[i] - actuals[i]))
+        MAEs.append(MAE)
     errors = pd.DataFrame({'county': counties,
-                           'MSE': MSEs,
+                           'MAE': MAEs,
                            'predictions': pred,
                            'actuals': act})
-    errors = errors.sort_values(['MSE'], ascending=False)
+    errors = errors.sort_values(['MAE'], ascending=False)
     errors = errors.reset_index(drop = True)
-    errors_top15 = errors[0:15]
+
+    return errors
+
+def plot_MAE(errors, dir, filename):
+    labels = ['white_pop', 'black_pop', 'asian_pop', 'indigenous', 'pacific_pop', 'hisp_pop', 'two_pop']
+    x = np.arange(len(labels))  # the label locations
+    width = 0.35  # the width of the bars
+
+    # Assuming we have 15 cities and want a 3x5 grid of subplots
+    nrows = 3
+    ncols = 5
+    fig, axs = plt.subplots(nrows, ncols, figsize=(15, 10))  # Adjust figsize as needed
+    fig.tight_layout(pad=3.0)
     for i in range(15):
         ax = axs[i // ncols, i % ncols]
         ax.set_ylabel('Population Percentage')
-        ax.set_title(f"{errors_top15['county'][i]}")
+        ax.set_title(f"{errors['county'][i]}")
         ax.set_xticks(x)
         ax.set_xticklabels(labels, rotation=45, ha="right")
-        ax.bar(x - width/2, errors_top15['actuals'][i], width, label='Actual')
-        ax.bar(x + width/2, errors_top15['predictions'][i], width, label='Predicted')
+        ax.bar(x - width/2, errors['actuals'][i], width, label='Actual')
+        ax.bar(x + width/2, errors['predictions'][i], width, label='Predicted')
         ax.set_ylim(0, 1)
         ax.legend()
-    print(errors_top15[['county', 'MSE']])
-
-    # Adjust or remove empty subplots if cities < nrows*ncols
-    for i in range(len(cities), nrows*ncols):
-        axs.flat[i].set_visible(False)
 
     # Save the entire figure containing all subplots
     plt.subplots_adjust(wspace=0.4, hspace=0.6)
     # plt.show()
-    plt.savefig(f'{dir}/predictions_most_inaccurate.png')
+    plt.savefig(f'{dir}/{filename}')
 
-    return errors
+def one_model_tests(data):
+    normal_p = normaltest(data).pvalue
+    if normal_p < 0.05:
+        print('data is not normal! p-value is ' + str(normal_p))
+    else:
+        print('data is normal! p-value is ' + str(normal_p))
+
+def tukey_test(data):
+    data = data.dropna()
+    x_melt = pd.melt(data)
+    print(x_melt)
+    posthoc = pairwise_tukeyhsd(
+        x_melt['value'], x_melt['variable'],
+        alpha=0.05)
+    print(posthoc)
+    fig = posthoc.plot_simultaneous()
+    plt.savefig('tukey.png')
+
 
 def get_lon_lat(errors):
-    errors = errors[['county', 'MSE']]
+    errors = errors[['county', 'MAE']]
     coordinates = []
 
     def get_coordinates(location_name):
@@ -136,18 +153,14 @@ def get_lon_lat(errors):
     coordinates['county'] = errors['county']
     coordinates.to_csv('coordinates.csv')
 
-def map_MSE(errors, dir):
+def map_MAE(errors, dir):
     def marker_colour(num):
-        if num > 0.08:
+        if num > 0.1:
             return 'red'
-        elif num > 0.05:
-            return 'purple'
-        elif num > 0.03:
-            return 'blue'
         else:
             return 'green'
-    errors = errors[['county', 'MSE']]
-    errors['colour'] = errors['MSE'].apply(lambda x: marker_colour(x))
+    errors = errors[['county', 'MAE']]
+    errors['colour'] = errors['MAE'].apply(lambda x: marker_colour(x))
     coordinates = pd.read_csv('coordinates.csv', names = ['drop', 'longitude', 'latitude', 'county'])
     coordinates = coordinates.drop(columns = ['drop']).iloc[1:]
     errors = errors.merge(coordinates)
@@ -170,16 +183,14 @@ def map_MSE(errors, dir):
     # We can now plot our ``GeoDataFrame``.
     errors_map.plot(ax=usa, color=errors_map['colour'], markersize = 1)
 
-    red_patch = mpatches.Patch(color='red', label='very high MSE')
-    purple_patch = mpatches.Patch(color='purple', label='high MSE')
-    blue_patch = mpatches.Patch(color='blue', label='medium MSE')
-    green_patch = mpatches.Patch(color='green', label='low MSE')
+    red_patch = mpatches.Patch(color='red', label='MAE greater than 10%')
+    green_patch = mpatches.Patch(color='green', label='MAE less than 10%')
 
-    plt.legend(handles=[red_patch, purple_patch, blue_patch, green_patch])
-    plt.savefig(f'{dir}/MSE_map.png')
+    plt.legend(handles=[red_patch, green_patch])
+    plt.savefig(f'{dir}/MAE_map.png')
 
 def main(config):
-    model = torch.load(f'./experiments/{config["name"]}/models/model-6000.pth')
+    model = torch.load(f'./experiments/{config["name"]}/models/model-3000.pth') #change here for different nn models
 
     city_demographics, city_cuisine_embeddings = \
         load_data(config)
@@ -205,17 +216,44 @@ def main(config):
 
     # visualize the results
     dir = f'./experiments/{config["name"]}/visuals'
-    dir_MSE = f'./experiments/{config["name"]}/visuals/sorted_MSE'
+    dir_MAE = f'./experiments/{config["name"]}/visuals/sorted_MAE'
     if not os.path.exists(dir):
         os.makedirs(dir)
-    if not os.path.exists(dir_MSE):
-        os.makedirs(dir_MSE)
+    if not os.path.exists(dir_MAE):
+        os.makedirs(dir_MAE)
 
-    store_visuals(actuals, results, cities, dir)
-    MSEs = get_MSE(actuals_all, results_all, cities_all, dir_MSE, config)
+    # store_visuals(actuals, results, cities, dir)
+    MAEs = get_MAE(actuals_all, results_all, cities_all, dir_MAE, config)
+    # MAEs_best15 = MAEs[-15:].reset_index(drop = True)
+    # MAEs_worst15 = MAEs[:15]
+    # plot_MAE(MAEs_best15, dir_MAE, 'predictions_most_accurate.png')
+    # plot_MAE(MAEs_worst15, dir_MAE, 'predictions_most_inaccurate.png')
+    plt.clf()
+    plt.hist(MAEs['MAE'], bins = 20)
+    plt.title('Histogram of mean absolute error')
+    plt.savefig(f'{dir_MAE}/histogram.png')
+    plt.clf()
+
+    one_model_tests(MAEs['MAE'])
     # get_lon_lat(MSEs) #only run this once - will take 30 min and store a csv file of the coordinates
-    map_MSE(MSEs, dir_MSE)
+    map_MAE(MAEs, dir_MAE)
 
+    # MAEs['MAE'].to_csv(f"MAE_data/{config['name']}.csv", index = False) #makes the csvs
+
+    MAE_category = pd.read_csv('MAE_data/category-embedding-2.csv')
+    MAE_ce_category = pd.read_csv('MAE_data/ce-category-embedding-1.csv')
+    MAE_pca_category = pd.read_csv('MAE_data/pca-category-embedding-2.csv')
+    MAE_ce_pca_category = pd.read_csv('MAE_data/ce-pca-category-embedding-1.csv')
+    MAE_name = pd.read_csv('MAE_data/name-embedding-3.csv')
+    MAE_ce_name = pd.read_csv('MAE_data/ce-name-embedding-1.csv')
+    MAE_pca_name = pd.read_csv('MAE_data/pca-name-embedding-2.csv')
+    MAE_ce_pca_name = pd.read_csv('MAE_data/ce-pca-name-embedding-1.csv')
+
+    MAE_all_models = pd.concat([MAE_category, MAE_ce_category, MAE_pca_category, MAE_ce_pca_category,
+                                MAE_name, MAE_ce_name, MAE_pca_name, MAE_ce_pca_name], axis = 1)
+    MAE_all_models = MAE_all_models.set_axis(['category', 'ce_category', 'pca_category', 'ce_pca_category', 
+                                              'name', 'ce_name', 'pca_name', 'ce_pca_name'], axis=1)
+    tukey_test(MAE_all_models)
 
 if __name__ == "__main__":
     yml_config_file = sys.argv[1]
