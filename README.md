@@ -26,11 +26,15 @@ Download and install Python3 from the [official website](https://www.python.org/
 - Pyspark
 - Tqdm
 - Sklearn
+- Dask
+- shutil
+- PyYaml
+
 
 You can install the required Python libraries using `pip`, Python's package installer. Open a terminal or command prompt and execute the following commands:
 
 ```bash
-pip3 install torch pandas numpy matplotlib pyyaml tqdm scikit-learn
+pip3 install torch pandas numpy matplotlib pyyaml tqdm scikit-learn dask 
 ```
 
 ## Run 
