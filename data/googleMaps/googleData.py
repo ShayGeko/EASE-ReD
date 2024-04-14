@@ -4,6 +4,8 @@ import csv
 import os
 from dotenv import load_dotenv
 
+# **** Should be in the same directory as the utils folder ****
+
 
 def search_restaurants(cuisine, apiKey, location):
     """
@@ -55,7 +57,8 @@ def main():
                 with open("cuisine.csv", "r") as cuisine_file:
                     reader = csv.reader(cuisine_file)
                     for row in reader:
-                        cuisine = row[0]  # get the cuisine from the first column
+                        # get the cuisine
+                        cuisine = row[0]
                         print(
                             f"Making request for cuisine: {cuisine} in location: {location}"
                         )

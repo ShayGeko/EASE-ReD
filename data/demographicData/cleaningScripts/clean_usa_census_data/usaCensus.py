@@ -2,6 +2,8 @@ import pandas as pd
 import sys
 import os
 
+# **** Should be in the same directory as the uncleaned data ****
+
 
 def reformat(input):
     """
