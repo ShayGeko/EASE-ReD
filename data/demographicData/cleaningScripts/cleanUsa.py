@@ -6,7 +6,7 @@ import numpy as np
 
 def clean():
     """
-    Cleans the demographic data for cities in the USA.
+    Cleans the demographic data for cities in the Data USA dataset.
 
     Reads in city names from a CSV file, drops unnecessary columns, performs data cleaning operations,
     calculates the percentage of total population, renames columns, counts the total number of classes,

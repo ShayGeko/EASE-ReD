@@ -4,9 +4,15 @@ import numpy as np
 
 
 def main(input):
-    # format:
-    # header
-    # "ab", "bc", "de"
+    """
+    This function reads a CSV file and prints the first few rows of the DataFrame.
+
+    Parameters:
+    input (str): The path to the CSV file.
+
+    Returns:
+    None
+    """
     df = pd.read_csv(input, sep=",")
 
     print(df.head())

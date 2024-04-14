@@ -2,6 +2,8 @@ import csv
 import os
 import pandas as pd
 
+# **** Should be in the same directory as the uncleaned data ****
+
 
 def process_csv(input_file, output_file):
     """
@@ -79,24 +81,24 @@ def process_csv_with_replacement(input_file, output_file, replace_column):
     Returns:
         None
     """
-    # call the process_csv function to clean the input csv file
     process_csv(input_file, output_file)
+
     # read the replacement data from the replace_column csv file
     replace_data = pd.read_csv(replace_column, header=None)[0].tolist()
-    # read the cleaned csv file
+
     df = pd.read_csv(output_file)
+
     # replace the first column of the cleaned csv file with the replacement data
     df.iloc[: len(replace_data), 0] = replace_data
-    # write the replaced data back to the csv file
+
     df.to_csv(output_file, index=False)
-    # aggregate the data in the csv file
+
     aggregate_data(output_file)
     process_csv(input_file, output_file)
 
     # replace the first column of the cleaned csv file with the replacement data
     replace_data = pd.read_csv(replace_column, header=None)[0].tolist()
 
-    # read the cleaned csv file
     df = pd.read_csv(output_file)
 
     # replace the first column of the cleaned csv file with the replacement data
@@ -139,19 +141,20 @@ def clean_census_for_cities(city_list_file, replace_column):
     """
     # open the city list file
     with open(city_list_file, "r") as cities_file:
-        # create a csv reader
         cities_reader = csv.reader(cities_file)
-        # iterate over each row in the csv file
+
         for city_row in cities_reader:
-            # get the city name from the first column of the row
             city_name = city_row[0]
+
             # construct the input file path using the city name
             input_file = f"{city_name}.csv"
+
             # construct the output file path using the city name
             output_file = os.path.join("cleanedcensus", f"{city_name}.csv")
 
             # call the function to process the csv file with replacement
             process_csv_with_replacement(input_file, output_file, replace_column)
+
             # print a message indicating the completion of cleaning for the current city
             print(f"cleaning for {city_name} completed.")
 

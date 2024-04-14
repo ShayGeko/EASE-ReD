@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 
 totalRest = 1000
 
+
 def search_yelp(api_key, term, location, offset=0):
     """
     Search Yelp API for businesses based on the given parameters.
@@ -37,6 +38,7 @@ def search_yelp(api_key, term, location, offset=0):
 
     return data
 
+
 def write_to_csv(businesses, filename):
     """
     Write the list of businesses to a CSV file.
@@ -58,15 +60,16 @@ def write_to_csv(businesses, filename):
                 row["Title"] = business["categories"][0]["title"]
             writer.writerow(row)
 
+
 def main():
     """
     Main function to execute the program.
     """
     load_dotenv()
-    api_key = os.getenv('YELP_API_KEY')
+    api_key = os.getenv("YELP_API_KEY")
 
     term = "restaurant"
-    location = sys.argv[1]  if len(sys.argv)>1 else "victoria"
+    location = sys.argv[1] if len(sys.argv) > 1 else "victoria"
 
     totalBus = []
 
@@ -78,6 +81,7 @@ def main():
     if not os.path.exists("csv"):
         os.makedirs("csv")
     write_to_csv(totalBus, os.path.join("csv", f"{location}.csv"))
+
 
 if __name__ == "__main__":
     main()

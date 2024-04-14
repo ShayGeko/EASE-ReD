@@ -5,7 +5,7 @@ import sys
 
 def clean(file):
     """
-    Cleans the given CSV file containing demographic data for Canada.
+    Cleans the given CSV file containing demographic data for the Old Stats Canada dataset.
 
     Parameters:
     file (str): The path to the CSV file to be cleaned.

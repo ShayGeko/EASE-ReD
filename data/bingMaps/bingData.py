@@ -47,7 +47,7 @@ def fetch_restaurant_data():
                 csv_data.append([name])
 
         # write data to CSV file
-        with open(f"nameCategory/{location}.csv", "w", newline="") as file:
+        with open(f"name_category/{location}.csv", "w", newline="") as file:
             writer = csv.writer(file)
             print("Currently creating: ", location)
             writer.writerow(["Name"])  # write the header
