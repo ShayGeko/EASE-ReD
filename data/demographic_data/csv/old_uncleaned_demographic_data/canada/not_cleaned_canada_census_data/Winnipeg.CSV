@@ -1,0 +1,319 @@
+"Ethnic Origin (279), Single and Multiple Ethnic Origin Responses (3), Generation Status (4), Age (12) and Sex (3) for the Population in Private Households of Canada, Provinces and Territories, Census Metropolitan Areas and Census Agglomerations, 2016 Census - 25% Sample Data"
+"Geography = Winnipeg"
+"Global non-response rate (GNR) =   4.0 %"
+"Generation status (4) = Total - Generation status [1]"
+"Age (12) = Total - Age"
+"Sex (3) = Total - Sex"
+"Ethnic origin (279)","Total - Single and multiple ethnic origin responses [2]","  Single ethnic origin responses [3]","  Multiple ethnic origin responses [4]", 
+"Total - Ethnic origin [5]",761540,374520,387020 
+"  North American Aboriginal origins",95405,26525,68880 
+"    First Nations (North American Indian)",46015,17910,28100 
+"    Inuit",520,70,460 
+"    Métis",53820,8550,45275 
+"  Other North American origins",134985,46140,88845 
+"    Acadian",445,25,420 
+"    American",5840,440,5395 
+"    Canadian",130380,45615,84770 
+"    New Brunswicker",0,0,0 
+"    Newfoundlander",135,30,105 
+"    Nova Scotian",20,0,20 
+"    Ontarian",10,0,15 
+"    Québécois",240,30,210 
+"    Other North American origins, n.i.e. [6]",30,0,25 
+"  European origins",503280,141575,361705 
+"    British Isles origins",258245,31425,226820 
+"      Channel Islander",45,0,45 
+"      Cornish",65,0,65 
+"      English",147565,16460,131105 
+"      Irish",97440,4680,92760 
+"      Manx",125,0,120 
+"      Scottish",126740,7815,118925 
+"      Welsh",11905,375,11530 
+"      British Isles origins, n.i.e. [7]",14445,2090,12355 
+"    French origins",96150,10205,85945 
+"      Alsatian",20,0,20 
+"      Breton",70,10,55 
+"      Corsican",10,0,0 
+"      French",96105,10190,85915 
+"    Western European origins (except French origins)",161605,32240,129360 
+"      Austrian",8375,480,7895 
+"      Bavarian",10,0,10 
+"      Belgian",11820,1025,10795 
+"      Dutch",30460,5740,24720 
+"      Flemish",620,70,550 
+"      Frisian",120,15,100 
+"      German",123970,24665,99300 
+"      Luxembourger",80,0,80 
+"      Swiss",3130,225,2905 
+"      Western European origins, n.i.e. [8]",135,15,120 
+"    Northern European origins (except British Isles origins)",48675,3560,45115 
+"      Danish",4925,460,4470 
+"      Finnish",2735,240,2495 
+"      Icelandic",18175,1485,16695 
+"      Norwegian",11510,615,10895 
+"      Swedish",14050,650,13400 
+"      Northern European origins, n.i.e. [9]",1720,120,1605 
+"    Eastern European origins",180660,41250,139415 
+"      Bulgarian",285,115,170 
+"      Byelorussian",670,145,530 
+"      Czech",3140,480,2660 
+"      Czechoslovakian, n.o.s. [10]",1370,140,1235 
+"      Estonian",170,35,135 
+"      Hungarian",7010,1375,5630 
+"      Latvian",880,125,760 
+"      Lithuanian",1065,120,945 
+"      Moldovan",265,50,215 
+"      Polish",60465,9135,51330 
+"      Romanian",4145,680,3465 
+"      Russian",29575,3580,26000 
+"      Slovak",1685,460,1230 
+"      Ukrainian",116250,24690,91560 
+"      Eastern European origins, n.i.e. [11]",720,135,585 
+"    Southern European origins",51280,19610,31670 
+"      Albanian",395,305,95 
+"      Bosnian",960,705,250 
+"      Catalan",15,0,10 
+"      Croatian",2435,1095,1335 
+"      Cypriot",40,10,30 
+"      Greek",3550,1680,1870 
+"      Italian",19435,6030,13400 
+"      Kosovar",35,25,10 
+"      Macedonian",220,105,115 
+"      Maltese",245,70,175 
+"      Montenegrin",30,10,25 
+"      Portuguese",12870,7370,5500 
+"      Serbian",1100,590,515 
+"      Sicilian",205,30,175 
+"      Slovenian",915,325,595 
+"      Spanish",10695,1105,9595 
+"      Yugoslavian, n.o.s. [12]",845,160,685 
+"      Southern European origins, n.i.e. [13]",65,10,70 
+"    Other European origins",9305,3285,6020 
+"      Basque",100,10,95 
+"      Jewish",7640,2575,5055 
+"      Roma (Gypsy)",110,0,105 
+"      Slavic, n.o.s. [14]",145,50,100 
+"      Other European origins, n.i.e. [15]",1375,640,730 
+"  Caribbean origins",9375,3655,5720 
+"    Antiguan",60,10,50 
+"    Bahamian",55,0,50 
+"    Barbadian",660,175,485 
+"    Bermudan",35,0,35 
+"    Carib",70,10,60 
+"    Cuban",240,75,165 
+"    Dominican",260,100,155 
+"    Grenadian",145,55,90 
+"    Guadeloupean",0,0,0 
+"    Haitian",145,85,65 
+"    Jamaican",3935,1910,2025 
+"    Kittitian/Nevisian",10,10,10 
+"    Martinican",0,0,0 
+"    Montserratan",10,0,10 
+"    Puerto Rican",60,0,55 
+"    St. Lucian",35,0,30 
+"    Trinidadian/Tobagonian",2130,525,1605 
+"    Vincentian/Grenadinian",155,70,85 
+"    West Indian, n.o.s. [16]",1315,465,845 
+"    Caribbean origins, n.i.e. [17]",585,160,420 
+"  Latin, Central and South American origins",11665,4720,6945 
+"    Aboriginal from Central/South America (except Arawak and Maya)",495,40,455 
+"    Arawak",10,0,10 
+"    Argentinian",455,85,370 
+"    Belizean",50,0,50 
+"    Bolivian",50,0,45 
+"    Brazilian",725,150,575 
+"    Chilean",1370,525,850 
+"    Colombian",835,505,330 
+"    Costa Rican",60,25,40 
+"    Ecuadorian",85,45,40 
+"    Guatemalan",460,235,220 
+"    Guyanese",1325,435,890 
+"    Hispanic",315,165,150 
+"    Honduran",75,35,35 
+"    Maya",135,10,125 
+"    Mexican",1940,520,1425 
+"    Nicaraguan",295,160,135 
+"    Panamanian",40,10,35 
+"    Paraguayan",610,90,520 
+"    Peruvian",270,135,135 
+"    Salvadorean",1705,1050,655 
+"    Uruguayan",30,0,30 
+"    Venezuelan",185,60,120 
+"    Latin, Central and South American origins, n.i.e. [18]",800,435,365 
+"  African origins",25780,18730,7045 
+"    Central and West African origins",8115,6475,1640 
+"      Akan",30,10,20 
+"      Angolan",15,10,15 
+"      Ashanti",25,10,15 
+"      Beninese",50,30,25 
+"      Burkinabe",20,10,10 
+"      Cameroonian",140,120,25 
+"      Chadian",10,10,0 
+"      Congolese",1545,1290,250 
+"      Edo",125,45,85 
+"      Ewe",15,10,10 
+"      Gabonese",25,10,20 
+"      Gambian",10,0,10 
+"      Ghanaian",355,180,175 
+"      Guinean",65,20,45 
+"      Ibo",420,250,165 
+"      Ivorian",125,70,50 
+"      Liberian",50,45,0 
+"      Malian",140,95,45 
+"      Malinké",30,20,15 
+"      Nigerian",3510,2785,730 
+"      Peulh",30,10,20 
+"      Senegalese",110,95,15 
+"      Sierra Leonean",315,200,115 
+"      Togolese",115,80,30 
+"      Wolof",20,0,15 
+"      Yoruba",995,835,155 
+"      Central and West African origins, n.i.e. [19]",495,260,230 
+"    North African origins",3270,2435,835 
+"      Algerian",95,35,60 
+"      Berber",130,80,50 
+"      Coptic",70,50,20 
+"      Dinka",30,15,15 
+"      Egyptian",1165,895,275 
+"      Libyan",300,225,75 
+"      Maure",70,60,15 
+"      Moroccan",315,205,115 
+"      Sudanese",1035,820,220 
+"      Tunisian",85,40,40 
+"      North African origins, n.i.e. [20]",60,10,55 
+"    Southern and East African origins",9295,7450,1840 
+"      Afrikaner",30,0,30 
+"      Amhara",110,35,80 
+"      Bantu, n.o.s. [21]",150,125,20 
+"      Burundian",215,155,60 
+"      Djiboutian",40,10,35 
+"      Eritrean",2175,1910,265 
+"      Ethiopian",2545,2125,420 
+"      Harari",10,0,10 
+"      Kenyan",300,215,85 
+"      Malagasy",10,0,10 
+"      Mauritian",105,35,70 
+"      Oromo",320,240,85 
+"      Rwandan",295,215,80 
+"      Seychellois",50,25,25 
+"      Somali",1715,1485,230 
+"      South African",420,70,350 
+"      Tanzanian",85,55,30 
+"      Tigrian",315,190,120 
+"      Ugandan",180,85,95 
+"      Zambian",195,155,35 
+"      Zimbabwean",260,165,100 
+"      Zulu",25,0,25 
+"      Southern and East African origins, n.i.e. [22]",430,160,265 
+"    Other African origins",5710,2365,3345 
+"      Black, n.o.s. [23]",695,80,620 
+"      Other African origins, n.i.e. [24]",5095,2290,2805 
+"  Asian origins",161845,133110,28740 
+"    West Central Asian and Middle Eastern origins",10050,5945,4105 
+"      Afghan",1005,890,125 
+"      Arab, n.o.s. [25]",1540,920,620 
+"      Armenian",355,60,300 
+"      Assyrian",35,0,30 
+"      Azerbaijani",55,0,50 
+"      Georgian",105,0,105 
+"      Hazara",0,0,0 
+"      Iranian",1700,1350,345 
+"      Iraqi",920,695,225 
+"      Israeli",735,195,540 
+"      Jordanian",210,60,150 
+"      Kazakh",75,15,65 
+"      Kurd",300,165,135 
+"      Kuwaiti",40,0,45 
+"      Kyrgyz",35,0,35 
+"      Lebanese",1040,250,790 
+"      Palestinian",550,320,230 
+"      Pashtun",50,15,35 
+"      Saudi Arabian",125,20,100 
+"      Syrian",935,625,315 
+"      Tajik",45,35,10 
+"      Tatar",150,0,145 
+"      Turk",550,150,405 
+"      Turkmen",0,0,10 
+"      Uighur",15,0,10 
+"      Uzbek",55,15,45 
+"      Yemeni",105,60,40 
+"      West Central Asian and Middle Eastern origins, n.i.e. [26]",230,90,135 
+"    South Asian origins",38910,32705,6200 
+"      Bangladeshi",855,750,105 
+"      Bengali",200,160,40 
+"      Bhutanese",140,105,30 
+"      East Indian",30795,25715,5085 
+"      Goan",50,0,50 
+"      Gujarati",155,80,70 
+"      Kashmiri",15,0,10 
+"      Nepali",495,370,125 
+"      Pakistani",3005,2020,990 
+"      Punjabi",3605,2075,1525 
+"      Sinhalese",255,170,85 
+"      Sri Lankan",1025,695,330 
+"      Tamil",235,125,110 
+"      South Asian origins, n.i.e. [27]",665,430,230 
+"    East and Southeast Asian origins",113315,94225,19090 
+"      Burmese",245,160,85 
+"      Cambodian (Khmer)",500,290,210 
+"      Chinese",26815,18560,8255 
+"      Filipino",77305,65155,12150 
+"      Hmong",0,0,0 
+"      Indonesian",430,50,380 
+"      Japanese",2290,850,1440 
+"      Karen",455,395,55 
+"      Korean",3935,3640,295 
+"      Laotian",1605,910,700 
+"      Malaysian",430,55,380 
+"      Mongolian",130,50,75 
+"      Singaporean",10,0,10 
+"      Taiwanese",115,65,50 
+"      Thai",635,215,420 
+"      Tibetan",15,0,15 
+"      Vietnamese",5585,3750,1835 
+"      East and Southeast Asian origins, n.i.e. [28]",150,95,55 
+"    Other Asian origins",450,230,215 
+"      Other Asian origins, n.i.e. [29]",450,235,215 
+"  Oceania origins",1030,65,960 
+"    Australian",695,40,660 
+"    New Zealander",180,0,180 
+"    Pacific Islands origins",195,25,175 
+"      Fijian",10,0,0 
+"      Hawaiian",55,0,55 
+"      Maori",50,0,50 
+"      Samoan",0,0,0 
+"      Polynesian, n.o.s. [30]",50,0,50 
+"      Pacific Islands origins, n.i.e. [31]",40,20,25 
+"Note"
+"[1] For more information on generation status variables, including information on their classifications, the questions from which they are derived, data quality and their comparability with other sources of data, please refer to the Place of Birth, Generation Status, Citizenship and Immigration Reference Guide, Census of Population, 2016."
+"[2] Total ethnic origin responses are the sum of single and multiple responses for each ethnic origin. Total response counts indicate the number of persons who reported a specified ethnic origin, either as their only origin or in addition to one or more other ethnic origins. The sum of all ethnic origin responses is greater than the total population estimate due to the reporting of multiple origins."
+"[3] A single ethnic origin response occurs when a person provides one ethnic origin only."
+"[4] A multiple ethnic origin response occurs when a person provides two or more ethnic origins."
+"[5] This is a total population estimate. The sum of the ethnic groups in this table is greater than the total population estimate because a person may report more than one ethnic origin in the census."
+"[6] Includes general responses indicating North American origins (e.g., 'North American') as well as more specific responses indicating North American origins that have not been included elsewhere (e.g., 'Maritimer')."
+"[7] Includes general responses indicating British Isles origins (e.g., 'British,' 'United Kingdom') as well as more specific responses indicating British Isles origins that have not been included elsewhere (e.g., 'Celtic')."
+"[8] Includes general responses indicating Western European origins (e.g., 'Western European') as well as more specific responses indicating Western European origins that have not been included elsewhere (e.g., 'Liechtensteiner')."
+"[9] Includes general responses indicating Northern European origins (e.g., 'Northern European') as well as more specific responses indicating Northern European origins that have not been included elsewhere (e.g., 'Faroese,' 'Scandinavian')."
+"[10] Includes responses of 'Czechoslovakian,' not otherwise specified."
+"[11] Includes general responses indicating Eastern European origins (e.g., 'Eastern European') as well as more specific responses indicating Eastern European origins that have not been included elsewhere (e.g., 'Baltic')."
+"[12] Includes responses of 'Yugoslavian,' not otherwise specified."
+"[13] Includes general responses indicating Southern European origins (e.g., 'Southern European') as well as more specific responses indicating Southern European origins that have not been included elsewhere (e.g., 'Gibraltarian')."
+"[14] Includes responses of 'Slavic,' not otherwise specified."
+"[15] Includes general responses indicating Other European origins (e.g., 'European') as well as more specific responses indicating European origins that have not been included elsewhere (e.g., 'Central European')."
+"[16] Includes responses of 'West Indian,' not otherwise specified."
+"[17] Includes general responses indicating Caribbean origins (e.g., 'Antilles,' 'Caribbean') as well as more specific responses indicating Caribbean origins that have not been included elsewhere (e.g., 'Aruban')."
+"[18] Includes general responses indicating Latin, Central or South American origins (e.g., 'South American') as well as more specific responses indicating Latin, Central or South American origins that have not been included elsewhere (e.g., 'Surinamese')."
+"[19] Includes general responses indicating Central or West African origins (e.g., 'West African') as well as more specific responses indicating Central or West African origins that have not been included elsewhere (e.g., 'Luba,' 'Mossi')."
+"[20] Includes general responses indicating North African origins (e.g., 'North African') as well as more specific responses indicating North African origins that have not been included elsewhere (e.g., 'Maghreb')."
+"[21] Includes responses of 'Bantu,' not otherwise specified."
+"[22] Includes general responses indicating Southern or East African origins (e.g., 'East African') as well as more specific responses indicating Southern or East African origins that have not been included elsewhere (e.g., 'Hutu,' 'Shona')."
+"[23] Includes responses of 'Black,' not otherwise specified."
+"[24] Includes general responses indicating Other African origins (e.g., 'African') as well as more specific responses indicating Other African origins that have not been included elsewhere (e.g., 'Saharan')."
+"[25] Includes responses of 'Arab,' not otherwise specified."
+"[26] Includes general responses indicating West Asian, Central Asian and Middle Eastern origins (e.g., 'West Asian,' 'Middle Eastern') as well as more specific responses indicating West Asian, Central Asian and Middle Eastern origins that have not been included elsewhere (e.g., 'Baloch,' 'Circassian')."
+"[27] Includes general responses indicating South Asian origins (e.g., 'South Asian') as well as more specific responses indicating South Asian origins that have not been included elsewhere (e.g., 'Telugu')."
+"[28] Includes general responses indicating East and Southeast Asian origins (e.g., 'Southeast Asian') as well as more specific responses indicating East and Southeast Asian origins that have not been included elsewhere (e.g., 'Bruneian')."
+"[29] Includes general responses indicating Other Asian origins (e.g., 'Asian') as well as more specific responses indicating Other Asian origins that have not been included elsewhere (e.g., 'Eurasian')."
+"[30] Includes responses of 'Polynesian,' not otherwise specified."
+"[31] Includes general responses indicating Pacific Islands origins (e.g., 'Pacific Islander') as well as more specific responses indicating Pacific Islands origins that have not been included elsewhere (e.g., 'Tahitian')."
+"Source: Statistics Canada - 2016 Census. Catalogue Number 98-400-X2016187."
