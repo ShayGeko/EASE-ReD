@@ -159,7 +159,7 @@ def map_MSE(errors, dir):
 
     errors_map = gpd.GeoDataFrame(
         errors, geometry=gpd.points_from_xy(errors.longitude, errors.latitude))
-    print(errors_map[errors_map['colour'] == 'green'])
+    print(errors_map)
 
     world = gpd.read_file(get_path("naturalearth.land"))
 
@@ -211,9 +211,8 @@ def main(config):
     if not os.path.exists(dir_MSE):
         os.makedirs(dir_MSE)
 
-    # store_visuals(actuals, results, cities, dir)
+    store_visuals(actuals, results, cities, dir)
     MSEs = get_MSE(actuals_all, results_all, cities_all, dir_MSE, config)
-    # MSEs = get_MSE(actuals, results, cities, dir_MSE, config)
     # get_lon_lat(MSEs) #only run this once - will take 30 min and store a csv file of the coordinates
     map_MSE(MSEs, dir_MSE)
 
