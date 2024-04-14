@@ -56,7 +56,6 @@ pip3 install torch pandas numpy matplotlib pyyaml tqdm scikit-learn
 
   2) From the root directory: 
     
-    
     python3 train.py configs/ce_pca_category.yml
     
 
@@ -67,6 +66,11 @@ If there was a problem with embedding generation (even though there shouldnt be 
 Then one can observe results in under ```experiments/<experiment name from config file>/```
 The predictions are stored every 1000 epochs under ```visuals/``` and the loss is plotted iteratively in ```loss.png```
 
+
+  
+  ### Data Visualizations 
+  From the root directory:  
+      ```python3 visualize.py <experiment name from config file>```
 
 ## [License](https://github.com/ShayGeko/ProjectTourOSM/blob/main/LICENSE)
 MIT © [Heorhii Shramko](https://github.com/ShayGeko)
