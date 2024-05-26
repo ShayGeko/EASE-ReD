@@ -1,4 +1,4 @@
-# Project Tour OSM
+# EASE-ReD
 > CMPT 353 - E100 SPRING 2024 Final Project
 
 An exploratory analysis to investigate the potential correlation between restaurant cuisine and the ethnic demographics of the local population.  
@@ -40,7 +40,7 @@ pip3 install torch pandas numpy matplotlib pyyaml tqdm scikit-learn dask
 ## Run 
   ### Step 1. Clone the Repository 
   ```
-  git clone git@github.com:ShayGeko/ProjectTourOSM.git
+  git clone git@github.com:ShayGeko/EASE-ReD.git
   ```
   ```  
   cd ProjectTourOSM
