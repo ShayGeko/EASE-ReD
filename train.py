@@ -35,11 +35,11 @@ def store_visuals(actuals, predictions, cities, file):
         ax.bar(x + width/2, predictions[i], width, label='Predicted')
         ax.set_ylim(0, 1)
         
-        print(f'City: {city}')
-        print("actuals:")
-        print(actuals[i])
-        print("predictions:")
-        print(predictions[i])
+        tqdm.write(f'City: {city}')
+        tqdm.write("actuals:")
+        tqdm.write(str(actuals[i]))
+        tqdm.write("predictions:")
+        tqdm.write(str(predictions[i]))
         ax.legend()
 
     # Adjust or remove empty subplots if cities < nrows*ncols
@@ -92,7 +92,7 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
                 val_outputs = model(X_test)
                 val_loss = criterion(val_outputs, y_test)
                 val_losses.append(val_loss.item())
-            print(f'Epoch {epoch}, train loss: {loss.item()}, validation loss: {val_losses[-1]}')
+            tqdm.write(f'Epoch {epoch}, train loss: {loss.item()}, validation loss: {val_losses[-1]}')
             train_losses.append(loss.item())
 
 
@@ -107,17 +107,20 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
             plt.savefig(f'./experiments/{name}/loss.png')
             plt.close()
 
-        if epoch > 0 and epoch % 1000 == 0:
+        if epoch > 0 and epoch % 1000 == 0 or epoch == num_epochs - 1:
             store_dir = f'./experiments/{name}/models'
             if not os.path.exists(store_dir):
                 os.makedirs(store_dir)
+            
+            tag = epoch if epoch < num_epochs - 1 else 'final'
+            path = f'./experiments/{name}/models/model-{tag}.pth'
             torch.save(model, f'./experiments/{name}/models/model-{epoch}.pth')
             
             model.eval()
             predictions = model(X_test)
             if(config['loss'] == 'CrossEntropy'):
                 predictions = nn.functional.softmax(predictions, dim=1)
-            print(predictions.shape)
+            tqdm.write(str(predictions.shape))
 
             results = predictions.detach().numpy()
             actuals = y_test.detach().numpy()
@@ -130,6 +133,9 @@ def train_model(X_train, X_test, y_train, y_test, test_counties, config):
                 os.makedirs(dir)
 
             store_visuals(actuals, results, counties, file)
+
+            tqdm.write(f'Model saved to {path}')
+            tqdm.write(f'Visualizations saved to {file}')
             
         loss.backward()
         optimizer.step()
@@ -159,7 +165,9 @@ def main(config):
     model = train_model(X_train, X_test, y_train, y_test, test_counties, config)
     
     # save model
-    torch.save(model, f'./experiments/{name}/models/final.pth')
+    save_path = f'./experiments/{name}/models/final.pth'
+    torch.save(model, save_path)
+    print(f"Model saved to {save_path}")
 
 
 if __name__ == "__main__":
