@@ -52,7 +52,7 @@ pip3 install torch pandas numpy matplotlib pyyaml tqdm scikit-learn dask
 ## Running 
   ### Step 1. Clone the Repository 
   ```
-  git clone git@github.com:ShayGeko/ProjectTourOSM.git
+  git clone git@github.com:ShayGeko/EASE-ReD.git
   ```
   ```  
   cd ProjectTourOSM
