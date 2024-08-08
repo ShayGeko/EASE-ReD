@@ -66,16 +66,13 @@ pip3 install torch pandas numpy matplotlib pyyaml tqdm scikit-learn dask
     python3 create_embeddings.py
     
 
-  ### Step 3. Train on the Embeddings 
-  1) Go to ```configs/ce_pca_category.yml``` and increment the counter in the ```name```  
-    e.g. ```name: 'ce-category-embedding-1'``` -> ```name: 'ce-category-embedding-2'```
-
-  2) From the root directory: 
-    
+  ### Step 3. Train on the Embeddings    
     python3 train.py configs/ce_pca_category.yml
-    
-
   will train with CrossEntropy loss on the PCA'd embeddings
+    
+There are other config files for other losses and datasets available under ```configs/```. </br>
+For example, to train on the embeddings without PCA, one can use ```ce_category.yml```. To train with the restaurant names instead of categories, one can use ```ce_pca_name.yml``` or ```ce_name.yml```.
+
 
 If there was a problem with embedding generation (even though there shouldnt be 🙏), you can use the other embedding file for names instead of categories. Just change the config file in **Step 3** from ```ce_pca_category.yml``` to ```ce_pca_name.yml ```
 
@@ -190,7 +187,7 @@ ethnic classification. For example, in OSM, cuisine types classified and formatt
 American”, “American-Italian; Pizza”, “Sushi”, etc. were very common. Due to this, another
 method was needed in order to utilize the data efficiently as possible. <br/>
 Upon conducting literature research to explore new methods, word embeddings such as
-word2vec were discovered. In summary, it is a Neural Network that transforms words into
+`word2vec` were discovered. In summary, it is a Neural Network that transforms words into
 high-dimensional vectors that represent the “semantics” of the word, allowing algebraic
 operations to be performed on it without any semantic loss. For example, when defining $𝑒(“𝑤𝑜𝑟𝑑”)$
 as the output of such a model:
@@ -204,9 +201,9 @@ $$
 
 This served as a better alternative to “clean” the restaurant cuisine data by using a simple
 approach to compute the mean of embeddings of all cuisine types for each city or county.
-Sentence Embedding (from SentenceTransformers library) was utilized instead of Word
+**Sentence Embedding** (from `SentenceTransformers` library) was utilized instead of Word
 Embedding, as some cuisine types contained more than one word. While this approach was
-simple, it proved to be extremely powerful.With embeddings that are no concerns about the
+simple, it proved to be extremely powerful. With embeddings that are no concerns about the
 domain of ‘permissible’ cuisine types - anything goes; there are also no longer any worries about
 typos or even the 'format'. Beyond that, the pipeline became agnostic to the domain it was trained
 on: it switched from OSM cuisine tag to Bing restaurant category tag seamlessly, but was also
