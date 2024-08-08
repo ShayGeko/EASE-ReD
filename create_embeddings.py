@@ -95,7 +95,7 @@ def generate_embeddings_from_bing_maps(model, input, output, pca_output, shouldD
         pca_embeddings = pca_embeddings.sort_values(by=['county'])
         pca_embeddings.to_csv(pca_output, index=False)
 
-def generate_embeddings_from_osm(model, input="./osm/data/", output="./predictions_input/embeddings.csv"):
+def generate_embeddings_from_osm(model, input="./data/osm/data/", output="./data/predictions_input/embeddings.csv"):
     """
     Expects a list of .json.gz files in input directory
     Each file should be in format f"<datasource>-<city>-<state>-<whatever>.json.gz"
@@ -105,7 +105,7 @@ def generate_embeddings_from_osm(model, input="./osm/data/", output="./predictio
     files = os.listdir(input)
     cities = []
 
-    pca_output = "./predictions_input/pca_embeddings.csv"
+    pca_output = "./data/predictions_input/pca_embeddings.csv"
 
     all_embeddings = []
     for file in tqdm(files):
@@ -155,9 +155,9 @@ def main():
     # generate_embeddings_from_osm(model)
 
 
-    input_file = "./bingMaps/restaurantCategory/"
-    output_file = "./embeddings/category_bing_embeddings.csv"
-    pca_output_file = "./embeddings/pca_category_bing_embeddings.csv"
+    input_file = "./data/bingMaps/restaurantCategory/"
+    output_file = "./data/embeddings/category_bing_embeddings.csv"
+    pca_output_file = "./data/embeddings/pca_category_bing_embeddings.csv"
     isNeededToParse = True
     columnName = 'Categories'
     shouldDoPCA = True
